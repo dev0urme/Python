@@ -1,0 +1,4888 @@
+,value,location,sample date,measure
+0,2,Boonsri,11-Jan-98,Water temperature
+1,"9,1",Boonsri,11-Jan-98,Dissolved oxygen
+2,"0,33",Boonsri,11-Jan-98,Ammonium
+3,"0,01",Boonsri,11-Jan-98,Nitrites
+4,"1,47",Boonsri,11-Jan-98,Nitrates
+5,"0,06",Boonsri,11-Jan-98,Orthophosphate-phosphorus
+6,"0,09",Boonsri,11-Jan-98,Total phosphorus
+7,"13,9",Boonsri,11-Jan-98,Sodium
+8,"3,5",Boonsri,11-Jan-98,Potassium
+9,52,Boonsri,11-Jan-98,Calcium
+10,"9,7",Boonsri,11-Jan-98,Magnesium
+11,"19,2",Boonsri,11-Jan-98,Chlorides
+12,"36,7",Boonsri,11-Jan-98,Sulphates
+13,"4,95",Boonsri,11-Jan-98,Iron
+14,"0,01",Boonsri,11-Jan-98,Manganese
+15,21,Boonsri,11-Jan-98,Zinc
+16,22,Boonsri,11-Jan-98,Copper
+17,17,Boonsri,11-Jan-98,Chromium
+18,0,Boonsri,11-Jan-98,Lead
+19,0,Boonsri,11-Jan-98,Cadmium
+20,0,Boonsri,11-Jan-98,Mercury
+21,5,Boonsri,11-Jan-98,Nickel
+22,0,Boonsri,11-Jan-98,Arsenic
+23,"3,6",Boonsri,11-Jan-98,Biochemical Oxygen
+24,"13,8",Boonsri,11-Jan-98,Chemical Oxygen Demand (Cr)
+25,"4,8",Boonsri,11-Jan-98,Chemical Oxygen Demand (Mn)
+26,0,Boonsri,11-Jan-98,AOX
+27,0,Boonsri,11-Jan-98,Atrazine
+28,0,Boonsri,11-Jan-98,Cesium
+29,0,Boonsri,11-Jan-98,Macrozoobenthos
+30,"0,95",Boonsri,11-Jan-98,Total coliforms
+31,0,Boonsri,11-Jan-98,Fecal coliforms
+32,1,Kannika,26-Jan-98,Water temperature
+33,"12,1",Kannika,26-Jan-98,Dissolved oxygen
+34,"0,3",Kannika,26-Jan-98,Ammonium
+35,"0,03",Kannika,26-Jan-98,Nitrites
+36,"1,03",Kannika,26-Jan-98,Nitrates
+37,"0,07",Kannika,26-Jan-98,Orthophosphate-phosphorus
+38,"0,09",Kannika,26-Jan-98,Total phosphorus
+39,"21,26",Kannika,26-Jan-98,Sodium
+40,"3,2",Kannika,26-Jan-98,Potassium
+41,"67,19",Kannika,26-Jan-98,Calcium
+42,"9,33",Kannika,26-Jan-98,Magnesium
+43,"26,59",Kannika,26-Jan-98,Chlorides
+44,"39,96",Kannika,26-Jan-98,Sulphates
+45,"0,1",Kannika,26-Jan-98,Iron
+46,0,Kannika,26-Jan-98,Manganese
+47,0,Kannika,26-Jan-98,Zinc
+48,10,Kannika,26-Jan-98,Copper
+49,10,Kannika,26-Jan-98,Chromium
+50,0,Kannika,26-Jan-98,Lead
+51,0,Kannika,26-Jan-98,Cadmium
+52,0,Kannika,26-Jan-98,Mercury
+53,30,Kannika,26-Jan-98,Nickel
+54,0,Kannika,26-Jan-98,Arsenic
+55,"2,2",Kannika,26-Jan-98,Biochemical Oxygen
+56,"9,4",Kannika,26-Jan-98,Chemical Oxygen Demand (Cr)
+57,"3,7",Kannika,26-Jan-98,Chemical Oxygen Demand (Mn)
+58,0,Kannika,26-Jan-98,AOX
+59,0,Kannika,26-Jan-98,Atrazine
+60,0,Kannika,26-Jan-98,Cesium
+61,0,Kannika,26-Jan-98,Macrozoobenthos
+62,0,Kannika,26-Jan-98,Total coliforms
+63,0,Kannika,26-Jan-98,Fecal coliforms
+64,1,Kannika,26-Jan-98,Water temperature
+65,"11,07",Kannika,26-Jan-98,Dissolved oxygen
+66,"0,28",Kannika,26-Jan-98,Ammonium
+67,"0,03",Kannika,26-Jan-98,Nitrites
+68,1,Kannika,26-Jan-98,Nitrates
+69,"0,07",Kannika,26-Jan-98,Orthophosphate-phosphorus
+70,"0,1",Kannika,26-Jan-98,Total phosphorus
+71,22,Kannika,26-Jan-98,Sodium
+72,"3,2",Kannika,26-Jan-98,Potassium
+73,"66,4",Kannika,26-Jan-98,Calcium
+74,"8,8",Kannika,26-Jan-98,Magnesium
+75,"26,6",Kannika,26-Jan-98,Chlorides
+76,"41,9",Kannika,26-Jan-98,Sulphates
+77,"0,1",Kannika,26-Jan-98,Iron
+78,0,Kannika,26-Jan-98,Manganese
+79,0,Kannika,26-Jan-98,Zinc
+80,10,Kannika,26-Jan-98,Copper
+81,10,Kannika,26-Jan-98,Chromium
+82,0,Kannika,26-Jan-98,Lead
+83,0,Kannika,26-Jan-98,Cadmium
+84,0,Kannika,26-Jan-98,Mercury
+85,30,Kannika,26-Jan-98,Nickel
+86,0,Kannika,26-Jan-98,Arsenic
+87,"2,1",Kannika,26-Jan-98,Biochemical Oxygen
+88,10,Kannika,26-Jan-98,Chemical Oxygen Demand (Cr)
+89,"3,9",Kannika,26-Jan-98,Chemical Oxygen Demand (Mn)
+90,0,Kannika,26-Jan-98,AOX
+91,0,Kannika,26-Jan-98,Atrazine
+92,0,Kannika,26-Jan-98,Cesium
+93,0,Kannika,26-Jan-98,Macrozoobenthos
+94,0,Kannika,26-Jan-98,Total coliforms
+95,0,Kannika,26-Jan-98,Fecal coliforms
+96,1,Kannika,26-Jan-98,Water temperature
+97,"11,48",Kannika,26-Jan-98,Dissolved oxygen
+98,"0,27",Kannika,26-Jan-98,Ammonium
+99,"0,03",Kannika,26-Jan-98,Nitrites
+100,"0,98",Kannika,26-Jan-98,Nitrates
+101,"0,07",Kannika,26-Jan-98,Orthophosphate-phosphorus
+102,"0,1",Kannika,26-Jan-98,Total phosphorus
+103,"21,2",Kannika,26-Jan-98,Sodium
+104,"3,3",Kannika,26-Jan-98,Potassium
+105,"67,2",Kannika,26-Jan-98,Calcium
+106,"9,3",Kannika,26-Jan-98,Magnesium
+107,"28,4",Kannika,26-Jan-98,Chlorides
+108,39,Kannika,26-Jan-98,Sulphates
+109,"0,11",Kannika,26-Jan-98,Iron
+110,0,Kannika,26-Jan-98,Manganese
+111,0,Kannika,26-Jan-98,Zinc
+112,10,Kannika,26-Jan-98,Copper
+113,10,Kannika,26-Jan-98,Chromium
+114,0,Kannika,26-Jan-98,Lead
+115,0,Kannika,26-Jan-98,Cadmium
+116,0,Kannika,26-Jan-98,Mercury
+117,30,Kannika,26-Jan-98,Nickel
+118,0,Kannika,26-Jan-98,Arsenic
+119,"2,1",Kannika,26-Jan-98,Biochemical Oxygen
+120,"9,8",Kannika,26-Jan-98,Chemical Oxygen Demand (Cr)
+121,"3,7",Kannika,26-Jan-98,Chemical Oxygen Demand (Mn)
+122,0,Kannika,26-Jan-98,AOX
+123,0,Kannika,26-Jan-98,Atrazine
+124,0,Kannika,26-Jan-98,Cesium
+125,0,Kannika,26-Jan-98,Macrozoobenthos
+126,0,Kannika,26-Jan-98,Total coliforms
+127,0,Kannika,26-Jan-98,Fecal coliforms
+128,2,Chai,31-Jan-98,Water temperature
+129,"7,9",Chai,31-Jan-98,Dissolved oxygen
+130,"0,4",Chai,31-Jan-98,Ammonium
+131,"0,03",Chai,31-Jan-98,Nitrites
+132,"1,31",Chai,31-Jan-98,Nitrates
+133,"0,04",Chai,31-Jan-98,Orthophosphate-phosphorus
+134,"0,08",Chai,31-Jan-98,Total phosphorus
+135,"25,3",Chai,31-Jan-98,Sodium
+136,"4,1",Chai,31-Jan-98,Potassium
+137,"52,6",Chai,31-Jan-98,Calcium
+138,"14,8",Chai,31-Jan-98,Magnesium
+139,"37,9",Chai,31-Jan-98,Chlorides
+140,"59,8",Chai,31-Jan-98,Sulphates
+141,"0,06",Chai,31-Jan-98,Iron
+142,0,Chai,31-Jan-98,Manganese
+143,0,Chai,31-Jan-98,Zinc
+144,0,Chai,31-Jan-98,Copper
+145,0,Chai,31-Jan-98,Chromium
+146,0,Chai,31-Jan-98,Lead
+147,0,Chai,31-Jan-98,Cadmium
+148,0,Chai,31-Jan-98,Mercury
+149,0,Chai,31-Jan-98,Nickel
+150,0,Chai,31-Jan-98,Arsenic
+151,"3,7",Chai,31-Jan-98,Biochemical Oxygen
+152,"8,9",Chai,31-Jan-98,Chemical Oxygen Demand (Cr)
+153,"9,3",Chai,31-Jan-98,Chemical Oxygen Demand (Mn)
+154,0,Chai,31-Jan-98,AOX
+155,0,Chai,31-Jan-98,Atrazine
+156,0,Chai,31-Jan-98,Cesium
+157,0,Chai,31-Jan-98,Macrozoobenthos
+158,0,Chai,31-Jan-98,Total coliforms
+159,0,Chai,31-Jan-98,Fecal coliforms
+160,2,Chai,31-Jan-98,Water temperature
+161,8,Chai,31-Jan-98,Dissolved oxygen
+162,"0,4",Chai,31-Jan-98,Ammonium
+163,"0,02",Chai,31-Jan-98,Nitrites
+164,"1,3",Chai,31-Jan-98,Nitrates
+165,"0,06",Chai,31-Jan-98,Orthophosphate-phosphorus
+166,"0,1",Chai,31-Jan-98,Total phosphorus
+167,"26,2",Chai,31-Jan-98,Sodium
+168,4,Chai,31-Jan-98,Potassium
+169,"51,8",Chai,31-Jan-98,Calcium
+170,"14,6",Chai,31-Jan-98,Magnesium
+171,"36,8",Chai,31-Jan-98,Chlorides
+172,"55,6",Chai,31-Jan-98,Sulphates
+173,"0,04",Chai,31-Jan-98,Iron
+174,0,Chai,31-Jan-98,Manganese
+175,0,Chai,31-Jan-98,Zinc
+176,0,Chai,31-Jan-98,Copper
+177,0,Chai,31-Jan-98,Chromium
+178,0,Chai,31-Jan-98,Lead
+179,0,Chai,31-Jan-98,Cadmium
+180,0,Chai,31-Jan-98,Mercury
+181,0,Chai,31-Jan-98,Nickel
+182,0,Chai,31-Jan-98,Arsenic
+183,"2,9",Chai,31-Jan-98,Biochemical Oxygen
+184,"8,8",Chai,31-Jan-98,Chemical Oxygen Demand (Cr)
+185,9,Chai,31-Jan-98,Chemical Oxygen Demand (Mn)
+186,0,Chai,31-Jan-98,AOX
+187,0,Chai,31-Jan-98,Atrazine
+188,0,Chai,31-Jan-98,Cesium
+189,0,Chai,31-Jan-98,Macrozoobenthos
+190,0,Chai,31-Jan-98,Total coliforms
+191,0,Chai,31-Jan-98,Fecal coliforms
+192,2,Chai,31-Jan-98,Water temperature
+193,8,Chai,31-Jan-98,Dissolved oxygen
+194,"0,41",Chai,31-Jan-98,Ammonium
+195,"0,03",Chai,31-Jan-98,Nitrites
+196,"1,37",Chai,31-Jan-98,Nitrates
+197,"0,04",Chai,31-Jan-98,Orthophosphate-phosphorus
+198,"0,08",Chai,31-Jan-98,Total phosphorus
+199,"25,8",Chai,31-Jan-98,Sodium
+200,"4,7",Chai,31-Jan-98,Potassium
+201,"56,9",Chai,31-Jan-98,Calcium
+202,"15,2",Chai,31-Jan-98,Magnesium
+203,"38,3",Chai,31-Jan-98,Chlorides
+204,"59,2",Chai,31-Jan-98,Sulphates
+205,"0,07",Chai,31-Jan-98,Iron
+206,0,Chai,31-Jan-98,Manganese
+207,0,Chai,31-Jan-98,Zinc
+208,0,Chai,31-Jan-98,Copper
+209,0,Chai,31-Jan-98,Chromium
+210,0,Chai,31-Jan-98,Lead
+211,0,Chai,31-Jan-98,Cadmium
+212,0,Chai,31-Jan-98,Mercury
+213,0,Chai,31-Jan-98,Nickel
+214,0,Chai,31-Jan-98,Arsenic
+215,"2,9",Chai,31-Jan-98,Biochemical Oxygen
+216,10,Chai,31-Jan-98,Chemical Oxygen Demand (Cr)
+217,"9,7",Chai,31-Jan-98,Chemical Oxygen Demand (Mn)
+218,0,Chai,31-Jan-98,AOX
+219,0,Chai,31-Jan-98,Atrazine
+220,0,Chai,31-Jan-98,Cesium
+221,0,Chai,31-Jan-98,Macrozoobenthos
+222,0,Chai,31-Jan-98,Total coliforms
+223,0,Chai,31-Jan-98,Fecal coliforms
+224,5,Boonsri,15-Feb-98,Water temperature
+225,"11,5",Boonsri,15-Feb-98,Dissolved oxygen
+226,"0,14",Boonsri,15-Feb-98,Ammonium
+227,"0,03",Boonsri,15-Feb-98,Nitrites
+228,"2,5",Boonsri,15-Feb-98,Nitrates
+229,"0,02",Boonsri,15-Feb-98,Orthophosphate-phosphorus
+230,"0,06",Boonsri,15-Feb-98,Total phosphorus
+231,"13,6",Boonsri,15-Feb-98,Sodium
+232,"3,2",Boonsri,15-Feb-98,Potassium
+233,56,Boonsri,15-Feb-98,Calcium
+234,"24,2",Boonsri,15-Feb-98,Magnesium
+235,"24,1",Boonsri,15-Feb-98,Chlorides
+236,"49,8",Boonsri,15-Feb-98,Sulphates
+237,"2,84",Boonsri,15-Feb-98,Iron
+238,"0,02",Boonsri,15-Feb-98,Manganese
+239,15,Boonsri,15-Feb-98,Zinc
+240,5,Boonsri,15-Feb-98,Copper
+241,9,Boonsri,15-Feb-98,Chromium
+242,0,Boonsri,15-Feb-98,Lead
+243,0,Boonsri,15-Feb-98,Cadmium
+244,0,Boonsri,15-Feb-98,Mercury
+245,2,Boonsri,15-Feb-98,Nickel
+246,0,Boonsri,15-Feb-98,Arsenic
+247,"3,8",Boonsri,15-Feb-98,Biochemical Oxygen
+248,"13,4",Boonsri,15-Feb-98,Chemical Oxygen Demand (Cr)
+249,"4,7",Boonsri,15-Feb-98,Chemical Oxygen Demand (Mn)
+250,0,Boonsri,15-Feb-98,AOX
+251,0,Boonsri,15-Feb-98,Atrazine
+252,0,Boonsri,15-Feb-98,Cesium
+253,0,Boonsri,15-Feb-98,Macrozoobenthos
+254,"0,84",Boonsri,15-Feb-98,Total coliforms
+255,0,Boonsri,15-Feb-98,Fecal coliforms
+256,4,Chai,20-Feb-98,Water temperature
+257,"8,04",Chai,20-Feb-98,Dissolved oxygen
+258,"0,77",Chai,20-Feb-98,Ammonium
+259,"0,02",Chai,20-Feb-98,Nitrites
+260,"1,87",Chai,20-Feb-98,Nitrates
+261,"0,06",Chai,20-Feb-98,Orthophosphate-phosphorus
+262,"0,12",Chai,20-Feb-98,Total phosphorus
+263,25,Chai,20-Feb-98,Sodium
+264,"4,8",Chai,20-Feb-98,Potassium
+265,"62,87",Chai,20-Feb-98,Calcium
+266,"21,63",Chai,20-Feb-98,Magnesium
+267,"41,74",Chai,20-Feb-98,Chlorides
+268,"61,44",Chai,20-Feb-98,Sulphates
+269,"0,1",Chai,20-Feb-98,Iron
+270,0,Chai,20-Feb-98,Manganese
+271,0,Chai,20-Feb-98,Zinc
+272,0,Chai,20-Feb-98,Copper
+273,0,Chai,20-Feb-98,Chromium
+274,0,Chai,20-Feb-98,Lead
+275,0,Chai,20-Feb-98,Cadmium
+276,0,Chai,20-Feb-98,Mercury
+277,5,Chai,20-Feb-98,Nickel
+278,0,Chai,20-Feb-98,Arsenic
+279,"3,3",Chai,20-Feb-98,Biochemical Oxygen
+280,"9,1",Chai,20-Feb-98,Chemical Oxygen Demand (Cr)
+281,"10,07",Chai,20-Feb-98,Chemical Oxygen Demand (Mn)
+282,0,Chai,20-Feb-98,AOX
+283,0,Chai,20-Feb-98,Atrazine
+284,0,Chai,20-Feb-98,Cesium
+285,0,Chai,20-Feb-98,Macrozoobenthos
+286,0,Chai,20-Feb-98,Total coliforms
+287,0,Chai,20-Feb-98,Fecal coliforms
+288,4,Chai,20-Feb-98,Water temperature
+289,"8,5",Chai,20-Feb-98,Dissolved oxygen
+290,"0,6",Chai,20-Feb-98,Ammonium
+291,"0,02",Chai,20-Feb-98,Nitrites
+292,"2,03",Chai,20-Feb-98,Nitrates
+293,"0,06",Chai,20-Feb-98,Orthophosphate-phosphorus
+294,"0,1",Chai,20-Feb-98,Total phosphorus
+295,23,Chai,20-Feb-98,Sodium
+296,"4,2",Chai,20-Feb-98,Potassium
+297,"62,02",Chai,20-Feb-98,Calcium
+298,"22,82",Chai,20-Feb-98,Magnesium
+299,"44,79",Chai,20-Feb-98,Chlorides
+300,"60,1",Chai,20-Feb-98,Sulphates
+301,"0,1",Chai,20-Feb-98,Iron
+302,0,Chai,20-Feb-98,Manganese
+303,0,Chai,20-Feb-98,Zinc
+304,0,Chai,20-Feb-98,Copper
+305,0,Chai,20-Feb-98,Chromium
+306,0,Chai,20-Feb-98,Lead
+307,0,Chai,20-Feb-98,Cadmium
+308,0,Chai,20-Feb-98,Mercury
+309,0,Chai,20-Feb-98,Nickel
+310,0,Chai,20-Feb-98,Arsenic
+311,"3,5",Chai,20-Feb-98,Biochemical Oxygen
+312,"9,1",Chai,20-Feb-98,Chemical Oxygen Demand (Cr)
+313,"10,07",Chai,20-Feb-98,Chemical Oxygen Demand (Mn)
+314,0,Chai,20-Feb-98,AOX
+315,0,Chai,20-Feb-98,Atrazine
+316,0,Chai,20-Feb-98,Cesium
+317,0,Chai,20-Feb-98,Macrozoobenthos
+318,0,Chai,20-Feb-98,Total coliforms
+319,0,Chai,20-Feb-98,Fecal coliforms
+320,4,Chai,20-Feb-98,Water temperature
+321,"8,84",Chai,20-Feb-98,Dissolved oxygen
+322,"0,32",Chai,20-Feb-98,Ammonium
+323,"0,02",Chai,20-Feb-98,Nitrites
+324,"1,71",Chai,20-Feb-98,Nitrates
+325,"0,04",Chai,20-Feb-98,Orthophosphate-phosphorus
+326,"0,12",Chai,20-Feb-98,Total phosphorus
+327,20,Chai,20-Feb-98,Sodium
+328,4,Chai,20-Feb-98,Potassium
+329,"62,87",Chai,20-Feb-98,Calcium
+330,"24,42",Chai,20-Feb-98,Magnesium
+331,"41,31",Chai,20-Feb-98,Chlorides
+332,"61,3",Chai,20-Feb-98,Sulphates
+333,"0,11",Chai,20-Feb-98,Iron
+334,0,Chai,20-Feb-98,Manganese
+335,0,Chai,20-Feb-98,Zinc
+336,0,Chai,20-Feb-98,Copper
+337,0,Chai,20-Feb-98,Chromium
+338,0,Chai,20-Feb-98,Lead
+339,0,Chai,20-Feb-98,Cadmium
+340,0,Chai,20-Feb-98,Mercury
+341,0,Chai,20-Feb-98,Nickel
+342,0,Chai,20-Feb-98,Arsenic
+343,"2,1",Chai,20-Feb-98,Biochemical Oxygen
+344,"8,9",Chai,20-Feb-98,Chemical Oxygen Demand (Cr)
+345,"9,4",Chai,20-Feb-98,Chemical Oxygen Demand (Mn)
+346,0,Chai,20-Feb-98,AOX
+347,0,Chai,20-Feb-98,Atrazine
+348,0,Chai,20-Feb-98,Cesium
+349,0,Chai,20-Feb-98,Macrozoobenthos
+350,0,Chai,20-Feb-98,Total coliforms
+351,0,Chai,20-Feb-98,Fecal coliforms
+352,5,Kannika,24-Feb-98,Water temperature
+353,"10,4",Kannika,24-Feb-98,Dissolved oxygen
+354,"0,14",Kannika,24-Feb-98,Ammonium
+355,"0,05",Kannika,24-Feb-98,Nitrites
+356,"2,24",Kannika,24-Feb-98,Nitrates
+357,"0,07",Kannika,24-Feb-98,Orthophosphate-phosphorus
+358,"0,1",Kannika,24-Feb-98,Total phosphorus
+359,"20,4",Kannika,24-Feb-98,Sodium
+360,"2,8",Kannika,24-Feb-98,Potassium
+361,"52,3",Kannika,24-Feb-98,Calcium
+362,"11,9",Kannika,24-Feb-98,Magnesium
+363,"28,1",Kannika,24-Feb-98,Chlorides
+364,"34,5",Kannika,24-Feb-98,Sulphates
+365,"0,8",Kannika,24-Feb-98,Iron
+366,0,Kannika,24-Feb-98,Manganese
+367,0,Kannika,24-Feb-98,Zinc
+368,0,Kannika,24-Feb-98,Copper
+369,6,Kannika,24-Feb-98,Chromium
+370,0,Kannika,24-Feb-98,Lead
+371,0,Kannika,24-Feb-98,Cadmium
+372,0,Kannika,24-Feb-98,Mercury
+373,0,Kannika,24-Feb-98,Nickel
+374,0,Kannika,24-Feb-98,Arsenic
+375,"2,5",Kannika,24-Feb-98,Biochemical Oxygen
+376,"11,2",Kannika,24-Feb-98,Chemical Oxygen Demand (Cr)
+377,"3,7",Kannika,24-Feb-98,Chemical Oxygen Demand (Mn)
+378,0,Kannika,24-Feb-98,AOX
+379,0,Kannika,24-Feb-98,Atrazine
+380,0,Kannika,24-Feb-98,Cesium
+381,0,Kannika,24-Feb-98,Macrozoobenthos
+382,0,Kannika,24-Feb-98,Total coliforms
+383,0,Kannika,24-Feb-98,Fecal coliforms
+384,5,Kannika,24-Feb-98,Water temperature
+385,"10,4",Kannika,24-Feb-98,Dissolved oxygen
+386,"0,13",Kannika,24-Feb-98,Ammonium
+387,"0,05",Kannika,24-Feb-98,Nitrites
+388,"2,16",Kannika,24-Feb-98,Nitrates
+389,"0,07",Kannika,24-Feb-98,Orthophosphate-phosphorus
+390,"0,1",Kannika,24-Feb-98,Total phosphorus
+391,"19,5",Kannika,24-Feb-98,Sodium
+392,"2,8",Kannika,24-Feb-98,Potassium
+393,"52,3",Kannika,24-Feb-98,Calcium
+394,"11,9",Kannika,24-Feb-98,Magnesium
+395,"28,4",Kannika,24-Feb-98,Chlorides
+396,"32,5",Kannika,24-Feb-98,Sulphates
+397,"0,08",Kannika,24-Feb-98,Iron
+398,0,Kannika,24-Feb-98,Manganese
+399,0,Kannika,24-Feb-98,Zinc
+400,0,Kannika,24-Feb-98,Copper
+401,6,Kannika,24-Feb-98,Chromium
+402,0,Kannika,24-Feb-98,Lead
+403,0,Kannika,24-Feb-98,Cadmium
+404,0,Kannika,24-Feb-98,Mercury
+405,0,Kannika,24-Feb-98,Nickel
+406,0,Kannika,24-Feb-98,Arsenic
+407,"2,8",Kannika,24-Feb-98,Biochemical Oxygen
+408,"10,9",Kannika,24-Feb-98,Chemical Oxygen Demand (Cr)
+409,"3,7",Kannika,24-Feb-98,Chemical Oxygen Demand (Mn)
+410,0,Kannika,24-Feb-98,AOX
+411,0,Kannika,24-Feb-98,Atrazine
+412,0,Kannika,24-Feb-98,Cesium
+413,0,Kannika,24-Feb-98,Macrozoobenthos
+414,0,Kannika,24-Feb-98,Total coliforms
+415,0,Kannika,24-Feb-98,Fecal coliforms
+416,5,Kannika,24-Feb-98,Water temperature
+417,"10,4",Kannika,24-Feb-98,Dissolved oxygen
+418,"0,14",Kannika,24-Feb-98,Ammonium
+419,"0,04",Kannika,24-Feb-98,Nitrites
+420,"2,13",Kannika,24-Feb-98,Nitrates
+421,"0,07",Kannika,24-Feb-98,Orthophosphate-phosphorus
+422,"0,11",Kannika,24-Feb-98,Total phosphorus
+423,"20,4",Kannika,24-Feb-98,Sodium
+424,"2,8",Kannika,24-Feb-98,Potassium
+425,"52,3",Kannika,24-Feb-98,Calcium
+426,"11,9",Kannika,24-Feb-98,Magnesium
+427,"28,1",Kannika,24-Feb-98,Chlorides
+428,"35,5",Kannika,24-Feb-98,Sulphates
+429,"0,07",Kannika,24-Feb-98,Iron
+430,0,Kannika,24-Feb-98,Manganese
+431,0,Kannika,24-Feb-98,Zinc
+432,0,Kannika,24-Feb-98,Copper
+433,6,Kannika,24-Feb-98,Chromium
+434,0,Kannika,24-Feb-98,Lead
+435,0,Kannika,24-Feb-98,Cadmium
+436,0,Kannika,24-Feb-98,Mercury
+437,0,Kannika,24-Feb-98,Nickel
+438,0,Kannika,24-Feb-98,Arsenic
+439,"2,8",Kannika,24-Feb-98,Biochemical Oxygen
+440,"11,1",Kannika,24-Feb-98,Chemical Oxygen Demand (Cr)
+441,4,Kannika,24-Feb-98,Chemical Oxygen Demand (Mn)
+442,0,Kannika,24-Feb-98,AOX
+443,0,Kannika,24-Feb-98,Atrazine
+444,0,Kannika,24-Feb-98,Cesium
+445,0,Kannika,24-Feb-98,Macrozoobenthos
+446,0,Kannika,24-Feb-98,Total coliforms
+447,0,Kannika,24-Feb-98,Fecal coliforms
+448,2,Boonsri,12-Mar-98,Water temperature
+449,11,Boonsri,12-Mar-98,Dissolved oxygen
+450,"0,2",Boonsri,12-Mar-98,Ammonium
+451,"0,03",Boonsri,12-Mar-98,Nitrites
+452,"1,9",Boonsri,12-Mar-98,Nitrates
+453,"0,05",Boonsri,12-Mar-98,Orthophosphate-phosphorus
+454,"0,08",Boonsri,12-Mar-98,Total phosphorus
+455,"13,5",Boonsri,12-Mar-98,Sodium
+456,"3,7",Boonsri,12-Mar-98,Potassium
+457,68,Boonsri,12-Mar-98,Calcium
+458,"21,7",Boonsri,12-Mar-98,Magnesium
+459,"27,7",Boonsri,12-Mar-98,Chlorides
+460,"46,5",Boonsri,12-Mar-98,Sulphates
+461,"4,57",Boonsri,12-Mar-98,Iron
+462,"0,01",Boonsri,12-Mar-98,Manganese
+463,15,Boonsri,12-Mar-98,Zinc
+464,9,Boonsri,12-Mar-98,Copper
+465,6,Boonsri,12-Mar-98,Chromium
+466,0,Boonsri,12-Mar-98,Lead
+467,0,Boonsri,12-Mar-98,Cadmium
+468,0,Boonsri,12-Mar-98,Mercury
+469,3,Boonsri,12-Mar-98,Nickel
+470,0,Boonsri,12-Mar-98,Arsenic
+471,"3,3",Boonsri,12-Mar-98,Biochemical Oxygen
+472,"13,1",Boonsri,12-Mar-98,Chemical Oxygen Demand (Cr)
+473,"4,9",Boonsri,12-Mar-98,Chemical Oxygen Demand (Mn)
+474,0,Boonsri,12-Mar-98,AOX
+475,0,Boonsri,12-Mar-98,Atrazine
+476,0,Boonsri,12-Mar-98,Cesium
+477,"2,02",Boonsri,12-Mar-98,Macrozoobenthos
+478,"1,4",Boonsri,12-Mar-98,Total coliforms
+479,0,Boonsri,12-Mar-98,Fecal coliforms
+480,4,Chai,19-Mar-98,Water temperature
+481,"8,25",Chai,19-Mar-98,Dissolved oxygen
+482,"1,78",Chai,19-Mar-98,Ammonium
+483,"0,01",Chai,19-Mar-98,Nitrites
+484,"1,76",Chai,19-Mar-98,Nitrates
+485,"0,06",Chai,19-Mar-98,Orthophosphate-phosphorus
+486,"0,15",Chai,19-Mar-98,Total phosphorus
+487,"26,5",Chai,19-Mar-98,Sodium
+488,4,Chai,19-Mar-98,Potassium
+489,"53,35",Chai,19-Mar-98,Calcium
+490,"20,05",Chai,19-Mar-98,Magnesium
+491,"42,08",Chai,19-Mar-98,Chlorides
+492,"62,5",Chai,19-Mar-98,Sulphates
+493,"0,11",Chai,19-Mar-98,Iron
+494,0,Chai,19-Mar-98,Manganese
+495,0,Chai,19-Mar-98,Zinc
+496,0,Chai,19-Mar-98,Copper
+497,0,Chai,19-Mar-98,Chromium
+498,0,Chai,19-Mar-98,Lead
+499,0,Chai,19-Mar-98,Cadmium
+500,0,Chai,19-Mar-98,Mercury
+501,5,Chai,19-Mar-98,Nickel
+502,0,Chai,19-Mar-98,Arsenic
+503,"3,2",Chai,19-Mar-98,Biochemical Oxygen
+504,"10,1",Chai,19-Mar-98,Chemical Oxygen Demand (Cr)
+505,"8,05",Chai,19-Mar-98,Chemical Oxygen Demand (Mn)
+506,0,Chai,19-Mar-98,AOX
+507,0,Chai,19-Mar-98,Atrazine
+508,0,Chai,19-Mar-98,Cesium
+509,"2,01",Chai,19-Mar-98,Macrozoobenthos
+510,0,Chai,19-Mar-98,Total coliforms
+511,0,Chai,19-Mar-98,Fecal coliforms
+512,4,Chai,19-Mar-98,Water temperature
+513,"8,38",Chai,19-Mar-98,Dissolved oxygen
+514,"1,11",Chai,19-Mar-98,Ammonium
+515,"0,01",Chai,19-Mar-98,Nitrites
+516,"1,72",Chai,19-Mar-98,Nitrates
+517,"0,04",Chai,19-Mar-98,Orthophosphate-phosphorus
+518,"0,13",Chai,19-Mar-98,Total phosphorus
+519,24,Chai,19-Mar-98,Sodium
+520,4,Chai,19-Mar-98,Potassium
+521,"59,02",Chai,19-Mar-98,Calcium
+522,"20,94",Chai,19-Mar-98,Magnesium
+523,"37,53",Chai,19-Mar-98,Chlorides
+524,"59,2",Chai,19-Mar-98,Sulphates
+525,"0,09",Chai,19-Mar-98,Iron
+526,0,Chai,19-Mar-98,Manganese
+527,0,Chai,19-Mar-98,Zinc
+528,0,Chai,19-Mar-98,Copper
+529,0,Chai,19-Mar-98,Chromium
+530,0,Chai,19-Mar-98,Lead
+531,0,Chai,19-Mar-98,Cadmium
+532,0,Chai,19-Mar-98,Mercury
+533,0,Chai,19-Mar-98,Nickel
+534,0,Chai,19-Mar-98,Arsenic
+535,"3,1",Chai,19-Mar-98,Biochemical Oxygen
+536,"9,6",Chai,19-Mar-98,Chemical Oxygen Demand (Cr)
+537,"10,07",Chai,19-Mar-98,Chemical Oxygen Demand (Mn)
+538,0,Chai,19-Mar-98,AOX
+539,0,Chai,19-Mar-98,Atrazine
+540,0,Chai,19-Mar-98,Cesium
+541,0,Chai,19-Mar-98,Macrozoobenthos
+542,0,Chai,19-Mar-98,Total coliforms
+543,0,Chai,19-Mar-98,Fecal coliforms
+544,4,Chai,19-Mar-98,Water temperature
+545,"8,31",Chai,19-Mar-98,Dissolved oxygen
+546,"0,63",Chai,19-Mar-98,Ammonium
+547,"0,01",Chai,19-Mar-98,Nitrites
+548,"1,68",Chai,19-Mar-98,Nitrates
+549,"0,04",Chai,19-Mar-98,Orthophosphate-phosphorus
+550,"0,13",Chai,19-Mar-98,Total phosphorus
+551,22,Chai,19-Mar-98,Sodium
+552,"3,9",Chai,19-Mar-98,Potassium
+553,"52,91",Chai,19-Mar-98,Calcium
+554,"19,86",Chai,19-Mar-98,Magnesium
+555,"39,8",Chai,19-Mar-98,Chlorides
+556,"56,4",Chai,19-Mar-98,Sulphates
+557,"0,11",Chai,19-Mar-98,Iron
+558,0,Chai,19-Mar-98,Manganese
+559,0,Chai,19-Mar-98,Zinc
+560,0,Chai,19-Mar-98,Copper
+561,0,Chai,19-Mar-98,Chromium
+562,0,Chai,19-Mar-98,Lead
+563,0,Chai,19-Mar-98,Cadmium
+564,0,Chai,19-Mar-98,Mercury
+565,0,Chai,19-Mar-98,Nickel
+566,0,Chai,19-Mar-98,Arsenic
+567,"2,3",Chai,19-Mar-98,Biochemical Oxygen
+568,"9,2",Chai,19-Mar-98,Chemical Oxygen Demand (Cr)
+569,"10,07",Chai,19-Mar-98,Chemical Oxygen Demand (Mn)
+570,0,Chai,19-Mar-98,AOX
+571,0,Chai,19-Mar-98,Atrazine
+572,0,Chai,19-Mar-98,Cesium
+573,0,Chai,19-Mar-98,Macrozoobenthos
+574,0,Chai,19-Mar-98,Total coliforms
+575,0,Chai,19-Mar-98,Fecal coliforms
+576,3,Kannika,21-Mar-98,Water temperature
+577,"11,02",Kannika,21-Mar-98,Dissolved oxygen
+578,"0,23",Kannika,21-Mar-98,Ammonium
+579,"0,03",Kannika,21-Mar-98,Nitrites
+580,"1,7",Kannika,21-Mar-98,Nitrates
+581,"0,05",Kannika,21-Mar-98,Orthophosphate-phosphorus
+582,"0,09",Kannika,21-Mar-98,Total phosphorus
+583,"24,2",Kannika,21-Mar-98,Sodium
+584,"2,9",Kannika,21-Mar-98,Potassium
+585,"63,84",Kannika,21-Mar-98,Calcium
+586,"14,73",Kannika,21-Mar-98,Magnesium
+587,"34,39",Kannika,21-Mar-98,Chlorides
+588,"46,11",Kannika,21-Mar-98,Sulphates
+589,"0,1",Kannika,21-Mar-98,Iron
+590,"0,1",Kannika,21-Mar-98,Manganese
+591,0,Kannika,21-Mar-98,Zinc
+592,0,Kannika,21-Mar-98,Copper
+593,10,Kannika,21-Mar-98,Chromium
+594,10,Kannika,21-Mar-98,Lead
+595,0,Kannika,21-Mar-98,Cadmium
+596,0,Kannika,21-Mar-98,Mercury
+597,30,Kannika,21-Mar-98,Nickel
+598,0,Kannika,21-Mar-98,Arsenic
+599,"2,8",Kannika,21-Mar-98,Biochemical Oxygen
+600,"10,8",Kannika,21-Mar-98,Chemical Oxygen Demand (Cr)
+601,4,Kannika,21-Mar-98,Chemical Oxygen Demand (Mn)
+602,0,Kannika,21-Mar-98,AOX
+603,0,Kannika,21-Mar-98,Atrazine
+604,0,Kannika,21-Mar-98,Cesium
+605,0,Kannika,21-Mar-98,Macrozoobenthos
+606,0,Kannika,21-Mar-98,Total coliforms
+607,0,Kannika,21-Mar-98,Fecal coliforms
+608,3,Kannika,21-Mar-98,Water temperature
+609,"9,9",Kannika,21-Mar-98,Dissolved oxygen
+610,"0,27",Kannika,21-Mar-98,Ammonium
+611,"0,03",Kannika,21-Mar-98,Nitrites
+612,"1,68",Kannika,21-Mar-98,Nitrates
+613,"0,08",Kannika,21-Mar-98,Orthophosphate-phosphorus
+614,"0,11",Kannika,21-Mar-98,Total phosphorus
+615,"24,18",Kannika,21-Mar-98,Sodium
+616,"2,8",Kannika,21-Mar-98,Potassium
+617,"63,1",Kannika,21-Mar-98,Calcium
+618,"14,7",Kannika,21-Mar-98,Magnesium
+619,"34,7",Kannika,21-Mar-98,Chlorides
+620,"46,6",Kannika,21-Mar-98,Sulphates
+621,"0,1",Kannika,21-Mar-98,Iron
+622,"0,08",Kannika,21-Mar-98,Manganese
+623,0,Kannika,21-Mar-98,Zinc
+624,0,Kannika,21-Mar-98,Copper
+625,10,Kannika,21-Mar-98,Chromium
+626,10,Kannika,21-Mar-98,Lead
+627,0,Kannika,21-Mar-98,Cadmium
+628,0,Kannika,21-Mar-98,Mercury
+629,30,Kannika,21-Mar-98,Nickel
+630,0,Kannika,21-Mar-98,Arsenic
+631,2,Kannika,21-Mar-98,Biochemical Oxygen
+632,"11,7",Kannika,21-Mar-98,Chemical Oxygen Demand (Cr)
+633,"3,3",Kannika,21-Mar-98,Chemical Oxygen Demand (Mn)
+634,0,Kannika,21-Mar-98,AOX
+635,0,Kannika,21-Mar-98,Atrazine
+636,0,Kannika,21-Mar-98,Cesium
+637,0,Kannika,21-Mar-98,Macrozoobenthos
+638,0,Kannika,21-Mar-98,Total coliforms
+639,0,Kannika,21-Mar-98,Fecal coliforms
+640,3,Kannika,21-Mar-98,Water temperature
+641,11,Kannika,21-Mar-98,Dissolved oxygen
+642,"0,21",Kannika,21-Mar-98,Ammonium
+643,"0,03",Kannika,21-Mar-98,Nitrites
+644,"1,71",Kannika,21-Mar-98,Nitrates
+645,"0,05",Kannika,21-Mar-98,Orthophosphate-phosphorus
+646,"0,1",Kannika,21-Mar-98,Total phosphorus
+647,"24,9",Kannika,21-Mar-98,Sodium
+648,"2,8",Kannika,21-Mar-98,Potassium
+649,"63,1",Kannika,21-Mar-98,Calcium
+650,"15,2",Kannika,21-Mar-98,Magnesium
+651,34,Kannika,21-Mar-98,Chlorides
+652,"45,6",Kannika,21-Mar-98,Sulphates
+653,"0,1",Kannika,21-Mar-98,Iron
+654,0,Kannika,21-Mar-98,Manganese
+655,0,Kannika,21-Mar-98,Zinc
+656,0,Kannika,21-Mar-98,Copper
+657,10,Kannika,21-Mar-98,Chromium
+658,10,Kannika,21-Mar-98,Lead
+659,0,Kannika,21-Mar-98,Cadmium
+660,0,Kannika,21-Mar-98,Mercury
+661,30,Kannika,21-Mar-98,Nickel
+662,0,Kannika,21-Mar-98,Arsenic
+663,"3,1",Kannika,21-Mar-98,Biochemical Oxygen
+664,"11,2",Kannika,21-Mar-98,Chemical Oxygen Demand (Cr)
+665,"3,8",Kannika,21-Mar-98,Chemical Oxygen Demand (Mn)
+666,0,Kannika,21-Mar-98,AOX
+667,0,Kannika,21-Mar-98,Atrazine
+668,0,Kannika,21-Mar-98,Cesium
+669,0,Kannika,21-Mar-98,Macrozoobenthos
+670,0,Kannika,21-Mar-98,Total coliforms
+671,0,Kannika,21-Mar-98,Fecal coliforms
+672,8,Boonsri,11-Apr-98,Water temperature
+673,"8,4",Boonsri,11-Apr-98,Dissolved oxygen
+674,"0,12",Boonsri,11-Apr-98,Ammonium
+675,"0,06",Boonsri,11-Apr-98,Nitrites
+676,"2,6",Boonsri,11-Apr-98,Nitrates
+677,"0,05",Boonsri,11-Apr-98,Orthophosphate-phosphorus
+678,"0,09",Boonsri,11-Apr-98,Total phosphorus
+679,"14,1",Boonsri,11-Apr-98,Sodium
+680,"3,4",Boonsri,11-Apr-98,Potassium
+681,51,Boonsri,11-Apr-98,Calcium
+682,"13,8",Boonsri,11-Apr-98,Magnesium
+683,22,Boonsri,11-Apr-98,Chlorides
+684,48,Boonsri,11-Apr-98,Sulphates
+685,"0,85",Boonsri,11-Apr-98,Iron
+686,"0,01",Boonsri,11-Apr-98,Manganese
+687,20,Boonsri,11-Apr-98,Zinc
+688,35,Boonsri,11-Apr-98,Copper
+689,15,Boonsri,11-Apr-98,Chromium
+690,20,Boonsri,11-Apr-98,Lead
+691,"0,31",Boonsri,11-Apr-98,Cadmium
+692,0,Boonsri,11-Apr-98,Mercury
+693,1,Boonsri,11-Apr-98,Nickel
+694,0,Boonsri,11-Apr-98,Arsenic
+695,"1,8",Boonsri,11-Apr-98,Biochemical Oxygen
+696,"10,8",Boonsri,11-Apr-98,Chemical Oxygen Demand (Cr)
+697,4,Boonsri,11-Apr-98,Chemical Oxygen Demand (Mn)
+698,0,Boonsri,11-Apr-98,AOX
+699,0,Boonsri,11-Apr-98,Atrazine
+700,"0,002",Boonsri,11-Apr-98,"p,p-DDT"
+701,0,Boonsri,11-Apr-98,gamma-Hexachlorocyclohexane
+702,0,Boonsri,11-Apr-98,Cesium
+703,"2,09",Boonsri,11-Apr-98,Macrozoobenthos
+704,0,Boonsri,11-Apr-98,Total coliforms
+705,0,Boonsri,11-Apr-98,Fecal coliforms
+706,7,Boonsri,11-Apr-98,Water temperature
+707,"8,5",Boonsri,11-Apr-98,Dissolved oxygen
+708,"0,14",Boonsri,11-Apr-98,Ammonium
+709,"0,05",Boonsri,11-Apr-98,Nitrites
+710,"2,54",Boonsri,11-Apr-98,Nitrates
+711,"0,04",Boonsri,11-Apr-98,Orthophosphate-phosphorus
+712,"0,08",Boonsri,11-Apr-98,Total phosphorus
+713,"13,4",Boonsri,11-Apr-98,Sodium
+714,"3,4",Boonsri,11-Apr-98,Potassium
+715,50,Boonsri,11-Apr-98,Calcium
+716,"13,8",Boonsri,11-Apr-98,Magnesium
+717,21,Boonsri,11-Apr-98,Chlorides
+718,47,Boonsri,11-Apr-98,Sulphates
+719,"1,24",Boonsri,11-Apr-98,Iron
+720,"0,01",Boonsri,11-Apr-98,Manganese
+721,23,Boonsri,11-Apr-98,Zinc
+722,12,Boonsri,11-Apr-98,Copper
+723,28,Boonsri,11-Apr-98,Chromium
+724,35,Boonsri,11-Apr-98,Lead
+725,"0,3",Boonsri,11-Apr-98,Cadmium
+726,0,Boonsri,11-Apr-98,Mercury
+727,8,Boonsri,11-Apr-98,Nickel
+728,0,Boonsri,11-Apr-98,Arsenic
+729,"1,7",Boonsri,11-Apr-98,Biochemical Oxygen
+730,"9,9",Boonsri,11-Apr-98,Chemical Oxygen Demand (Cr)
+731,"3,9",Boonsri,11-Apr-98,Chemical Oxygen Demand (Mn)
+732,0,Boonsri,11-Apr-98,AOX
+733,0,Boonsri,11-Apr-98,Atrazine
+734,0,Boonsri,11-Apr-98,gamma-Hexachlorocyclohexane
+735,0,Boonsri,11-Apr-98,Cesium
+736,0,Boonsri,11-Apr-98,Macrozoobenthos
+737,0,Boonsri,11-Apr-98,Total coliforms
+738,0,Boonsri,11-Apr-98,Fecal coliforms
+739,21,Kohsoom,16-Apr-98,Water temperature
+740,"3,6",Kohsoom,16-Apr-98,Dissolved oxygen
+741,"14,2",Kohsoom,16-Apr-98,Ammonium
+742,"0,02",Kohsoom,16-Apr-98,Nitrites
+743,"0,93",Kohsoom,16-Apr-98,Nitrates
+744,"0,25",Kohsoom,16-Apr-98,Orthophosphate-phosphorus
+745,"0,48",Kohsoom,16-Apr-98,Total phosphorus
+746,50,Kohsoom,16-Apr-98,Sodium
+747,"5,4",Kohsoom,16-Apr-98,Potassium
+748,62,Kohsoom,16-Apr-98,Calcium
+749,21,Kohsoom,16-Apr-98,Magnesium
+750,"75,1",Kohsoom,16-Apr-98,Chlorides
+751,69,Kohsoom,16-Apr-98,Sulphates
+752,"0,01",Kohsoom,16-Apr-98,Iron
+753,"0,004",Kohsoom,16-Apr-98,Manganese
+754,44,Kohsoom,16-Apr-98,Zinc
+755,24,Kohsoom,16-Apr-98,Copper
+756,4,Kohsoom,16-Apr-98,Chromium
+757,90,Kohsoom,16-Apr-98,Lead
+758,"2,76",Kohsoom,16-Apr-98,Cadmium
+759,0,Kohsoom,16-Apr-98,Mercury
+760,25,Kohsoom,16-Apr-98,Nickel
+761,0,Kohsoom,16-Apr-98,Arsenic
+762,"32,4",Kohsoom,16-Apr-98,Biochemical Oxygen
+763,0,Kohsoom,16-Apr-98,Chemical Oxygen Demand (Cr)
+764,"11,2",Kohsoom,16-Apr-98,Chemical Oxygen Demand (Mn)
+765,0,Kohsoom,16-Apr-98,AOX
+766,0,Kohsoom,16-Apr-98,Atrazine
+767,"0,006",Kohsoom,16-Apr-98,"p,p-DDT"
+768,0,Kohsoom,16-Apr-98,gamma-Hexachlorocyclohexane
+769,0,Kohsoom,16-Apr-98,Cesium
+770,0,Kohsoom,16-Apr-98,Macrozoobenthos
+771,0,Kohsoom,16-Apr-98,Total coliforms
+772,0,Kohsoom,16-Apr-98,Fecal coliforms
+773,21,Chai,17-Apr-98,Water temperature
+774,"7,5",Chai,17-Apr-98,Dissolved oxygen
+775,"0,16",Chai,17-Apr-98,Ammonium
+776,"0,06",Chai,17-Apr-98,Nitrites
+777,"2,66",Chai,17-Apr-98,Nitrates
+778,"0,05",Chai,17-Apr-98,Orthophosphate-phosphorus
+779,"0,09",Chai,17-Apr-98,Total phosphorus
+780,"16,9",Chai,17-Apr-98,Sodium
+781,"2,5",Chai,17-Apr-98,Potassium
+782,54,Chai,17-Apr-98,Calcium
+783,"12,6",Chai,17-Apr-98,Magnesium
+784,22,Chai,17-Apr-98,Chlorides
+785,51,Chai,17-Apr-98,Sulphates
+786,"0,74",Chai,17-Apr-98,Iron
+787,"0,05",Chai,17-Apr-98,Manganese
+788,52,Chai,17-Apr-98,Zinc
+789,44,Chai,17-Apr-98,Copper
+790,18,Chai,17-Apr-98,Chromium
+791,30,Chai,17-Apr-98,Lead
+792,"0,67",Chai,17-Apr-98,Cadmium
+793,0,Chai,17-Apr-98,Mercury
+794,5,Chai,17-Apr-98,Nickel
+795,0,Chai,17-Apr-98,Arsenic
+796,"2,4",Chai,17-Apr-98,Biochemical Oxygen
+797,"13,7",Chai,17-Apr-98,Chemical Oxygen Demand (Cr)
+798,"4,1",Chai,17-Apr-98,Chemical Oxygen Demand (Mn)
+799,0,Chai,17-Apr-98,AOX
+800,0,Chai,17-Apr-98,Atrazine
+801,"0,008",Chai,17-Apr-98,"p,p-DDT"
+802,0,Chai,17-Apr-98,gamma-Hexachlorocyclohexane
+803,0,Chai,17-Apr-98,Cesium
+804,"1,95",Chai,17-Apr-98,Macrozoobenthos
+805,"0,92",Chai,17-Apr-98,Total coliforms
+806,"0,02",Chai,17-Apr-98,Fecal coliforms
+807,21,Chai,17-Apr-98,Water temperature
+808,"7,7",Chai,17-Apr-98,Dissolved oxygen
+809,"0,12",Chai,17-Apr-98,Ammonium
+810,"0,05",Chai,17-Apr-98,Nitrites
+811,"2,02",Chai,17-Apr-98,Nitrates
+812,"0,05",Chai,17-Apr-98,Orthophosphate-phosphorus
+813,"0,09",Chai,17-Apr-98,Total phosphorus
+814,"15,3",Chai,17-Apr-98,Sodium
+815,"3,1",Chai,17-Apr-98,Potassium
+816,55,Chai,17-Apr-98,Calcium
+817,12,Chai,17-Apr-98,Magnesium
+818,22,Chai,17-Apr-98,Chlorides
+819,50,Chai,17-Apr-98,Sulphates
+820,"0,75",Chai,17-Apr-98,Iron
+821,"0,05",Chai,17-Apr-98,Manganese
+822,49,Chai,17-Apr-98,Zinc
+823,37,Chai,17-Apr-98,Copper
+824,10,Chai,17-Apr-98,Chromium
+825,41,Chai,17-Apr-98,Lead
+826,"0,59",Chai,17-Apr-98,Cadmium
+827,0,Chai,17-Apr-98,Mercury
+828,24,Chai,17-Apr-98,Nickel
+829,0,Chai,17-Apr-98,Arsenic
+830,2,Chai,17-Apr-98,Biochemical Oxygen
+831,"12,3",Chai,17-Apr-98,Chemical Oxygen Demand (Cr)
+832,4,Chai,17-Apr-98,Chemical Oxygen Demand (Mn)
+833,0,Chai,17-Apr-98,AOX
+834,0,Chai,17-Apr-98,Atrazine
+835,"0,01",Chai,17-Apr-98,"p,p-DDT"
+836,"0,002",Chai,17-Apr-98,gamma-Hexachlorocyclohexane
+837,0,Chai,17-Apr-98,Cesium
+838,"2,1",Chai,17-Apr-98,Macrozoobenthos
+839,"0,0049",Chai,17-Apr-98,Total coliforms
+840,"0,0033",Chai,17-Apr-98,Fecal coliforms
+841,21,Chai,17-Apr-98,Water temperature
+842,"7,3",Chai,17-Apr-98,Dissolved oxygen
+843,"0,16",Chai,17-Apr-98,Ammonium
+844,"0,06",Chai,17-Apr-98,Nitrites
+845,"2,23",Chai,17-Apr-98,Nitrates
+846,"0,05",Chai,17-Apr-98,Orthophosphate-phosphorus
+847,"0,08",Chai,17-Apr-98,Total phosphorus
+848,"12,7",Chai,17-Apr-98,Sodium
+849,"2,7",Chai,17-Apr-98,Potassium
+850,53,Chai,17-Apr-98,Calcium
+851,"13,8",Chai,17-Apr-98,Magnesium
+852,"22,7",Chai,17-Apr-98,Chlorides
+853,"57,2",Chai,17-Apr-98,Sulphates
+854,"0,73",Chai,17-Apr-98,Iron
+855,"0,06",Chai,17-Apr-98,Manganese
+856,15,Chai,17-Apr-98,Zinc
+857,64,Chai,17-Apr-98,Copper
+858,9,Chai,17-Apr-98,Chromium
+859,55,Chai,17-Apr-98,Lead
+860,"0,49",Chai,17-Apr-98,Cadmium
+861,0,Chai,17-Apr-98,Mercury
+862,9,Chai,17-Apr-98,Nickel
+863,0,Chai,17-Apr-98,Arsenic
+864,"2,2",Chai,17-Apr-98,Biochemical Oxygen
+865,"14,7",Chai,17-Apr-98,Chemical Oxygen Demand (Cr)
+866,"4,2",Chai,17-Apr-98,Chemical Oxygen Demand (Mn)
+867,0,Chai,17-Apr-98,AOX
+868,0,Chai,17-Apr-98,Atrazine
+869,"0,01",Chai,17-Apr-98,"p,p-DDT"
+870,0,Chai,17-Apr-98,gamma-Hexachlorocyclohexane
+871,0,Chai,17-Apr-98,Cesium
+872,"1,81",Chai,17-Apr-98,Macrozoobenthos
+873,"0,16",Chai,17-Apr-98,Total coliforms
+874,"0,02",Chai,17-Apr-98,Fecal coliforms
+875,"20,5",Somchair,17-Apr-98,Water temperature
+876,"5,7",Somchair,17-Apr-98,Dissolved oxygen
+877,"1,52",Somchair,17-Apr-98,Ammonium
+878,"1,2",Somchair,17-Apr-98,Nitrites
+879,"3,41",Somchair,17-Apr-98,Nitrates
+880,"0,05",Somchair,17-Apr-98,Orthophosphate-phosphorus
+881,"0,54",Somchair,17-Apr-98,Total phosphorus
+882,"46,6",Somchair,17-Apr-98,Sodium
+883,"5,3",Somchair,17-Apr-98,Potassium
+884,69,Somchair,17-Apr-98,Calcium
+885,"25,8",Somchair,17-Apr-98,Magnesium
+886,"121,9",Somchair,17-Apr-98,Chlorides
+887,98,Somchair,17-Apr-98,Sulphates
+888,"9,2",Somchair,17-Apr-98,Iron
+889,"0,79",Somchair,17-Apr-98,Manganese
+890,104,Somchair,17-Apr-98,Zinc
+891,12,Somchair,17-Apr-98,Copper
+892,42,Somchair,17-Apr-98,Chromium
+893,41,Somchair,17-Apr-98,Lead
+894,"1,89",Somchair,17-Apr-98,Cadmium
+895,0,Somchair,17-Apr-98,Mercury
+896,80,Somchair,17-Apr-98,Nickel
+897,0,Somchair,17-Apr-98,Arsenic
+898,"4,8",Somchair,17-Apr-98,Biochemical Oxygen
+899,0,Somchair,17-Apr-98,Chemical Oxygen Demand (Cr)
+900,"6,9",Somchair,17-Apr-98,Chemical Oxygen Demand (Mn)
+901,0,Somchair,17-Apr-98,AOX
+902,0,Somchair,17-Apr-98,Atrazine
+903,"0,002",Somchair,17-Apr-98,gamma-Hexachlorocyclohexane
+904,0,Somchair,17-Apr-98,Cesium
+905,0,Somchair,17-Apr-98,Macrozoobenthos
+906,0,Somchair,17-Apr-98,Total coliforms
+907,0,Somchair,17-Apr-98,Fecal coliforms
+908,21,Kannika,18-Apr-98,Water temperature
+909,"6,5",Kannika,18-Apr-98,Dissolved oxygen
+910,"0,19",Kannika,18-Apr-98,Ammonium
+911,"0,05",Kannika,18-Apr-98,Nitrites
+912,"1,32",Kannika,18-Apr-98,Nitrates
+913,"0,07",Kannika,18-Apr-98,Orthophosphate-phosphorus
+914,"0,1",Kannika,18-Apr-98,Total phosphorus
+915,"18,3",Kannika,18-Apr-98,Sodium
+916,"3,2",Kannika,18-Apr-98,Potassium
+917,56,Kannika,18-Apr-98,Calcium
+918,"13,2",Kannika,18-Apr-98,Magnesium
+919,"31,9",Kannika,18-Apr-98,Chlorides
+920,"40,3",Kannika,18-Apr-98,Sulphates
+921,"1,35",Kannika,18-Apr-98,Iron
+922,0,Kannika,18-Apr-98,Manganese
+923,20,Kannika,18-Apr-98,Zinc
+924,79,Kannika,18-Apr-98,Copper
+925,10,Kannika,18-Apr-98,Chromium
+926,20,Kannika,18-Apr-98,Lead
+927,"0,97",Kannika,18-Apr-98,Cadmium
+928,0,Kannika,18-Apr-98,Mercury
+929,13,Kannika,18-Apr-98,Nickel
+930,0,Kannika,18-Apr-98,Arsenic
+931,"2,3",Kannika,18-Apr-98,Biochemical Oxygen
+932,"12,1",Kannika,18-Apr-98,Chemical Oxygen Demand (Cr)
+933,"4,3",Kannika,18-Apr-98,Chemical Oxygen Demand (Mn)
+934,0,Kannika,18-Apr-98,AOX
+935,0,Kannika,18-Apr-98,Atrazine
+936,"0,01",Kannika,18-Apr-98,"p,p-DDT"
+937,0,Kannika,18-Apr-98,gamma-Hexachlorocyclohexane
+938,0,Kannika,18-Apr-98,Cesium
+939,"1,94",Kannika,18-Apr-98,Macrozoobenthos
+940,"0,05",Kannika,18-Apr-98,Total coliforms
+941,"0,01",Kannika,18-Apr-98,Fecal coliforms
+942,21,Kannika,18-Apr-98,Water temperature
+943,"6,9",Kannika,18-Apr-98,Dissolved oxygen
+944,"0,16",Kannika,18-Apr-98,Ammonium
+945,"0,07",Kannika,18-Apr-98,Nitrites
+946,"1,2",Kannika,18-Apr-98,Nitrates
+947,"0,07",Kannika,18-Apr-98,Orthophosphate-phosphorus
+948,"0,1",Kannika,18-Apr-98,Total phosphorus
+949,"18,5",Kannika,18-Apr-98,Sodium
+950,"3,3",Kannika,18-Apr-98,Potassium
+951,55,Kannika,18-Apr-98,Calcium
+952,"12,6",Kannika,18-Apr-98,Magnesium
+953,"31,2",Kannika,18-Apr-98,Chlorides
+954,"39,5",Kannika,18-Apr-98,Sulphates
+955,"1,14",Kannika,18-Apr-98,Iron
+956,0,Kannika,18-Apr-98,Manganese
+957,20,Kannika,18-Apr-98,Zinc
+958,28,Kannika,18-Apr-98,Copper
+959,3,Kannika,18-Apr-98,Chromium
+960,20,Kannika,18-Apr-98,Lead
+961,"0,55",Kannika,18-Apr-98,Cadmium
+962,0,Kannika,18-Apr-98,Mercury
+963,11,Kannika,18-Apr-98,Nickel
+964,0,Kannika,18-Apr-98,Arsenic
+965,"2,5",Kannika,18-Apr-98,Biochemical Oxygen
+966,"11,7",Kannika,18-Apr-98,Chemical Oxygen Demand (Cr)
+967,"4,1",Kannika,18-Apr-98,Chemical Oxygen Demand (Mn)
+968,0,Kannika,18-Apr-98,AOX
+969,0,Kannika,18-Apr-98,Atrazine
+970,0,Kannika,18-Apr-98,"p,p-DDT"
+971,"0,004",Kannika,18-Apr-98,gamma-Hexachlorocyclohexane
+972,0,Kannika,18-Apr-98,Cesium
+973,"2,11",Kannika,18-Apr-98,Macrozoobenthos
+974,"0,03",Kannika,18-Apr-98,Total coliforms
+975,"0,007",Kannika,18-Apr-98,Fecal coliforms
+976,21,Kannika,18-Apr-98,Water temperature
+977,"6,5",Kannika,18-Apr-98,Dissolved oxygen
+978,"0,19",Kannika,18-Apr-98,Ammonium
+979,"0,06",Kannika,18-Apr-98,Nitrites
+980,"1,8",Kannika,18-Apr-98,Nitrates
+981,"0,07",Kannika,18-Apr-98,Orthophosphate-phosphorus
+982,"0,1",Kannika,18-Apr-98,Total phosphorus
+983,"17,9",Kannika,18-Apr-98,Sodium
+984,"3,4",Kannika,18-Apr-98,Potassium
+985,54,Kannika,18-Apr-98,Calcium
+986,"13,2",Kannika,18-Apr-98,Magnesium
+987,"31,2",Kannika,18-Apr-98,Chlorides
+988,43,Kannika,18-Apr-98,Sulphates
+989,"1,8",Kannika,18-Apr-98,Iron
+990,"0,13",Kannika,18-Apr-98,Manganese
+991,20,Kannika,18-Apr-98,Zinc
+992,23,Kannika,18-Apr-98,Copper
+993,20,Kannika,18-Apr-98,Chromium
+994,10,Kannika,18-Apr-98,Lead
+995,"0,45",Kannika,18-Apr-98,Cadmium
+996,0,Kannika,18-Apr-98,Mercury
+997,12,Kannika,18-Apr-98,Nickel
+998,0,Kannika,18-Apr-98,Arsenic
+999,"2,3",Kannika,18-Apr-98,Biochemical Oxygen
+1000,13,Kannika,18-Apr-98,Chemical Oxygen Demand (Cr)
+1001,"4,3",Kannika,18-Apr-98,Chemical Oxygen Demand (Mn)
+1002,0,Kannika,18-Apr-98,AOX
+1003,0,Kannika,18-Apr-98,Atrazine
+1004,"0,01",Kannika,18-Apr-98,"p,p-DDT"
+1005,0,Kannika,18-Apr-98,gamma-Hexachlorocyclohexane
+1006,0,Kannika,18-Apr-98,Cesium
+1007,"1,89",Kannika,18-Apr-98,Macrozoobenthos
+1008,"0,11",Kannika,18-Apr-98,Total coliforms
+1009,"0,01",Kannika,18-Apr-98,Fecal coliforms
+1010,21,Sakda,18-Apr-98,Water temperature
+1011,"6,7",Sakda,18-Apr-98,Dissolved oxygen
+1012,"0,16",Sakda,18-Apr-98,Ammonium
+1013,"0,05",Sakda,18-Apr-98,Nitrites
+1014,"3,59",Sakda,18-Apr-98,Nitrates
+1015,"0,07",Sakda,18-Apr-98,Orthophosphate-phosphorus
+1016,"0,19",Sakda,18-Apr-98,Total phosphorus
+1017,"18,5",Sakda,18-Apr-98,Sodium
+1018,"3,2",Sakda,18-Apr-98,Potassium
+1019,54,Sakda,18-Apr-98,Calcium
+1020,"14,4",Sakda,18-Apr-98,Magnesium
+1021,"33,3",Sakda,18-Apr-98,Chlorides
+1022,"60,5",Sakda,18-Apr-98,Sulphates
+1023,"1,37",Sakda,18-Apr-98,Iron
+1024,"0,11",Sakda,18-Apr-98,Manganese
+1025,24,Sakda,18-Apr-98,Zinc
+1026,29,Sakda,18-Apr-98,Copper
+1027,147,Sakda,18-Apr-98,Chromium
+1028,15,Sakda,18-Apr-98,Lead
+1029,"0,61",Sakda,18-Apr-98,Cadmium
+1030,0,Sakda,18-Apr-98,Mercury
+1031,3,Sakda,18-Apr-98,Nickel
+1032,0,Sakda,18-Apr-98,Arsenic
+1033,"2,5",Sakda,18-Apr-98,Biochemical Oxygen
+1034,0,Sakda,18-Apr-98,Chemical Oxygen Demand (Cr)
+1035,"4,3",Sakda,18-Apr-98,Chemical Oxygen Demand (Mn)
+1036,0,Sakda,18-Apr-98,AOX
+1037,0,Sakda,18-Apr-98,Atrazine
+1038,0,Sakda,18-Apr-98,gamma-Hexachlorocyclohexane
+1039,0,Sakda,18-Apr-98,Cesium
+1040,"2,14",Sakda,18-Apr-98,Macrozoobenthos
+1041,0,Sakda,18-Apr-98,Total coliforms
+1042,0,Sakda,18-Apr-98,Fecal coliforms
+1043,15,Boonsri,9-May-98,Water temperature
+1044,"8,3",Boonsri,9-May-98,Dissolved oxygen
+1045,"0,14",Boonsri,9-May-98,Ammonium
+1046,"0,05",Boonsri,9-May-98,Nitrites
+1047,"2,2",Boonsri,9-May-98,Nitrates
+1048,"0,04",Boonsri,9-May-98,Orthophosphate-phosphorus
+1049,"0,08",Boonsri,9-May-98,Total phosphorus
+1050,"15,1",Boonsri,9-May-98,Sodium
+1051,"3,7",Boonsri,9-May-98,Potassium
+1052,48,Boonsri,9-May-98,Calcium
+1053,"11,7",Boonsri,9-May-98,Magnesium
+1054,"19,9",Boonsri,9-May-98,Chlorides
+1055,37,Boonsri,9-May-98,Sulphates
+1056,2,Boonsri,9-May-98,Iron
+1057,"0,02",Boonsri,9-May-98,Manganese
+1058,24,Boonsri,9-May-98,Zinc
+1059,4,Boonsri,9-May-98,Copper
+1060,9,Boonsri,9-May-98,Chromium
+1061,0,Boonsri,9-May-98,Lead
+1062,0,Boonsri,9-May-98,Cadmium
+1063,0,Boonsri,9-May-98,Mercury
+1064,2,Boonsri,9-May-98,Nickel
+1065,0,Boonsri,9-May-98,Arsenic
+1066,3,Boonsri,9-May-98,Biochemical Oxygen
+1067,"14,7",Boonsri,9-May-98,Chemical Oxygen Demand (Cr)
+1068,"4,7",Boonsri,9-May-98,Chemical Oxygen Demand (Mn)
+1069,0,Boonsri,9-May-98,AOX
+1070,0,Boonsri,9-May-98,Atrazine
+1071,0,Boonsri,9-May-98,Cesium
+1072,0,Boonsri,9-May-98,Macrozoobenthos
+1073,"2,5",Boonsri,9-May-98,Total coliforms
+1074,0,Boonsri,9-May-98,Fecal coliforms
+1075,13,Boonsri,9-May-98,Water temperature
+1076,"8,5",Boonsri,9-May-98,Dissolved oxygen
+1077,"0,28",Boonsri,9-May-98,Ammonium
+1078,"0,07",Boonsri,9-May-98,Nitrites
+1079,"1,77",Boonsri,9-May-98,Nitrates
+1080,"0,05",Boonsri,9-May-98,Orthophosphate-phosphorus
+1081,"0,09",Boonsri,9-May-98,Total phosphorus
+1082,"15,3",Boonsri,9-May-98,Sodium
+1083,"3,3",Boonsri,9-May-98,Potassium
+1084,"49,6",Boonsri,9-May-98,Calcium
+1085,"10,7",Boonsri,9-May-98,Magnesium
+1086,"21,3",Boonsri,9-May-98,Chlorides
+1087,"34,1",Boonsri,9-May-98,Sulphates
+1088,"1,85",Boonsri,9-May-98,Iron
+1089,"0,03",Boonsri,9-May-98,Manganese
+1090,12,Boonsri,9-May-98,Zinc
+1091,9,Boonsri,9-May-98,Copper
+1092,10,Boonsri,9-May-98,Chromium
+1093,0,Boonsri,9-May-98,Lead
+1094,0,Boonsri,9-May-98,Cadmium
+1095,0,Boonsri,9-May-98,Mercury
+1096,5,Boonsri,9-May-98,Nickel
+1097,0,Boonsri,9-May-98,Arsenic
+1098,"2,9",Boonsri,9-May-98,Biochemical Oxygen
+1099,"12,5",Boonsri,9-May-98,Chemical Oxygen Demand (Cr)
+1100,"4,6",Boonsri,9-May-98,Chemical Oxygen Demand (Mn)
+1101,0,Boonsri,9-May-98,AOX
+1102,0,Boonsri,9-May-98,Atrazine
+1103,0,Boonsri,9-May-98,Cesium
+1104,0,Boonsri,9-May-98,Macrozoobenthos
+1105,1,Boonsri,9-May-98,Total coliforms
+1106,0,Boonsri,9-May-98,Fecal coliforms
+1107,22,Chai,20-May-98,Water temperature
+1108,"6,39",Chai,20-May-98,Dissolved oxygen
+1109,"0,41",Chai,20-May-98,Ammonium
+1110,"0,01",Chai,20-May-98,Nitrites
+1111,"1,3",Chai,20-May-98,Nitrates
+1112,"0,02",Chai,20-May-98,Orthophosphate-phosphorus
+1113,"0,1",Chai,20-May-98,Total phosphorus
+1114,"25,9",Chai,20-May-98,Sodium
+1115,"4,2",Chai,20-May-98,Potassium
+1116,"59,82",Chai,20-May-98,Calcium
+1117,"20,09",Chai,20-May-98,Magnesium
+1118,"41,31",Chai,20-May-98,Chlorides
+1119,"70,56",Chai,20-May-98,Sulphates
+1120,"0,12",Chai,20-May-98,Iron
+1121,0,Chai,20-May-98,Manganese
+1122,0,Chai,20-May-98,Zinc
+1123,0,Chai,20-May-98,Copper
+1124,0,Chai,20-May-98,Chromium
+1125,0,Chai,20-May-98,Lead
+1126,0,Chai,20-May-98,Cadmium
+1127,0,Chai,20-May-98,Mercury
+1128,42,Chai,20-May-98,Nickel
+1129,0,Chai,20-May-98,Arsenic
+1130,"3,2",Chai,20-May-98,Biochemical Oxygen
+1131,10,Chai,20-May-98,Chemical Oxygen Demand (Cr)
+1132,"3,6",Chai,20-May-98,Chemical Oxygen Demand (Mn)
+1133,0,Chai,20-May-98,AOX
+1134,0,Chai,20-May-98,Atrazine
+1135,0,Chai,20-May-98,"p,p-DDT"
+1136,0,Chai,20-May-98,Cesium
+1137,"2,1",Chai,20-May-98,Macrozoobenthos
+1138,0,Chai,20-May-98,Total coliforms
+1139,0,Chai,20-May-98,Fecal coliforms
+1140,22,Chai,20-May-98,Water temperature
+1141,"6,93",Chai,20-May-98,Dissolved oxygen
+1142,"0,3",Chai,20-May-98,Ammonium
+1143,"0,01",Chai,20-May-98,Nitrites
+1144,"1,3",Chai,20-May-98,Nitrates
+1145,"0,02",Chai,20-May-98,Orthophosphate-phosphorus
+1146,"0,1",Chai,20-May-98,Total phosphorus
+1147,25,Chai,20-May-98,Sodium
+1148,4,Chai,20-May-98,Potassium
+1149,"57,98",Chai,20-May-98,Calcium
+1150,"19,71",Chai,20-May-98,Magnesium
+1151,"39,7",Chai,20-May-98,Chlorides
+1152,"69,72",Chai,20-May-98,Sulphates
+1153,"0,09",Chai,20-May-98,Iron
+1154,0,Chai,20-May-98,Manganese
+1155,0,Chai,20-May-98,Zinc
+1156,0,Chai,20-May-98,Copper
+1157,0,Chai,20-May-98,Chromium
+1158,0,Chai,20-May-98,Lead
+1159,0,Chai,20-May-98,Cadmium
+1160,0,Chai,20-May-98,Mercury
+1161,42,Chai,20-May-98,Nickel
+1162,0,Chai,20-May-98,Arsenic
+1163,"3,6",Chai,20-May-98,Biochemical Oxygen
+1164,"9,8",Chai,20-May-98,Chemical Oxygen Demand (Cr)
+1165,"2,2",Chai,20-May-98,Chemical Oxygen Demand (Mn)
+1166,0,Chai,20-May-98,AOX
+1167,0,Chai,20-May-98,Atrazine
+1168,0,Chai,20-May-98,"p,p-DDT"
+1169,0,Chai,20-May-98,Cesium
+1170,"1,95",Chai,20-May-98,Macrozoobenthos
+1171,0,Chai,20-May-98,Total coliforms
+1172,0,Chai,20-May-98,Fecal coliforms
+1173,22,Chai,20-May-98,Water temperature
+1174,"6,12",Chai,20-May-98,Dissolved oxygen
+1175,"0,31",Chai,20-May-98,Ammonium
+1176,"0,02",Chai,20-May-98,Nitrites
+1177,"1,6",Chai,20-May-98,Nitrates
+1178,"0,04",Chai,20-May-98,Orthophosphate-phosphorus
+1179,"0,1",Chai,20-May-98,Total phosphorus
+1180,25,Chai,20-May-98,Sodium
+1181,"4,1",Chai,20-May-98,Potassium
+1182,"63,12",Chai,20-May-98,Calcium
+1183,"23,48",Chai,20-May-98,Magnesium
+1184,"41,8",Chai,20-May-98,Chlorides
+1185,"70,9",Chai,20-May-98,Sulphates
+1186,"0,16",Chai,20-May-98,Iron
+1187,0,Chai,20-May-98,Manganese
+1188,0,Chai,20-May-98,Zinc
+1189,0,Chai,20-May-98,Copper
+1190,0,Chai,20-May-98,Chromium
+1191,0,Chai,20-May-98,Lead
+1192,0,Chai,20-May-98,Cadmium
+1193,0,Chai,20-May-98,Mercury
+1194,42,Chai,20-May-98,Nickel
+1195,0,Chai,20-May-98,Arsenic
+1196,4,Chai,20-May-98,Biochemical Oxygen
+1197,"10,2",Chai,20-May-98,Chemical Oxygen Demand (Cr)
+1198,"2,5",Chai,20-May-98,Chemical Oxygen Demand (Mn)
+1199,0,Chai,20-May-98,AOX
+1200,0,Chai,20-May-98,Atrazine
+1201,0,Chai,20-May-98,"p,p-DDT"
+1202,0,Chai,20-May-98,Cesium
+1203,"2,16",Chai,20-May-98,Macrozoobenthos
+1204,0,Chai,20-May-98,Total coliforms
+1205,0,Chai,20-May-98,Fecal coliforms
+1206,21,Kannika,26-May-98,Water temperature
+1207,"6,19",Kannika,26-May-98,Dissolved oxygen
+1208,"0,31",Kannika,26-May-98,Ammonium
+1209,"0,07",Kannika,26-May-98,Nitrites
+1210,"1,28",Kannika,26-May-98,Nitrates
+1211,"0,06",Kannika,26-May-98,Orthophosphate-phosphorus
+1212,"0,09",Kannika,26-May-98,Total phosphorus
+1213,"18,3",Kannika,26-May-98,Sodium
+1214,"2,7",Kannika,26-May-98,Potassium
+1215,"57,71",Kannika,26-May-98,Calcium
+1216,"12,16",Kannika,26-May-98,Magnesium
+1217,"28,36",Kannika,26-May-98,Chlorides
+1218,"61,06",Kannika,26-May-98,Sulphates
+1219,"0,04",Kannika,26-May-98,Iron
+1220,"0,1",Kannika,26-May-98,Manganese
+1221,0,Kannika,26-May-98,Zinc
+1222,10,Kannika,26-May-98,Copper
+1223,20,Kannika,26-May-98,Chromium
+1224,0,Kannika,26-May-98,Lead
+1225,0,Kannika,26-May-98,Cadmium
+1226,0,Kannika,26-May-98,Mercury
+1227,42,Kannika,26-May-98,Nickel
+1228,0,Kannika,26-May-98,Arsenic
+1229,"1,9",Kannika,26-May-98,Biochemical Oxygen
+1230,"12,5",Kannika,26-May-98,Chemical Oxygen Demand (Cr)
+1231,"4,1",Kannika,26-May-98,Chemical Oxygen Demand (Mn)
+1232,0,Kannika,26-May-98,AOX
+1233,0,Kannika,26-May-98,Atrazine
+1234,0,Kannika,26-May-98,Cesium
+1235,0,Kannika,26-May-98,Macrozoobenthos
+1236,0,Kannika,26-May-98,Total coliforms
+1237,0,Kannika,26-May-98,Fecal coliforms
+1238,21,Kannika,26-May-98,Water temperature
+1239,6,Kannika,26-May-98,Dissolved oxygen
+1240,"0,38",Kannika,26-May-98,Ammonium
+1241,"0,07",Kannika,26-May-98,Nitrites
+1242,"1,32",Kannika,26-May-98,Nitrates
+1243,"0,06",Kannika,26-May-98,Orthophosphate-phosphorus
+1244,"0,09",Kannika,26-May-98,Total phosphorus
+1245,19,Kannika,26-May-98,Sodium
+1246,"2,7",Kannika,26-May-98,Potassium
+1247,"57,7",Kannika,26-May-98,Calcium
+1248,"11,7",Kannika,26-May-98,Magnesium
+1249,"29,4",Kannika,26-May-98,Chlorides
+1250,62,Kannika,26-May-98,Sulphates
+1251,"0,05",Kannika,26-May-98,Iron
+1252,"0,06",Kannika,26-May-98,Manganese
+1253,10,Kannika,26-May-98,Zinc
+1254,10,Kannika,26-May-98,Copper
+1255,20,Kannika,26-May-98,Chromium
+1256,0,Kannika,26-May-98,Lead
+1257,0,Kannika,26-May-98,Cadmium
+1258,0,Kannika,26-May-98,Mercury
+1259,42,Kannika,26-May-98,Nickel
+1260,0,Kannika,26-May-98,Arsenic
+1261,"1,6",Kannika,26-May-98,Biochemical Oxygen
+1262,"10,9",Kannika,26-May-98,Chemical Oxygen Demand (Cr)
+1263,"3,8",Kannika,26-May-98,Chemical Oxygen Demand (Mn)
+1264,0,Kannika,26-May-98,AOX
+1265,0,Kannika,26-May-98,Atrazine
+1266,0,Kannika,26-May-98,Cesium
+1267,0,Kannika,26-May-98,Macrozoobenthos
+1268,0,Kannika,26-May-98,Total coliforms
+1269,0,Kannika,26-May-98,Fecal coliforms
+1270,21,Kannika,26-May-98,Water temperature
+1271,"6,03",Kannika,26-May-98,Dissolved oxygen
+1272,"0,2",Kannika,26-May-98,Ammonium
+1273,"0,07",Kannika,26-May-98,Nitrites
+1274,"1,26",Kannika,26-May-98,Nitrates
+1275,"0,05",Kannika,26-May-98,Orthophosphate-phosphorus
+1276,"0,08",Kannika,26-May-98,Total phosphorus
+1277,"18,3",Kannika,26-May-98,Sodium
+1278,"2,7",Kannika,26-May-98,Potassium
+1279,"58,5",Kannika,26-May-98,Calcium
+1280,"11,7",Kannika,26-May-98,Magnesium
+1281,"28,4",Kannika,26-May-98,Chlorides
+1282,"61,5",Kannika,26-May-98,Sulphates
+1283,"0,05",Kannika,26-May-98,Iron
+1284,0,Kannika,26-May-98,Manganese
+1285,10,Kannika,26-May-98,Zinc
+1286,10,Kannika,26-May-98,Copper
+1287,20,Kannika,26-May-98,Chromium
+1288,0,Kannika,26-May-98,Lead
+1289,0,Kannika,26-May-98,Cadmium
+1290,0,Kannika,26-May-98,Mercury
+1291,42,Kannika,26-May-98,Nickel
+1292,0,Kannika,26-May-98,Arsenic
+1293,"1,3",Kannika,26-May-98,Biochemical Oxygen
+1294,13,Kannika,26-May-98,Chemical Oxygen Demand (Cr)
+1295,"4,4",Kannika,26-May-98,Chemical Oxygen Demand (Mn)
+1296,0,Kannika,26-May-98,AOX
+1297,0,Kannika,26-May-98,Atrazine
+1298,0,Kannika,26-May-98,Cesium
+1299,0,Kannika,26-May-98,Macrozoobenthos
+1300,0,Kannika,26-May-98,Total coliforms
+1301,0,Kannika,26-May-98,Fecal coliforms
+1302,"24,5",Boonsri,6-Jun-98,Water temperature
+1303,"7,5",Boonsri,6-Jun-98,Dissolved oxygen
+1304,"0,16",Boonsri,6-Jun-98,Ammonium
+1305,"0,05",Boonsri,6-Jun-98,Nitrites
+1306,"1,34",Boonsri,6-Jun-98,Nitrates
+1307,"0,03",Boonsri,6-Jun-98,Orthophosphate-phosphorus
+1308,"0,07",Boonsri,6-Jun-98,Total phosphorus
+1309,"13,2",Boonsri,6-Jun-98,Sodium
+1310,"3,59",Boonsri,6-Jun-98,Potassium
+1311,54,Boonsri,6-Jun-98,Calcium
+1312,"12,8",Boonsri,6-Jun-98,Magnesium
+1313,"22,7",Boonsri,6-Jun-98,Chlorides
+1314,"52,2",Boonsri,6-Jun-98,Sulphates
+1315,"0,08",Boonsri,6-Jun-98,Iron
+1316,"0,12",Boonsri,6-Jun-98,Manganese
+1317,40,Boonsri,6-Jun-98,Zinc
+1318,11,Boonsri,6-Jun-98,Copper
+1319,11,Boonsri,6-Jun-98,Chromium
+1320,1,Boonsri,6-Jun-98,Lead
+1321,"0,5",Boonsri,6-Jun-98,Cadmium
+1322,0,Boonsri,6-Jun-98,Mercury
+1323,8,Boonsri,6-Jun-98,Nickel
+1324,0,Boonsri,6-Jun-98,Arsenic
+1325,"2,3",Boonsri,6-Jun-98,Biochemical Oxygen
+1326,"11,7",Boonsri,6-Jun-98,Chemical Oxygen Demand (Cr)
+1327,"4,2",Boonsri,6-Jun-98,Chemical Oxygen Demand (Mn)
+1328,0,Boonsri,6-Jun-98,AOX
+1329,0,Boonsri,6-Jun-98,Atrazine
+1330,0,Boonsri,6-Jun-98,"p,p-DDT"
+1331,"0,004",Boonsri,6-Jun-98,gamma-Hexachlorocyclohexane
+1332,0,Boonsri,6-Jun-98,Cesium
+1333,0,Boonsri,6-Jun-98,Macrozoobenthos
+1334,0,Boonsri,6-Jun-98,Total coliforms
+1335,0,Boonsri,6-Jun-98,Fecal coliforms
+1336,"24,5",Boonsri,6-Jun-98,Water temperature
+1337,"6,8",Boonsri,6-Jun-98,Dissolved oxygen
+1338,"0,12",Boonsri,6-Jun-98,Ammonium
+1339,"0,05",Boonsri,6-Jun-98,Nitrites
+1340,"1,21",Boonsri,6-Jun-98,Nitrates
+1341,"0,02",Boonsri,6-Jun-98,Orthophosphate-phosphorus
+1342,"0,07",Boonsri,6-Jun-98,Total phosphorus
+1343,13,Boonsri,6-Jun-98,Sodium
+1344,"3,19",Boonsri,6-Jun-98,Potassium
+1345,53,Boonsri,6-Jun-98,Calcium
+1346,12,Boonsri,6-Jun-98,Magnesium
+1347,22,Boonsri,6-Jun-98,Chlorides
+1348,44,Boonsri,6-Jun-98,Sulphates
+1349,"0,07",Boonsri,6-Jun-98,Iron
+1350,"0,12",Boonsri,6-Jun-98,Manganese
+1351,7,Boonsri,6-Jun-98,Zinc
+1352,12,Boonsri,6-Jun-98,Copper
+1353,10,Boonsri,6-Jun-98,Chromium
+1354,4,Boonsri,6-Jun-98,Lead
+1355,"0,35",Boonsri,6-Jun-98,Cadmium
+1356,0,Boonsri,6-Jun-98,Mercury
+1357,14,Boonsri,6-Jun-98,Nickel
+1358,0,Boonsri,6-Jun-98,Arsenic
+1359,"2,7",Boonsri,6-Jun-98,Biochemical Oxygen
+1360,"11,2",Boonsri,6-Jun-98,Chemical Oxygen Demand (Cr)
+1361,"4,1",Boonsri,6-Jun-98,Chemical Oxygen Demand (Mn)
+1362,0,Boonsri,6-Jun-98,AOX
+1363,0,Boonsri,6-Jun-98,Atrazine
+1364,0,Boonsri,6-Jun-98,"p,p-DDT"
+1365,"0,006",Boonsri,6-Jun-98,gamma-Hexachlorocyclohexane
+1366,0,Boonsri,6-Jun-98,Cesium
+1367,0,Boonsri,6-Jun-98,Macrozoobenthos
+1368,0,Boonsri,6-Jun-98,Total coliforms
+1369,0,Boonsri,6-Jun-98,Fecal coliforms
+1370,25,Kohsoom,27-Jun-98,Water temperature
+1371,"2,4",Kohsoom,27-Jun-98,Dissolved oxygen
+1372,"0,95",Kohsoom,27-Jun-98,Ammonium
+1373,"0,02",Kohsoom,27-Jun-98,Nitrites
+1374,"0,24",Kohsoom,27-Jun-98,Nitrates
+1375,"0,7",Kohsoom,27-Jun-98,Orthophosphate-phosphorus
+1376,"0,96",Kohsoom,27-Jun-98,Total phosphorus
+1377,"48,9",Kohsoom,27-Jun-98,Sodium
+1378,"9,35",Kohsoom,27-Jun-98,Potassium
+1379,64,Kohsoom,27-Jun-98,Calcium
+1380,27,Kohsoom,27-Jun-98,Magnesium
+1381,83,Kohsoom,27-Jun-98,Chlorides
+1382,"60,1",Kohsoom,27-Jun-98,Sulphates
+1383,"14,31",Kohsoom,27-Jun-98,Iron
+1384,"0,64",Kohsoom,27-Jun-98,Manganese
+1385,337,Kohsoom,27-Jun-98,Zinc
+1386,12,Kohsoom,27-Jun-98,Copper
+1387,12,Kohsoom,27-Jun-98,Chromium
+1388,34,Kohsoom,27-Jun-98,Lead
+1389,"45,6",Kohsoom,27-Jun-98,Cadmium
+1390,0,Kohsoom,27-Jun-98,Mercury
+1391,43,Kohsoom,27-Jun-98,Nickel
+1392,0,Kohsoom,27-Jun-98,Arsenic
+1393,"58,4",Kohsoom,27-Jun-98,Biochemical Oxygen
+1394,0,Kohsoom,27-Jun-98,Chemical Oxygen Demand (Cr)
+1395,12,Kohsoom,27-Jun-98,Chemical Oxygen Demand (Mn)
+1396,0,Kohsoom,27-Jun-98,AOX
+1397,0,Kohsoom,27-Jun-98,Atrazine
+1398,0,Kohsoom,27-Jun-98,"p,p-DDT"
+1399,"0,002",Kohsoom,27-Jun-98,gamma-Hexachlorocyclohexane
+1400,0,Kohsoom,27-Jun-98,Cesium
+1401,0,Kohsoom,27-Jun-98,Macrozoobenthos
+1402,0,Kohsoom,27-Jun-98,Total coliforms
+1403,0,Kohsoom,27-Jun-98,Fecal coliforms
+1404,24,Chai,28-Jun-98,Water temperature
+1405,"5,7",Chai,28-Jun-98,Dissolved oxygen
+1406,"0,21",Chai,28-Jun-98,Ammonium
+1407,"0,06",Chai,28-Jun-98,Nitrites
+1408,"0,95",Chai,28-Jun-98,Nitrates
+1409,"0,06",Chai,28-Jun-98,Orthophosphate-phosphorus
+1410,"0,12",Chai,28-Jun-98,Total phosphorus
+1411,"18,6",Chai,28-Jun-98,Sodium
+1412,"4,09",Chai,28-Jun-98,Potassium
+1413,55,Chai,28-Jun-98,Calcium
+1414,12,Chai,28-Jun-98,Magnesium
+1415,"22,7",Chai,28-Jun-98,Chlorides
+1416,51,Chai,28-Jun-98,Sulphates
+1417,"0,59",Chai,28-Jun-98,Iron
+1418,"0,08",Chai,28-Jun-98,Manganese
+1419,56,Chai,28-Jun-98,Zinc
+1420,11,Chai,28-Jun-98,Copper
+1421,13,Chai,28-Jun-98,Chromium
+1422,20,Chai,28-Jun-98,Lead
+1423,"0,8",Chai,28-Jun-98,Cadmium
+1424,0,Chai,28-Jun-98,Mercury
+1425,51,Chai,28-Jun-98,Nickel
+1426,0,Chai,28-Jun-98,Arsenic
+1427,"2,9",Chai,28-Jun-98,Biochemical Oxygen
+1428,"15,2",Chai,28-Jun-98,Chemical Oxygen Demand (Cr)
+1429,"4,2",Chai,28-Jun-98,Chemical Oxygen Demand (Mn)
+1430,0,Chai,28-Jun-98,AOX
+1431,0,Chai,28-Jun-98,Atrazine
+1432,"0,006",Chai,28-Jun-98,gamma-Hexachlorocyclohexane
+1433,0,Chai,28-Jun-98,Cesium
+1434,0,Chai,28-Jun-98,Macrozoobenthos
+1435,"0,02",Chai,28-Jun-98,Total coliforms
+1436,"0,0011",Chai,28-Jun-98,Fecal coliforms
+1437,24,Chai,28-Jun-98,Water temperature
+1438,"6,1",Chai,28-Jun-98,Dissolved oxygen
+1439,"0,16",Chai,28-Jun-98,Ammonium
+1440,"0,05",Chai,28-Jun-98,Nitrites
+1441,"1,28",Chai,28-Jun-98,Nitrates
+1442,"0,06",Chai,28-Jun-98,Orthophosphate-phosphorus
+1443,"0,12",Chai,28-Jun-98,Total phosphorus
+1444,"13,8",Chai,28-Jun-98,Sodium
+1445,"3,24",Chai,28-Jun-98,Potassium
+1446,55,Chai,28-Jun-98,Calcium
+1447,12,Chai,28-Jun-98,Magnesium
+1448,"22,7",Chai,28-Jun-98,Chlorides
+1449,"46,5",Chai,28-Jun-98,Sulphates
+1450,"0,38",Chai,28-Jun-98,Iron
+1451,"0,05",Chai,28-Jun-98,Manganese
+1452,49,Chai,28-Jun-98,Zinc
+1453,10,Chai,28-Jun-98,Copper
+1454,19,Chai,28-Jun-98,Chromium
+1455,11,Chai,28-Jun-98,Lead
+1456,"0,4",Chai,28-Jun-98,Cadmium
+1457,0,Chai,28-Jun-98,Mercury
+1458,32,Chai,28-Jun-98,Nickel
+1459,0,Chai,28-Jun-98,Arsenic
+1460,"2,6",Chai,28-Jun-98,Biochemical Oxygen
+1461,"12,8",Chai,28-Jun-98,Chemical Oxygen Demand (Cr)
+1462,"4,2",Chai,28-Jun-98,Chemical Oxygen Demand (Mn)
+1463,0,Chai,28-Jun-98,AOX
+1464,0,Chai,28-Jun-98,Atrazine
+1465,"0,004",Chai,28-Jun-98,gamma-Hexachlorocyclohexane
+1466,0,Chai,28-Jun-98,Cesium
+1467,0,Chai,28-Jun-98,Macrozoobenthos
+1468,"0,02",Chai,28-Jun-98,Total coliforms
+1469,"0,0049",Chai,28-Jun-98,Fecal coliforms
+1470,24,Chai,28-Jun-98,Water temperature
+1471,"5,8",Chai,28-Jun-98,Dissolved oxygen
+1472,"0,21",Chai,28-Jun-98,Ammonium
+1473,"0,06",Chai,28-Jun-98,Nitrites
+1474,"1,02",Chai,28-Jun-98,Nitrates
+1475,"0,06",Chai,28-Jun-98,Orthophosphate-phosphorus
+1476,"0,12",Chai,28-Jun-98,Total phosphorus
+1477,"13,5",Chai,28-Jun-98,Sodium
+1478,"3,93",Chai,28-Jun-98,Potassium
+1479,57,Chai,28-Jun-98,Calcium
+1480,12,Chai,28-Jun-98,Magnesium
+1481,"24,1",Chai,28-Jun-98,Chlorides
+1482,61,Chai,28-Jun-98,Sulphates
+1483,"0,42",Chai,28-Jun-98,Iron
+1484,"0,04",Chai,28-Jun-98,Manganese
+1485,29,Chai,28-Jun-98,Zinc
+1486,10,Chai,28-Jun-98,Copper
+1487,15,Chai,28-Jun-98,Chromium
+1488,1,Chai,28-Jun-98,Lead
+1489,"0,45",Chai,28-Jun-98,Cadmium
+1490,0,Chai,28-Jun-98,Mercury
+1491,41,Chai,28-Jun-98,Nickel
+1492,0,Chai,28-Jun-98,Arsenic
+1493,"2,8",Chai,28-Jun-98,Biochemical Oxygen
+1494,"11,3",Chai,28-Jun-98,Chemical Oxygen Demand (Cr)
+1495,"4,3",Chai,28-Jun-98,Chemical Oxygen Demand (Mn)
+1496,0,Chai,28-Jun-98,AOX
+1497,0,Chai,28-Jun-98,Atrazine
+1498,"0,004",Chai,28-Jun-98,gamma-Hexachlorocyclohexane
+1499,0,Chai,28-Jun-98,Cesium
+1500,0,Chai,28-Jun-98,Macrozoobenthos
+1501,"0,0023",Chai,28-Jun-98,Total coliforms
+1502,"0,0023",Chai,28-Jun-98,Fecal coliforms
+1503,22,Somchair,29-Jun-98,Water temperature
+1504,"5,7",Somchair,29-Jun-98,Dissolved oxygen
+1505,"1,02",Somchair,29-Jun-98,Ammonium
+1506,"0,2",Somchair,29-Jun-98,Nitrites
+1507,"1,34",Somchair,29-Jun-98,Nitrates
+1508,"0,07",Somchair,29-Jun-98,Orthophosphate-phosphorus
+1509,"0,6",Somchair,29-Jun-98,Total phosphorus
+1510,"81,7",Somchair,29-Jun-98,Sodium
+1511,"3,42",Somchair,29-Jun-98,Potassium
+1512,72,Somchair,29-Jun-98,Calcium
+1513,27,Somchair,29-Jun-98,Magnesium
+1514,117,Somchair,29-Jun-98,Chlorides
+1515,"94,2",Somchair,29-Jun-98,Sulphates
+1516,"28,25",Somchair,29-Jun-98,Iron
+1517,"1,72",Somchair,29-Jun-98,Manganese
+1518,121,Somchair,29-Jun-98,Zinc
+1519,10,Somchair,29-Jun-98,Copper
+1520,21,Somchair,29-Jun-98,Chromium
+1521,10,Somchair,29-Jun-98,Lead
+1522,"3,59",Somchair,29-Jun-98,Cadmium
+1523,0,Somchair,29-Jun-98,Mercury
+1524,10,Somchair,29-Jun-98,Nickel
+1525,0,Somchair,29-Jun-98,Arsenic
+1526,"5,6",Somchair,29-Jun-98,Biochemical Oxygen
+1527,0,Somchair,29-Jun-98,Chemical Oxygen Demand (Cr)
+1528,"7,4",Somchair,29-Jun-98,Chemical Oxygen Demand (Mn)
+1529,0,Somchair,29-Jun-98,AOX
+1530,0,Somchair,29-Jun-98,Atrazine
+1531,"0,002",Somchair,29-Jun-98,gamma-Hexachlorocyclohexane
+1532,0,Somchair,29-Jun-98,Cesium
+1533,0,Somchair,29-Jun-98,Macrozoobenthos
+1534,0,Somchair,29-Jun-98,Total coliforms
+1535,0,Somchair,29-Jun-98,Fecal coliforms
+1536,25,Kannika,29-Jun-98,Water temperature
+1537,6,Kannika,29-Jun-98,Dissolved oxygen
+1538,"0,31",Kannika,29-Jun-98,Ammonium
+1539,"0,07",Kannika,29-Jun-98,Nitrites
+1540,"1,45",Kannika,29-Jun-98,Nitrates
+1541,"0,08",Kannika,29-Jun-98,Orthophosphate-phosphorus
+1542,"0,11",Kannika,29-Jun-98,Total phosphorus
+1543,"20,8",Kannika,29-Jun-98,Sodium
+1544,4,Kannika,29-Jun-98,Potassium
+1545,56,Kannika,29-Jun-98,Calcium
+1546,12,Kannika,29-Jun-98,Magnesium
+1547,"26,2",Kannika,29-Jun-98,Chlorides
+1548,"41,1",Kannika,29-Jun-98,Sulphates
+1549,"0,89",Kannika,29-Jun-98,Iron
+1550,0,Kannika,29-Jun-98,Manganese
+1551,40,Kannika,29-Jun-98,Zinc
+1552,11,Kannika,29-Jun-98,Copper
+1553,10,Kannika,29-Jun-98,Chromium
+1554,10,Kannika,29-Jun-98,Lead
+1555,"0,9",Kannika,29-Jun-98,Cadmium
+1556,0,Kannika,29-Jun-98,Mercury
+1557,27,Kannika,29-Jun-98,Nickel
+1558,0,Kannika,29-Jun-98,Arsenic
+1559,"3,1",Kannika,29-Jun-98,Biochemical Oxygen
+1560,"11,5",Kannika,29-Jun-98,Chemical Oxygen Demand (Cr)
+1561,"4,3",Kannika,29-Jun-98,Chemical Oxygen Demand (Mn)
+1562,0,Kannika,29-Jun-98,AOX
+1563,0,Kannika,29-Jun-98,Atrazine
+1564,"0,006",Kannika,29-Jun-98,gamma-Hexachlorocyclohexane
+1565,0,Kannika,29-Jun-98,Cesium
+1566,0,Kannika,29-Jun-98,Macrozoobenthos
+1567,"0,007",Kannika,29-Jun-98,Total coliforms
+1568,"0,0011",Kannika,29-Jun-98,Fecal coliforms
+1569,25,Kannika,29-Jun-98,Water temperature
+1570,"6,4",Kannika,29-Jun-98,Dissolved oxygen
+1571,"0,28",Kannika,29-Jun-98,Ammonium
+1572,"0,06",Kannika,29-Jun-98,Nitrites
+1573,"1,07",Kannika,29-Jun-98,Nitrates
+1574,"0,09",Kannika,29-Jun-98,Orthophosphate-phosphorus
+1575,"0,12",Kannika,29-Jun-98,Total phosphorus
+1576,"17,6",Kannika,29-Jun-98,Sodium
+1577,"3,5",Kannika,29-Jun-98,Potassium
+1578,55,Kannika,29-Jun-98,Calcium
+1579,12,Kannika,29-Jun-98,Magnesium
+1580,"25,5",Kannika,29-Jun-98,Chlorides
+1581,42,Kannika,29-Jun-98,Sulphates
+1582,"0,47",Kannika,29-Jun-98,Iron
+1583,0,Kannika,29-Jun-98,Manganese
+1584,10,Kannika,29-Jun-98,Zinc
+1585,12,Kannika,29-Jun-98,Copper
+1586,10,Kannika,29-Jun-98,Chromium
+1587,10,Kannika,29-Jun-98,Lead
+1588,"0,5",Kannika,29-Jun-98,Cadmium
+1589,0,Kannika,29-Jun-98,Mercury
+1590,31,Kannika,29-Jun-98,Nickel
+1591,0,Kannika,29-Jun-98,Arsenic
+1592,"2,9",Kannika,29-Jun-98,Biochemical Oxygen
+1593,"10,9",Kannika,29-Jun-98,Chemical Oxygen Demand (Cr)
+1594,"4,2",Kannika,29-Jun-98,Chemical Oxygen Demand (Mn)
+1595,0,Kannika,29-Jun-98,AOX
+1596,0,Kannika,29-Jun-98,Atrazine
+1597,"0,004",Kannika,29-Jun-98,gamma-Hexachlorocyclohexane
+1598,0,Kannika,29-Jun-98,Cesium
+1599,0,Kannika,29-Jun-98,Macrozoobenthos
+1600,"0,0023",Kannika,29-Jun-98,Total coliforms
+1601,"0,00045",Kannika,29-Jun-98,Fecal coliforms
+1602,25,Kannika,29-Jun-98,Water temperature
+1603,"6,1",Kannika,29-Jun-98,Dissolved oxygen
+1604,"0,2",Kannika,29-Jun-98,Ammonium
+1605,"0,07",Kannika,29-Jun-98,Nitrites
+1606,"1,04",Kannika,29-Jun-98,Nitrates
+1607,"0,06",Kannika,29-Jun-98,Orthophosphate-phosphorus
+1608,"0,1",Kannika,29-Jun-98,Total phosphorus
+1609,"19,7",Kannika,29-Jun-98,Sodium
+1610,"3,7",Kannika,29-Jun-98,Potassium
+1611,55,Kannika,29-Jun-98,Calcium
+1612,12,Kannika,29-Jun-98,Magnesium
+1613,"24,1",Kannika,29-Jun-98,Chlorides
+1614,"41,5",Kannika,29-Jun-98,Sulphates
+1615,"0,66",Kannika,29-Jun-98,Iron
+1616,"0,06",Kannika,29-Jun-98,Manganese
+1617,10,Kannika,29-Jun-98,Zinc
+1618,11,Kannika,29-Jun-98,Copper
+1619,10,Kannika,29-Jun-98,Chromium
+1620,10,Kannika,29-Jun-98,Lead
+1621,"0,55",Kannika,29-Jun-98,Cadmium
+1622,0,Kannika,29-Jun-98,Mercury
+1623,51,Kannika,29-Jun-98,Nickel
+1624,0,Kannika,29-Jun-98,Arsenic
+1625,3,Kannika,29-Jun-98,Biochemical Oxygen
+1626,"12,1",Kannika,29-Jun-98,Chemical Oxygen Demand (Cr)
+1627,"4,2",Kannika,29-Jun-98,Chemical Oxygen Demand (Mn)
+1628,0,Kannika,29-Jun-98,AOX
+1629,0,Kannika,29-Jun-98,Atrazine
+1630,"0,002",Kannika,29-Jun-98,gamma-Hexachlorocyclohexane
+1631,0,Kannika,29-Jun-98,Cesium
+1632,0,Kannika,29-Jun-98,Macrozoobenthos
+1633,"0,01",Kannika,29-Jun-98,Total coliforms
+1634,"0,00078",Kannika,29-Jun-98,Fecal coliforms
+1635,25,Sakda,30-Jun-98,Water temperature
+1636,"6,3",Sakda,30-Jun-98,Dissolved oxygen
+1637,"0,19",Sakda,30-Jun-98,Ammonium
+1638,"0,06",Sakda,30-Jun-98,Nitrites
+1639,"1,06",Sakda,30-Jun-98,Nitrates
+1640,"0,05",Sakda,30-Jun-98,Orthophosphate-phosphorus
+1641,"0,16",Sakda,30-Jun-98,Total phosphorus
+1642,"20,1",Sakda,30-Jun-98,Sodium
+1643,"3,83",Sakda,30-Jun-98,Potassium
+1644,54,Sakda,30-Jun-98,Calcium
+1645,12,Sakda,30-Jun-98,Magnesium
+1646,"26,2",Sakda,30-Jun-98,Chlorides
+1647,"52,2",Sakda,30-Jun-98,Sulphates
+1648,"0,48",Sakda,30-Jun-98,Iron
+1649,"0,05",Sakda,30-Jun-98,Manganese
+1650,17,Sakda,30-Jun-98,Zinc
+1651,11,Sakda,30-Jun-98,Copper
+1652,10,Sakda,30-Jun-98,Chromium
+1653,1,Sakda,30-Jun-98,Lead
+1654,"0,35",Sakda,30-Jun-98,Cadmium
+1655,0,Sakda,30-Jun-98,Mercury
+1656,9,Sakda,30-Jun-98,Nickel
+1657,0,Sakda,30-Jun-98,Arsenic
+1658,"2,8",Sakda,30-Jun-98,Biochemical Oxygen
+1659,0,Sakda,30-Jun-98,Chemical Oxygen Demand (Cr)
+1660,"4,3",Sakda,30-Jun-98,Chemical Oxygen Demand (Mn)
+1661,0,Sakda,30-Jun-98,AOX
+1662,0,Sakda,30-Jun-98,Atrazine
+1663,0,Sakda,30-Jun-98,"p,p-DDT"
+1664,"0,004",Sakda,30-Jun-98,gamma-Hexachlorocyclohexane
+1665,0,Sakda,30-Jun-98,Cesium
+1666,0,Sakda,30-Jun-98,Macrozoobenthos
+1667,0,Sakda,30-Jun-98,Total coliforms
+1668,0,Sakda,30-Jun-98,Fecal coliforms
+1669,19,Boonsri,11-Jul-98,Water temperature
+1670,6,Boonsri,11-Jul-98,Dissolved oxygen
+1671,"0,15",Boonsri,11-Jul-98,Ammonium
+1672,"0,04",Boonsri,11-Jul-98,Nitrites
+1673,"1,49",Boonsri,11-Jul-98,Nitrates
+1674,"0,07",Boonsri,11-Jul-98,Orthophosphate-phosphorus
+1675,"0,09",Boonsri,11-Jul-98,Total phosphorus
+1676,"11,7",Boonsri,11-Jul-98,Sodium
+1677,"2,4",Boonsri,11-Jul-98,Potassium
+1678,41,Boonsri,11-Jul-98,Calcium
+1679,"13,9",Boonsri,11-Jul-98,Magnesium
+1680,"20,6",Boonsri,11-Jul-98,Chlorides
+1681,"42,6",Boonsri,11-Jul-98,Sulphates
+1682,"0,34",Boonsri,11-Jul-98,Iron
+1683,"0,008",Boonsri,11-Jul-98,Manganese
+1684,18,Boonsri,11-Jul-98,Zinc
+1685,9,Boonsri,11-Jul-98,Copper
+1686,0,Boonsri,11-Jul-98,Chromium
+1687,0,Boonsri,11-Jul-98,Lead
+1688,0,Boonsri,11-Jul-98,Cadmium
+1689,0,Boonsri,11-Jul-98,Mercury
+1690,6,Boonsri,11-Jul-98,Nickel
+1691,0,Boonsri,11-Jul-98,Arsenic
+1692,"1,9",Boonsri,11-Jul-98,Biochemical Oxygen
+1693,0,Boonsri,11-Jul-98,Chemical Oxygen Demand (Cr)
+1694,"3,4",Boonsri,11-Jul-98,Chemical Oxygen Demand (Mn)
+1695,0,Boonsri,11-Jul-98,AOX
+1696,0,Boonsri,11-Jul-98,Atrazine
+1697,0,Boonsri,11-Jul-98,Cesium
+1698,0,Boonsri,11-Jul-98,Macrozoobenthos
+1699,"0,28",Boonsri,11-Jul-98,Total coliforms
+1700,0,Boonsri,11-Jul-98,Fecal coliforms
+1701,17,Boonsri,11-Jul-98,Water temperature
+1702,"7,7",Boonsri,11-Jul-98,Dissolved oxygen
+1703,"0,11",Boonsri,11-Jul-98,Ammonium
+1704,"0,01",Boonsri,11-Jul-98,Nitrites
+1705,"1,65",Boonsri,11-Jul-98,Nitrates
+1706,"0,06",Boonsri,11-Jul-98,Orthophosphate-phosphorus
+1707,"0,13",Boonsri,11-Jul-98,Total phosphorus
+1708,"11,7",Boonsri,11-Jul-98,Sodium
+1709,"2,4",Boonsri,11-Jul-98,Potassium
+1710,"51,2",Boonsri,11-Jul-98,Calcium
+1711,"11,5",Boonsri,11-Jul-98,Magnesium
+1712,"20,6",Boonsri,11-Jul-98,Chlorides
+1713,"36,6",Boonsri,11-Jul-98,Sulphates
+1714,"0,32",Boonsri,11-Jul-98,Iron
+1715,"0,001",Boonsri,11-Jul-98,Manganese
+1716,19,Boonsri,11-Jul-98,Zinc
+1717,8,Boonsri,11-Jul-98,Copper
+1718,0,Boonsri,11-Jul-98,Chromium
+1719,0,Boonsri,11-Jul-98,Lead
+1720,0,Boonsri,11-Jul-98,Cadmium
+1721,0,Boonsri,11-Jul-98,Mercury
+1722,3,Boonsri,11-Jul-98,Nickel
+1723,0,Boonsri,11-Jul-98,Arsenic
+1724,"1,5",Boonsri,11-Jul-98,Biochemical Oxygen
+1725,0,Boonsri,11-Jul-98,Chemical Oxygen Demand (Cr)
+1726,"2,8",Boonsri,11-Jul-98,Chemical Oxygen Demand (Mn)
+1727,0,Boonsri,11-Jul-98,AOX
+1728,0,Boonsri,11-Jul-98,Atrazine
+1729,0,Boonsri,11-Jul-98,"p,p-DDT"
+1730,0,Boonsri,11-Jul-98,Cesium
+1731,0,Boonsri,11-Jul-98,Macrozoobenthos
+1732,"0,22",Boonsri,11-Jul-98,Total coliforms
+1733,0,Boonsri,11-Jul-98,Fecal coliforms
+1734,"26,5",Chai,23-Jul-98,Water temperature
+1735,"7,42",Chai,23-Jul-98,Dissolved oxygen
+1736,"0,77",Chai,23-Jul-98,Ammonium
+1737,"0,02",Chai,23-Jul-98,Nitrites
+1738,"1,47",Chai,23-Jul-98,Nitrates
+1739,"0,09",Chai,23-Jul-98,Orthophosphate-phosphorus
+1740,"0,11",Chai,23-Jul-98,Total phosphorus
+1741,18,Chai,23-Jul-98,Sodium
+1742,5,Chai,23-Jul-98,Potassium
+1743,"55,91",Chai,23-Jul-98,Calcium
+1744,"21,26",Chai,23-Jul-98,Magnesium
+1745,"36,21",Chai,23-Jul-98,Chlorides
+1746,59,Chai,23-Jul-98,Sulphates
+1747,"0,08",Chai,23-Jul-98,Iron
+1748,0,Chai,23-Jul-98,Manganese
+1749,0,Chai,23-Jul-98,Zinc
+1750,0,Chai,23-Jul-98,Copper
+1751,0,Chai,23-Jul-98,Chromium
+1752,0,Chai,23-Jul-98,Lead
+1753,0,Chai,23-Jul-98,Cadmium
+1754,0,Chai,23-Jul-98,Mercury
+1755,5,Chai,23-Jul-98,Nickel
+1756,0,Chai,23-Jul-98,Arsenic
+1757,"1,9",Chai,23-Jul-98,Biochemical Oxygen
+1758,"10,2",Chai,23-Jul-98,Chemical Oxygen Demand (Cr)
+1759,"3,38",Chai,23-Jul-98,Chemical Oxygen Demand (Mn)
+1760,0,Chai,23-Jul-98,AOX
+1761,0,Chai,23-Jul-98,Atrazine
+1762,0,Chai,23-Jul-98,Cesium
+1763,0,Chai,23-Jul-98,Macrozoobenthos
+1764,0,Chai,23-Jul-98,Total coliforms
+1765,0,Chai,23-Jul-98,Fecal coliforms
+1766,"26,5",Chai,23-Jul-98,Water temperature
+1767,"7,8",Chai,23-Jul-98,Dissolved oxygen
+1768,"1,24",Chai,23-Jul-98,Ammonium
+1769,"0,01",Chai,23-Jul-98,Nitrites
+1770,"1,26",Chai,23-Jul-98,Nitrates
+1771,"0,06",Chai,23-Jul-98,Orthophosphate-phosphorus
+1772,"0,1",Chai,23-Jul-98,Total phosphorus
+1773,"15,3",Chai,23-Jul-98,Sodium
+1774,"3,8",Chai,23-Jul-98,Potassium
+1775,"59,8",Chai,23-Jul-98,Calcium
+1776,"20,6",Chai,23-Jul-98,Magnesium
+1777,"29,5",Chai,23-Jul-98,Chlorides
+1778,"60,48",Chai,23-Jul-98,Sulphates
+1779,"0,09",Chai,23-Jul-98,Iron
+1780,0,Chai,23-Jul-98,Manganese
+1781,0,Chai,23-Jul-98,Zinc
+1782,0,Chai,23-Jul-98,Copper
+1783,0,Chai,23-Jul-98,Chromium
+1784,0,Chai,23-Jul-98,Lead
+1785,0,Chai,23-Jul-98,Cadmium
+1786,0,Chai,23-Jul-98,Mercury
+1787,0,Chai,23-Jul-98,Nickel
+1788,0,Chai,23-Jul-98,Arsenic
+1789,"1,7",Chai,23-Jul-98,Biochemical Oxygen
+1790,"9,6",Chai,23-Jul-98,Chemical Oxygen Demand (Cr)
+1791,"3,45",Chai,23-Jul-98,Chemical Oxygen Demand (Mn)
+1792,0,Chai,23-Jul-98,AOX
+1793,0,Chai,23-Jul-98,Atrazine
+1794,0,Chai,23-Jul-98,Cesium
+1795,0,Chai,23-Jul-98,Macrozoobenthos
+1796,0,Chai,23-Jul-98,Total coliforms
+1797,0,Chai,23-Jul-98,Fecal coliforms
+1798,"26,5",Chai,23-Jul-98,Water temperature
+1799,"7,8",Chai,23-Jul-98,Dissolved oxygen
+1800,"0,85",Chai,23-Jul-98,Ammonium
+1801,"0,01",Chai,23-Jul-98,Nitrites
+1802,"1,28",Chai,23-Jul-98,Nitrates
+1803,"0,08",Chai,23-Jul-98,Orthophosphate-phosphorus
+1804,"0,1",Chai,23-Jul-98,Total phosphorus
+1805,"16,5",Chai,23-Jul-98,Sodium
+1806,"4,3",Chai,23-Jul-98,Potassium
+1807,"60,1",Chai,23-Jul-98,Calcium
+1808,"20,6",Chai,23-Jul-98,Magnesium
+1809,"33,2",Chai,23-Jul-98,Chlorides
+1810,"66,72",Chai,23-Jul-98,Sulphates
+1811,"0,09",Chai,23-Jul-98,Iron
+1812,0,Chai,23-Jul-98,Manganese
+1813,0,Chai,23-Jul-98,Zinc
+1814,0,Chai,23-Jul-98,Copper
+1815,0,Chai,23-Jul-98,Chromium
+1816,0,Chai,23-Jul-98,Lead
+1817,0,Chai,23-Jul-98,Cadmium
+1818,0,Chai,23-Jul-98,Mercury
+1819,0,Chai,23-Jul-98,Nickel
+1820,0,Chai,23-Jul-98,Arsenic
+1821,"1,8",Chai,23-Jul-98,Biochemical Oxygen
+1822,"10,3",Chai,23-Jul-98,Chemical Oxygen Demand (Cr)
+1823,"3,45",Chai,23-Jul-98,Chemical Oxygen Demand (Mn)
+1824,0,Chai,23-Jul-98,AOX
+1825,0,Chai,23-Jul-98,Atrazine
+1826,0,Chai,23-Jul-98,Cesium
+1827,0,Chai,23-Jul-98,Macrozoobenthos
+1828,0,Chai,23-Jul-98,Total coliforms
+1829,0,Chai,23-Jul-98,Fecal coliforms
+1830,22,Kannika,26-Jul-98,Water temperature
+1831,"7,52",Kannika,26-Jul-98,Dissolved oxygen
+1832,"0,21",Kannika,26-Jul-98,Ammonium
+1833,"0,03",Kannika,26-Jul-98,Nitrites
+1834,"1,39",Kannika,26-Jul-98,Nitrates
+1835,"0,05",Kannika,26-Jul-98,Orthophosphate-phosphorus
+1836,"0,09",Kannika,26-Jul-98,Total phosphorus
+1837,"24,9",Kannika,26-Jul-98,Sodium
+1838,3,Kannika,26-Jul-98,Potassium
+1839,"56,1",Kannika,26-Jul-98,Calcium
+1840,"12,16",Kannika,26-Jul-98,Magnesium
+1841,"29,78",Kannika,26-Jul-98,Chlorides
+1842,"36,02",Kannika,26-Jul-98,Sulphates
+1843,"0,06",Kannika,26-Jul-98,Iron
+1844,"0,06",Kannika,26-Jul-98,Manganese
+1845,0,Kannika,26-Jul-98,Zinc
+1846,10,Kannika,26-Jul-98,Copper
+1847,30,Kannika,26-Jul-98,Chromium
+1848,0,Kannika,26-Jul-98,Lead
+1849,0,Kannika,26-Jul-98,Cadmium
+1850,0,Kannika,26-Jul-98,Mercury
+1851,10,Kannika,26-Jul-98,Nickel
+1852,0,Kannika,26-Jul-98,Arsenic
+1853,3,Kannika,26-Jul-98,Biochemical Oxygen
+1854,"12,1",Kannika,26-Jul-98,Chemical Oxygen Demand (Cr)
+1855,"3,6",Kannika,26-Jul-98,Chemical Oxygen Demand (Mn)
+1856,0,Kannika,26-Jul-98,AOX
+1857,0,Kannika,26-Jul-98,Atrazine
+1858,0,Kannika,26-Jul-98,Cesium
+1859,0,Kannika,26-Jul-98,Macrozoobenthos
+1860,0,Kannika,26-Jul-98,Total coliforms
+1861,0,Kannika,26-Jul-98,Fecal coliforms
+1862,22,Kannika,26-Jul-98,Water temperature
+1863,"7,4",Kannika,26-Jul-98,Dissolved oxygen
+1864,"0,21",Kannika,26-Jul-98,Ammonium
+1865,"0,03",Kannika,26-Jul-98,Nitrites
+1866,"1,39",Kannika,26-Jul-98,Nitrates
+1867,"0,05",Kannika,26-Jul-98,Orthophosphate-phosphorus
+1868,"0,09",Kannika,26-Jul-98,Total phosphorus
+1869,"23,4",Kannika,26-Jul-98,Sodium
+1870,3,Kannika,26-Jul-98,Potassium
+1871,"56,1",Kannika,26-Jul-98,Calcium
+1872,"11,7",Kannika,26-Jul-98,Magnesium
+1873,"29,4",Kannika,26-Jul-98,Chlorides
+1874,"32,7",Kannika,26-Jul-98,Sulphates
+1875,"0,05",Kannika,26-Jul-98,Iron
+1876,"0,05",Kannika,26-Jul-98,Manganese
+1877,0,Kannika,26-Jul-98,Zinc
+1878,10,Kannika,26-Jul-98,Copper
+1879,30,Kannika,26-Jul-98,Chromium
+1880,0,Kannika,26-Jul-98,Lead
+1881,0,Kannika,26-Jul-98,Cadmium
+1882,0,Kannika,26-Jul-98,Mercury
+1883,10,Kannika,26-Jul-98,Nickel
+1884,0,Kannika,26-Jul-98,Arsenic
+1885,"3,8",Kannika,26-Jul-98,Biochemical Oxygen
+1886,"12,8",Kannika,26-Jul-98,Chemical Oxygen Demand (Cr)
+1887,"3,6",Kannika,26-Jul-98,Chemical Oxygen Demand (Mn)
+1888,0,Kannika,26-Jul-98,AOX
+1889,0,Kannika,26-Jul-98,Atrazine
+1890,0,Kannika,26-Jul-98,Cesium
+1891,0,Kannika,26-Jul-98,Macrozoobenthos
+1892,0,Kannika,26-Jul-98,Total coliforms
+1893,0,Kannika,26-Jul-98,Fecal coliforms
+1894,22,Kannika,26-Jul-98,Water temperature
+1895,"7,61",Kannika,26-Jul-98,Dissolved oxygen
+1896,"0,21",Kannika,26-Jul-98,Ammonium
+1897,"0,03",Kannika,26-Jul-98,Nitrites
+1898,"1,37",Kannika,26-Jul-98,Nitrates
+1899,"0,04",Kannika,26-Jul-98,Orthophosphate-phosphorus
+1900,"0,09",Kannika,26-Jul-98,Total phosphorus
+1901,"24,9",Kannika,26-Jul-98,Sodium
+1902,"3,1",Kannika,26-Jul-98,Potassium
+1903,"56,91",Kannika,26-Jul-98,Calcium
+1904,"11,2",Kannika,26-Jul-98,Magnesium
+1905,"29,4",Kannika,26-Jul-98,Chlorides
+1906,"34,1",Kannika,26-Jul-98,Sulphates
+1907,"0,06",Kannika,26-Jul-98,Iron
+1908,0,Kannika,26-Jul-98,Manganese
+1909,10,Kannika,26-Jul-98,Zinc
+1910,10,Kannika,26-Jul-98,Copper
+1911,30,Kannika,26-Jul-98,Chromium
+1912,0,Kannika,26-Jul-98,Lead
+1913,0,Kannika,26-Jul-98,Cadmium
+1914,0,Kannika,26-Jul-98,Mercury
+1915,10,Kannika,26-Jul-98,Nickel
+1916,0,Kannika,26-Jul-98,Arsenic
+1917,"3,2",Kannika,26-Jul-98,Biochemical Oxygen
+1918,"13,2",Kannika,26-Jul-98,Chemical Oxygen Demand (Cr)
+1919,"3,5",Kannika,26-Jul-98,Chemical Oxygen Demand (Mn)
+1920,0,Kannika,26-Jul-98,AOX
+1921,0,Kannika,26-Jul-98,Atrazine
+1922,0,Kannika,26-Jul-98,Cesium
+1923,0,Kannika,26-Jul-98,Macrozoobenthos
+1924,0,Kannika,26-Jul-98,Total coliforms
+1925,0,Kannika,26-Jul-98,Fecal coliforms
+1926,23,Boonsri,8-Aug-98,Water temperature
+1927,"6,8",Boonsri,8-Aug-98,Dissolved oxygen
+1928,"0,21",Boonsri,8-Aug-98,Ammonium
+1929,"0,07",Boonsri,8-Aug-98,Nitrites
+1930,"0,9",Boonsri,8-Aug-98,Nitrates
+1931,"0,04",Boonsri,8-Aug-98,Orthophosphate-phosphorus
+1932,"0,08",Boonsri,8-Aug-98,Total phosphorus
+1933,14,Boonsri,8-Aug-98,Sodium
+1934,"2,8",Boonsri,8-Aug-98,Potassium
+1935,49,Boonsri,8-Aug-98,Calcium
+1936,"12,8",Boonsri,8-Aug-98,Magnesium
+1937,"25,5",Boonsri,8-Aug-98,Chlorides
+1938,"32,1",Boonsri,8-Aug-98,Sulphates
+1939,"0,19",Boonsri,8-Aug-98,Iron
+1940,"0,02",Boonsri,8-Aug-98,Manganese
+1941,97,Boonsri,8-Aug-98,Zinc
+1942,41,Boonsri,8-Aug-98,Copper
+1943,19,Boonsri,8-Aug-98,Chromium
+1944,4,Boonsri,8-Aug-98,Lead
+1945,"0,62",Boonsri,8-Aug-98,Cadmium
+1946,0,Boonsri,8-Aug-98,Mercury
+1947,13,Boonsri,8-Aug-98,Nickel
+1948,0,Boonsri,8-Aug-98,Arsenic
+1949,"2,9",Boonsri,8-Aug-98,Biochemical Oxygen
+1950,0,Boonsri,8-Aug-98,Chemical Oxygen Demand (Cr)
+1951,"3,3",Boonsri,8-Aug-98,Chemical Oxygen Demand (Mn)
+1952,0,Boonsri,8-Aug-98,AOX
+1953,0,Boonsri,8-Aug-98,Atrazine
+1954,0,Boonsri,8-Aug-98,Cesium
+1955,0,Boonsri,8-Aug-98,Macrozoobenthos
+1956,0,Boonsri,8-Aug-98,Total coliforms
+1957,0,Boonsri,8-Aug-98,Fecal coliforms
+1958,23,Boonsri,8-Aug-98,Water temperature
+1959,7,Boonsri,8-Aug-98,Dissolved oxygen
+1960,"0,19",Boonsri,8-Aug-98,Ammonium
+1961,"0,07",Boonsri,8-Aug-98,Nitrites
+1962,"0,94",Boonsri,8-Aug-98,Nitrates
+1963,"0,04",Boonsri,8-Aug-98,Orthophosphate-phosphorus
+1964,"0,08",Boonsri,8-Aug-98,Total phosphorus
+1965,"14,9",Boonsri,8-Aug-98,Sodium
+1966,"2,8",Boonsri,8-Aug-98,Potassium
+1967,48,Boonsri,8-Aug-98,Calcium
+1968,12,Boonsri,8-Aug-98,Magnesium
+1969,"24,8",Boonsri,8-Aug-98,Chlorides
+1970,32,Boonsri,8-Aug-98,Sulphates
+1971,"0,21",Boonsri,8-Aug-98,Iron
+1972,"0,003",Boonsri,8-Aug-98,Manganese
+1973,48,Boonsri,8-Aug-98,Zinc
+1974,34,Boonsri,8-Aug-98,Copper
+1975,21,Boonsri,8-Aug-98,Chromium
+1976,3,Boonsri,8-Aug-98,Lead
+1977,"0,58",Boonsri,8-Aug-98,Cadmium
+1978,0,Boonsri,8-Aug-98,Mercury
+1979,32,Boonsri,8-Aug-98,Nickel
+1980,0,Boonsri,8-Aug-98,Arsenic
+1981,"2,8",Boonsri,8-Aug-98,Biochemical Oxygen
+1982,0,Boonsri,8-Aug-98,Chemical Oxygen Demand (Cr)
+1983,"3,1",Boonsri,8-Aug-98,Chemical Oxygen Demand (Mn)
+1984,0,Boonsri,8-Aug-98,AOX
+1985,0,Boonsri,8-Aug-98,Atrazine
+1986,0,Boonsri,8-Aug-98,Cesium
+1987,0,Boonsri,8-Aug-98,Macrozoobenthos
+1988,0,Boonsri,8-Aug-98,Total coliforms
+1989,0,Boonsri,8-Aug-98,Fecal coliforms
+1990,"231,3",Chai,15-Aug-98,Manganese
+1991,"35,75",Chai,15-Aug-98,Zinc
+1992,"18,9",Chai,15-Aug-98,Copper
+1993,"17,4",Chai,15-Aug-98,Chromium
+1994,"32,89",Chai,15-Aug-98,Lead
+1995,"0,9",Chai,15-Aug-98,Cadmium
+1996,"475,3",Kannika,15-Aug-98,Manganese
+1997,"80,1",Kannika,15-Aug-98,Zinc
+1998,"62,2",Kannika,15-Aug-98,Copper
+1999,"27,2",Kannika,15-Aug-98,Chromium
+2000,"22,25",Kannika,15-Aug-98,Lead
+2001,"0,65",Kannika,15-Aug-98,Cadmium
+2002,"275,1",Sakda,15-Aug-98,Manganese
+2003,"49,3",Sakda,15-Aug-98,Zinc
+2004,"19,7",Sakda,15-Aug-98,Copper
+2005,"14,9",Sakda,15-Aug-98,Chromium
+2006,"23,36",Sakda,15-Aug-98,Lead
+2007,"0,45",Sakda,15-Aug-98,Cadmium
+2008,25,Kohsoom,22-Aug-98,Water temperature
+2009,"2,6",Kohsoom,22-Aug-98,Dissolved oxygen
+2010,"1,15",Kohsoom,22-Aug-98,Ammonium
+2011,"0,03",Kohsoom,22-Aug-98,Nitrites
+2012,"0,52",Kohsoom,22-Aug-98,Nitrates
+2013,"0,65",Kohsoom,22-Aug-98,Orthophosphate-phosphorus
+2014,"0,77",Kohsoom,22-Aug-98,Total phosphorus
+2015,"49,9",Kohsoom,22-Aug-98,Sodium
+2016,"8,4",Kohsoom,22-Aug-98,Potassium
+2017,53,Kohsoom,22-Aug-98,Calcium
+2018,"12,6",Kohsoom,22-Aug-98,Magnesium
+2019,"76,6",Kohsoom,22-Aug-98,Chlorides
+2020,"53,5",Kohsoom,22-Aug-98,Sulphates
+2021,"1,97",Kohsoom,22-Aug-98,Iron
+2022,"0,24",Kohsoom,22-Aug-98,Manganese
+2023,356,Kohsoom,22-Aug-98,Zinc
+2024,108,Kohsoom,22-Aug-98,Copper
+2025,13,Kohsoom,22-Aug-98,Chromium
+2026,52,Kohsoom,22-Aug-98,Lead
+2027,"0,19",Kohsoom,22-Aug-98,Cadmium
+2028,0,Kohsoom,22-Aug-98,Mercury
+2029,63,Kohsoom,22-Aug-98,Nickel
+2030,0,Kohsoom,22-Aug-98,Arsenic
+2031,"62,5",Kohsoom,22-Aug-98,Biochemical Oxygen
+2032,0,Kohsoom,22-Aug-98,Chemical Oxygen Demand (Cr)
+2033,"11,1",Kohsoom,22-Aug-98,Chemical Oxygen Demand (Mn)
+2034,0,Kohsoom,22-Aug-98,AOX
+2035,0,Kohsoom,22-Aug-98,Atrazine
+2036,0,Kohsoom,22-Aug-98,Cesium
+2037,0,Kohsoom,22-Aug-98,Macrozoobenthos
+2038,0,Kohsoom,22-Aug-98,Total coliforms
+2039,0,Kohsoom,22-Aug-98,Fecal coliforms
+2040,"23,5",Chai,23-Aug-98,Water temperature
+2041,"5,9",Chai,23-Aug-98,Dissolved oxygen
+2042,"0,23",Chai,23-Aug-98,Ammonium
+2043,"0,07",Chai,23-Aug-98,Nitrites
+2044,"1,08",Chai,23-Aug-98,Nitrates
+2045,"0,07",Chai,23-Aug-98,Orthophosphate-phosphorus
+2046,"0,12",Chai,23-Aug-98,Total phosphorus
+2047,"17,5",Chai,23-Aug-98,Sodium
+2048,"3,5",Chai,23-Aug-98,Potassium
+2049,48,Chai,23-Aug-98,Calcium
+2050,"13,2",Chai,23-Aug-98,Magnesium
+2051,"27,6",Chai,23-Aug-98,Chlorides
+2052,"37,4",Chai,23-Aug-98,Sulphates
+2053,"0,39",Chai,23-Aug-98,Iron
+2054,"0,03",Chai,23-Aug-98,Manganese
+2055,314,Chai,23-Aug-98,Zinc
+2056,1,Chai,23-Aug-98,Copper
+2057,11,Chai,23-Aug-98,Chromium
+2058,11,Chai,23-Aug-98,Lead
+2059,"0,87",Chai,23-Aug-98,Cadmium
+2060,0,Chai,23-Aug-98,Mercury
+2061,43,Chai,23-Aug-98,Nickel
+2062,0,Chai,23-Aug-98,Arsenic
+2063,"3,1",Chai,23-Aug-98,Biochemical Oxygen
+2064,"14,1",Chai,23-Aug-98,Chemical Oxygen Demand (Cr)
+2065,"3,3",Chai,23-Aug-98,Chemical Oxygen Demand (Mn)
+2066,0,Chai,23-Aug-98,AOX
+2067,0,Chai,23-Aug-98,Atrazine
+2068,0,Chai,23-Aug-98,Cesium
+2069,"1,81",Chai,23-Aug-98,Macrozoobenthos
+2070,"0,03",Chai,23-Aug-98,Total coliforms
+2071,"0,02",Chai,23-Aug-98,Fecal coliforms
+2072,23,Chai,23-Aug-98,Water temperature
+2073,"6,4",Chai,23-Aug-98,Dissolved oxygen
+2074,"0,18",Chai,23-Aug-98,Ammonium
+2075,"0,06",Chai,23-Aug-98,Nitrites
+2076,"1,22",Chai,23-Aug-98,Nitrates
+2077,"0,07",Chai,23-Aug-98,Orthophosphate-phosphorus
+2078,"0,15",Chai,23-Aug-98,Total phosphorus
+2079,"15,5",Chai,23-Aug-98,Sodium
+2080,3,Chai,23-Aug-98,Potassium
+2081,48,Chai,23-Aug-98,Calcium
+2082,"13,2",Chai,23-Aug-98,Magnesium
+2083,"27,6",Chai,23-Aug-98,Chlorides
+2084,"37,6",Chai,23-Aug-98,Sulphates
+2085,"0,39",Chai,23-Aug-98,Iron
+2086,"0,03",Chai,23-Aug-98,Manganese
+2087,413,Chai,23-Aug-98,Zinc
+2088,1,Chai,23-Aug-98,Copper
+2089,9,Chai,23-Aug-98,Chromium
+2090,16,Chai,23-Aug-98,Lead
+2091,"0,39",Chai,23-Aug-98,Cadmium
+2092,0,Chai,23-Aug-98,Mercury
+2093,35,Chai,23-Aug-98,Nickel
+2094,0,Chai,23-Aug-98,Arsenic
+2095,"2,8",Chai,23-Aug-98,Biochemical Oxygen
+2096,"10,2",Chai,23-Aug-98,Chemical Oxygen Demand (Cr)
+2097,"3,3",Chai,23-Aug-98,Chemical Oxygen Demand (Mn)
+2098,0,Chai,23-Aug-98,AOX
+2099,0,Chai,23-Aug-98,Atrazine
+2100,0,Chai,23-Aug-98,Cesium
+2101,"2,18",Chai,23-Aug-98,Macrozoobenthos
+2102,"0,0027",Chai,23-Aug-98,Total coliforms
+2103,"0,0013",Chai,23-Aug-98,Fecal coliforms
+2104,23,Chai,23-Aug-98,Water temperature
+2105,"6,1",Chai,23-Aug-98,Dissolved oxygen
+2106,"0,23",Chai,23-Aug-98,Ammonium
+2107,"0,07",Chai,23-Aug-98,Nitrites
+2108,"1,26",Chai,23-Aug-98,Nitrates
+2109,"0,07",Chai,23-Aug-98,Orthophosphate-phosphorus
+2110,"0,12",Chai,23-Aug-98,Total phosphorus
+2111,15,Chai,23-Aug-98,Sodium
+2112,"2,9",Chai,23-Aug-98,Potassium
+2113,51,Chai,23-Aug-98,Calcium
+2114,"12,6",Chai,23-Aug-98,Magnesium
+2115,30,Chai,23-Aug-98,Chlorides
+2116,37,Chai,23-Aug-98,Sulphates
+2117,"0,44",Chai,23-Aug-98,Iron
+2118,"0,03",Chai,23-Aug-98,Manganese
+2119,345,Chai,23-Aug-98,Zinc
+2120,21,Chai,23-Aug-98,Copper
+2121,10,Chai,23-Aug-98,Chromium
+2122,7,Chai,23-Aug-98,Lead
+2123,"0,11",Chai,23-Aug-98,Cadmium
+2124,0,Chai,23-Aug-98,Mercury
+2125,32,Chai,23-Aug-98,Nickel
+2126,0,Chai,23-Aug-98,Arsenic
+2127,3,Chai,23-Aug-98,Biochemical Oxygen
+2128,"9,9",Chai,23-Aug-98,Chemical Oxygen Demand (Cr)
+2129,"3,5",Chai,23-Aug-98,Chemical Oxygen Demand (Mn)
+2130,0,Chai,23-Aug-98,AOX
+2131,0,Chai,23-Aug-98,Atrazine
+2132,0,Chai,23-Aug-98,Cesium
+2133,"1,94",Chai,23-Aug-98,Macrozoobenthos
+2134,"0,0064",Chai,23-Aug-98,Total coliforms
+2135,"0,0022",Chai,23-Aug-98,Fecal coliforms
+2136,21,Somchair,24-Aug-98,Water temperature
+2137,6,Somchair,24-Aug-98,Dissolved oxygen
+2138,"1,14",Somchair,24-Aug-98,Ammonium
+2139,"0,24",Somchair,24-Aug-98,Nitrites
+2140,"1,87",Somchair,24-Aug-98,Nitrates
+2141,"0,02",Somchair,24-Aug-98,Orthophosphate-phosphorus
+2142,"0,05",Somchair,24-Aug-98,Total phosphorus
+2143,"36,7",Somchair,24-Aug-98,Sodium
+2144,"5,5",Somchair,24-Aug-98,Potassium
+2145,62,Somchair,24-Aug-98,Calcium
+2146,"27,6",Somchair,24-Aug-98,Magnesium
+2147,"103,5",Somchair,24-Aug-98,Chlorides
+2148,52,Somchair,24-Aug-98,Sulphates
+2149,"6,75",Somchair,24-Aug-98,Iron
+2150,"0,73",Somchair,24-Aug-98,Manganese
+2151,285,Somchair,24-Aug-98,Zinc
+2152,1,Somchair,24-Aug-98,Copper
+2153,10,Somchair,24-Aug-98,Chromium
+2154,15,Somchair,24-Aug-98,Lead
+2155,"0,52",Somchair,24-Aug-98,Cadmium
+2156,0,Somchair,24-Aug-98,Mercury
+2157,78,Somchair,24-Aug-98,Nickel
+2158,0,Somchair,24-Aug-98,Arsenic
+2159,"5,9",Somchair,24-Aug-98,Biochemical Oxygen
+2160,0,Somchair,24-Aug-98,Chemical Oxygen Demand (Cr)
+2161,"6,5",Somchair,24-Aug-98,Chemical Oxygen Demand (Mn)
+2162,0,Somchair,24-Aug-98,AOX
+2163,0,Somchair,24-Aug-98,Atrazine
+2164,0,Somchair,24-Aug-98,Cesium
+2165,0,Somchair,24-Aug-98,Macrozoobenthos
+2166,0,Somchair,24-Aug-98,Total coliforms
+2167,0,Somchair,24-Aug-98,Fecal coliforms
+2168,23,Kannika,25-Aug-98,Water temperature
+2169,"6,3",Kannika,25-Aug-98,Dissolved oxygen
+2170,"0,23",Kannika,25-Aug-98,Ammonium
+2171,"0,06",Kannika,25-Aug-98,Nitrites
+2172,"0,96",Kannika,25-Aug-98,Nitrates
+2173,"0,03",Kannika,25-Aug-98,Orthophosphate-phosphorus
+2174,"0,07",Kannika,25-Aug-98,Total phosphorus
+2175,"22,5",Kannika,25-Aug-98,Sodium
+2176,"3,9",Kannika,25-Aug-98,Potassium
+2177,53,Kannika,25-Aug-98,Calcium
+2178,"14,4",Kannika,25-Aug-98,Magnesium
+2179,"31,1",Kannika,25-Aug-98,Chlorides
+2180,39,Kannika,25-Aug-98,Sulphates
+2181,1,Kannika,25-Aug-98,Iron
+2182,"0,01",Kannika,25-Aug-98,Manganese
+2183,300,Kannika,25-Aug-98,Zinc
+2184,1,Kannika,25-Aug-98,Copper
+2185,20,Kannika,25-Aug-98,Chromium
+2186,20,Kannika,25-Aug-98,Lead
+2187,"1,2",Kannika,25-Aug-98,Cadmium
+2188,0,Kannika,25-Aug-98,Mercury
+2189,36,Kannika,25-Aug-98,Nickel
+2190,0,Kannika,25-Aug-98,Arsenic
+2191,"3,3",Kannika,25-Aug-98,Biochemical Oxygen
+2192,"13,7",Kannika,25-Aug-98,Chemical Oxygen Demand (Cr)
+2193,"3,4",Kannika,25-Aug-98,Chemical Oxygen Demand (Mn)
+2194,0,Kannika,25-Aug-98,AOX
+2195,0,Kannika,25-Aug-98,Atrazine
+2196,0,Kannika,25-Aug-98,Cesium
+2197,"1,87",Kannika,25-Aug-98,Macrozoobenthos
+2198,"0,09",Kannika,25-Aug-98,Total coliforms
+2199,"0,007",Kannika,25-Aug-98,Fecal coliforms
+2200,23,Kannika,25-Aug-98,Water temperature
+2201,"6,7",Kannika,25-Aug-98,Dissolved oxygen
+2202,"0,21",Kannika,25-Aug-98,Ammonium
+2203,"0,07",Kannika,25-Aug-98,Nitrites
+2204,"0,91",Kannika,25-Aug-98,Nitrates
+2205,"0,04",Kannika,25-Aug-98,Orthophosphate-phosphorus
+2206,"0,08",Kannika,25-Aug-98,Total phosphorus
+2207,"22,7",Kannika,25-Aug-98,Sodium
+2208,"3,6",Kannika,25-Aug-98,Potassium
+2209,54,Kannika,25-Aug-98,Calcium
+2210,"14,4",Kannika,25-Aug-98,Magnesium
+2211,"29,7",Kannika,25-Aug-98,Chlorides
+2212,39,Kannika,25-Aug-98,Sulphates
+2213,"0,93",Kannika,25-Aug-98,Iron
+2214,0,Kannika,25-Aug-98,Manganese
+2215,210,Kannika,25-Aug-98,Zinc
+2216,1,Kannika,25-Aug-98,Copper
+2217,10,Kannika,25-Aug-98,Chromium
+2218,20,Kannika,25-Aug-98,Lead
+2219,"2,58",Kannika,25-Aug-98,Cadmium
+2220,0,Kannika,25-Aug-98,Mercury
+2221,10,Kannika,25-Aug-98,Nickel
+2222,0,Kannika,25-Aug-98,Arsenic
+2223,"3,1",Kannika,25-Aug-98,Biochemical Oxygen
+2224,"11,7",Kannika,25-Aug-98,Chemical Oxygen Demand (Cr)
+2225,"3,3",Kannika,25-Aug-98,Chemical Oxygen Demand (Mn)
+2226,0,Kannika,25-Aug-98,AOX
+2227,0,Kannika,25-Aug-98,Atrazine
+2228,0,Kannika,25-Aug-98,Cesium
+2229,2,Kannika,25-Aug-98,Macrozoobenthos
+2230,"0,06",Kannika,25-Aug-98,Total coliforms
+2231,"0,0084",Kannika,25-Aug-98,Fecal coliforms
+2232,23,Kannika,25-Aug-98,Water temperature
+2233,"6,3",Kannika,25-Aug-98,Dissolved oxygen
+2234,"0,23",Kannika,25-Aug-98,Ammonium
+2235,"0,06",Kannika,25-Aug-98,Nitrites
+2236,"0,96",Kannika,25-Aug-98,Nitrates
+2237,"0,03",Kannika,25-Aug-98,Orthophosphate-phosphorus
+2238,"0,07",Kannika,25-Aug-98,Total phosphorus
+2239,"22,5",Kannika,25-Aug-98,Sodium
+2240,"3,4",Kannika,25-Aug-98,Potassium
+2241,55,Kannika,25-Aug-98,Calcium
+2242,"14,4",Kannika,25-Aug-98,Magnesium
+2243,29,Kannika,25-Aug-98,Chlorides
+2244,"39,7",Kannika,25-Aug-98,Sulphates
+2245,1,Kannika,25-Aug-98,Iron
+2246,"0,04",Kannika,25-Aug-98,Manganese
+2247,160,Kannika,25-Aug-98,Zinc
+2248,1,Kannika,25-Aug-98,Copper
+2249,10,Kannika,25-Aug-98,Chromium
+2250,20,Kannika,25-Aug-98,Lead
+2251,"1,18",Kannika,25-Aug-98,Cadmium
+2252,0,Kannika,25-Aug-98,Mercury
+2253,40,Kannika,25-Aug-98,Nickel
+2254,0,Kannika,25-Aug-98,Arsenic
+2255,"3,3",Kannika,25-Aug-98,Biochemical Oxygen
+2256,"13,7",Kannika,25-Aug-98,Chemical Oxygen Demand (Cr)
+2257,"3,2",Kannika,25-Aug-98,Chemical Oxygen Demand (Mn)
+2258,0,Kannika,25-Aug-98,AOX
+2259,0,Kannika,25-Aug-98,Atrazine
+2260,0,Kannika,25-Aug-98,Cesium
+2261,"2,07",Kannika,25-Aug-98,Macrozoobenthos
+2262,"0,18",Kannika,25-Aug-98,Total coliforms
+2263,"0,01",Kannika,25-Aug-98,Fecal coliforms
+2264,23,Sakda,26-Aug-98,Water temperature
+2265,"6,6",Sakda,26-Aug-98,Dissolved oxygen
+2266,"0,21",Sakda,26-Aug-98,Ammonium
+2267,"0,07",Sakda,26-Aug-98,Nitrites
+2268,"0,77",Sakda,26-Aug-98,Nitrates
+2269,"0,04",Sakda,26-Aug-98,Orthophosphate-phosphorus
+2270,"0,08",Sakda,26-Aug-98,Total phosphorus
+2271,"21,6",Sakda,26-Aug-98,Sodium
+2272,"3,6",Sakda,26-Aug-98,Potassium
+2273,55,Sakda,26-Aug-98,Calcium
+2274,"13,8",Sakda,26-Aug-98,Magnesium
+2275,"37,6",Sakda,26-Aug-98,Chlorides
+2276,"40,5",Sakda,26-Aug-98,Sulphates
+2277,"0,44",Sakda,26-Aug-98,Iron
+2278,"0,03",Sakda,26-Aug-98,Manganese
+2279,251,Sakda,26-Aug-98,Zinc
+2280,34,Sakda,26-Aug-98,Copper
+2281,9,Sakda,26-Aug-98,Chromium
+2282,18,Sakda,26-Aug-98,Lead
+2283,"1,12",Sakda,26-Aug-98,Cadmium
+2284,0,Sakda,26-Aug-98,Mercury
+2285,18,Sakda,26-Aug-98,Nickel
+2286,0,Sakda,26-Aug-98,Arsenic
+2287,3,Sakda,26-Aug-98,Biochemical Oxygen
+2288,0,Sakda,26-Aug-98,Chemical Oxygen Demand (Cr)
+2289,"3,3",Sakda,26-Aug-98,Chemical Oxygen Demand (Mn)
+2290,0,Sakda,26-Aug-98,AOX
+2291,0,Sakda,26-Aug-98,Atrazine
+2292,0,Sakda,26-Aug-98,Cesium
+2293,"2,04",Sakda,26-Aug-98,Macrozoobenthos
+2294,0,Sakda,26-Aug-98,Total coliforms
+2295,0,Sakda,26-Aug-98,Fecal coliforms
+2296,14,Boonsri,5-Sep-98,Water temperature
+2297,"7,8",Boonsri,5-Sep-98,Dissolved oxygen
+2298,"0,3",Boonsri,5-Sep-98,Ammonium
+2299,"0,06",Boonsri,5-Sep-98,Nitrites
+2300,"0,89",Boonsri,5-Sep-98,Nitrates
+2301,"0,04",Boonsri,5-Sep-98,Orthophosphate-phosphorus
+2302,"0,12",Boonsri,5-Sep-98,Total phosphorus
+2303,"16,2",Boonsri,5-Sep-98,Sodium
+2304,"2,6",Boonsri,5-Sep-98,Potassium
+2305,48,Boonsri,5-Sep-98,Calcium
+2306,"31,7",Boonsri,5-Sep-98,Magnesium
+2307,27,Boonsri,5-Sep-98,Chlorides
+2308,100,Boonsri,5-Sep-98,Sulphates
+2309,"0,45",Boonsri,5-Sep-98,Iron
+2310,"0,007",Boonsri,5-Sep-98,Manganese
+2311,33,Boonsri,5-Sep-98,Zinc
+2312,6,Boonsri,5-Sep-98,Copper
+2313,9,Boonsri,5-Sep-98,Chromium
+2314,0,Boonsri,5-Sep-98,Lead
+2315,0,Boonsri,5-Sep-98,Cadmium
+2316,0,Boonsri,5-Sep-98,Mercury
+2317,7,Boonsri,5-Sep-98,Nickel
+2318,0,Boonsri,5-Sep-98,Arsenic
+2319,"2,7",Boonsri,5-Sep-98,Biochemical Oxygen
+2320,0,Boonsri,5-Sep-98,Chemical Oxygen Demand (Cr)
+2321,"4,7",Boonsri,5-Sep-98,Chemical Oxygen Demand (Mn)
+2322,0,Boonsri,5-Sep-98,AOX
+2323,0,Boonsri,5-Sep-98,Atrazine
+2324,0,Boonsri,5-Sep-98,Cesium
+2325,0,Boonsri,5-Sep-98,Macrozoobenthos
+2326,"0,28",Boonsri,5-Sep-98,Total coliforms
+2327,0,Boonsri,5-Sep-98,Fecal coliforms
+2328,15,Boonsri,5-Sep-98,Water temperature
+2329,"7,8",Boonsri,5-Sep-98,Dissolved oxygen
+2330,"0,23",Boonsri,5-Sep-98,Ammonium
+2331,"0,07",Boonsri,5-Sep-98,Nitrites
+2332,"1,28",Boonsri,5-Sep-98,Nitrates
+2333,"0,04",Boonsri,5-Sep-98,Orthophosphate-phosphorus
+2334,"0,15",Boonsri,5-Sep-98,Total phosphorus
+2335,"16,2",Boonsri,5-Sep-98,Sodium
+2336,"2,6",Boonsri,5-Sep-98,Potassium
+2337,48,Boonsri,5-Sep-98,Calcium
+2338,"26,9",Boonsri,5-Sep-98,Magnesium
+2339,"19,9",Boonsri,5-Sep-98,Chlorides
+2340,"88,7",Boonsri,5-Sep-98,Sulphates
+2341,"0,41",Boonsri,5-Sep-98,Iron
+2342,"0,008",Boonsri,5-Sep-98,Manganese
+2343,21,Boonsri,5-Sep-98,Zinc
+2344,5,Boonsri,5-Sep-98,Copper
+2345,6,Boonsri,5-Sep-98,Chromium
+2346,0,Boonsri,5-Sep-98,Lead
+2347,0,Boonsri,5-Sep-98,Cadmium
+2348,0,Boonsri,5-Sep-98,Mercury
+2349,3,Boonsri,5-Sep-98,Nickel
+2350,0,Boonsri,5-Sep-98,Arsenic
+2351,"2,7",Boonsri,5-Sep-98,Biochemical Oxygen
+2352,0,Boonsri,5-Sep-98,Chemical Oxygen Demand (Cr)
+2353,"4,7",Boonsri,5-Sep-98,Chemical Oxygen Demand (Mn)
+2354,0,Boonsri,5-Sep-98,AOX
+2355,0,Boonsri,5-Sep-98,Atrazine
+2356,0,Boonsri,5-Sep-98,Cesium
+2357,0,Boonsri,5-Sep-98,Macrozoobenthos
+2358,"0,22",Boonsri,5-Sep-98,Total coliforms
+2359,0,Boonsri,5-Sep-98,Fecal coliforms
+2360,18,Kannika,20-Sep-98,Water temperature
+2361,"6,83",Kannika,20-Sep-98,Dissolved oxygen
+2362,"0,19",Kannika,20-Sep-98,Ammonium
+2363,"0,06",Kannika,20-Sep-98,Nitrites
+2364,"1,12",Kannika,20-Sep-98,Nitrates
+2365,"0,04",Kannika,20-Sep-98,Orthophosphate-phosphorus
+2366,"0,08",Kannika,20-Sep-98,Total phosphorus
+2367,"23,7",Kannika,20-Sep-98,Sodium
+2368,"3,5",Kannika,20-Sep-98,Potassium
+2369,"51,3",Kannika,20-Sep-98,Calcium
+2370,"14,59",Kannika,20-Sep-98,Magnesium
+2371,"29,42",Kannika,20-Sep-98,Chlorides
+2372,"41,78",Kannika,20-Sep-98,Sulphates
+2373,"0,01",Kannika,20-Sep-98,Iron
+2374,"0,08",Kannika,20-Sep-98,Manganese
+2375,0,Kannika,20-Sep-98,Zinc
+2376,10,Kannika,20-Sep-98,Copper
+2377,30,Kannika,20-Sep-98,Chromium
+2378,0,Kannika,20-Sep-98,Lead
+2379,0,Kannika,20-Sep-98,Cadmium
+2380,0,Kannika,20-Sep-98,Mercury
+2381,61,Kannika,20-Sep-98,Nickel
+2382,0,Kannika,20-Sep-98,Arsenic
+2383,"2,9",Kannika,20-Sep-98,Biochemical Oxygen
+2384,"13,9",Kannika,20-Sep-98,Chemical Oxygen Demand (Cr)
+2385,"3,7",Kannika,20-Sep-98,Chemical Oxygen Demand (Mn)
+2386,0,Kannika,20-Sep-98,AOX
+2387,0,Kannika,20-Sep-98,Atrazine
+2388,0,Kannika,20-Sep-98,Cesium
+2389,0,Kannika,20-Sep-98,Macrozoobenthos
+2390,0,Kannika,20-Sep-98,Total coliforms
+2391,0,Kannika,20-Sep-98,Fecal coliforms
+2392,18,Kannika,20-Sep-98,Water temperature
+2393,"7,6",Kannika,20-Sep-98,Dissolved oxygen
+2394,"0,14",Kannika,20-Sep-98,Ammonium
+2395,"0,05",Kannika,20-Sep-98,Nitrites
+2396,"1,12",Kannika,20-Sep-98,Nitrates
+2397,"0,03",Kannika,20-Sep-98,Orthophosphate-phosphorus
+2398,"0,07",Kannika,20-Sep-98,Total phosphorus
+2399,"23,7",Kannika,20-Sep-98,Sodium
+2400,"3,4",Kannika,20-Sep-98,Potassium
+2401,"49,7",Kannika,20-Sep-98,Calcium
+2402,"14,6",Kannika,20-Sep-98,Magnesium
+2403,"29,4",Kannika,20-Sep-98,Chlorides
+2404,"38,9",Kannika,20-Sep-98,Sulphates
+2405,"0,01",Kannika,20-Sep-98,Iron
+2406,"0,01",Kannika,20-Sep-98,Manganese
+2407,10,Kannika,20-Sep-98,Zinc
+2408,10,Kannika,20-Sep-98,Copper
+2409,30,Kannika,20-Sep-98,Chromium
+2410,0,Kannika,20-Sep-98,Lead
+2411,0,Kannika,20-Sep-98,Cadmium
+2412,0,Kannika,20-Sep-98,Mercury
+2413,1,Kannika,20-Sep-98,Nickel
+2414,0,Kannika,20-Sep-98,Arsenic
+2415,"3,3",Kannika,20-Sep-98,Biochemical Oxygen
+2416,"13,3",Kannika,20-Sep-98,Chemical Oxygen Demand (Cr)
+2417,"4,2",Kannika,20-Sep-98,Chemical Oxygen Demand (Mn)
+2418,0,Kannika,20-Sep-98,AOX
+2419,0,Kannika,20-Sep-98,Atrazine
+2420,0,Kannika,20-Sep-98,Cesium
+2421,0,Kannika,20-Sep-98,Macrozoobenthos
+2422,0,Kannika,20-Sep-98,Total coliforms
+2423,0,Kannika,20-Sep-98,Fecal coliforms
+2424,18,Kannika,20-Sep-98,Water temperature
+2425,"7,15",Kannika,20-Sep-98,Dissolved oxygen
+2426,"0,18",Kannika,20-Sep-98,Ammonium
+2427,"0,06",Kannika,20-Sep-98,Nitrites
+2428,"1,14",Kannika,20-Sep-98,Nitrates
+2429,"0,04",Kannika,20-Sep-98,Orthophosphate-phosphorus
+2430,"0,08",Kannika,20-Sep-98,Total phosphorus
+2431,"22,5",Kannika,20-Sep-98,Sodium
+2432,"3,4",Kannika,20-Sep-98,Potassium
+2433,"51,3",Kannika,20-Sep-98,Calcium
+2434,"14,6",Kannika,20-Sep-98,Magnesium
+2435,"29,8",Kannika,20-Sep-98,Chlorides
+2436,"43,7",Kannika,20-Sep-98,Sulphates
+2437,"0,01",Kannika,20-Sep-98,Iron
+2438,0,Kannika,20-Sep-98,Manganese
+2439,10,Kannika,20-Sep-98,Zinc
+2440,10,Kannika,20-Sep-98,Copper
+2441,30,Kannika,20-Sep-98,Chromium
+2442,0,Kannika,20-Sep-98,Lead
+2443,0,Kannika,20-Sep-98,Cadmium
+2444,0,Kannika,20-Sep-98,Mercury
+2445,1,Kannika,20-Sep-98,Nickel
+2446,0,Kannika,20-Sep-98,Arsenic
+2447,"1,3",Kannika,20-Sep-98,Biochemical Oxygen
+2448,"13,2",Kannika,20-Sep-98,Chemical Oxygen Demand (Cr)
+2449,"4,4",Kannika,20-Sep-98,Chemical Oxygen Demand (Mn)
+2450,0,Kannika,20-Sep-98,AOX
+2451,0,Kannika,20-Sep-98,Atrazine
+2452,0,Kannika,20-Sep-98,Cesium
+2453,0,Kannika,20-Sep-98,Macrozoobenthos
+2454,0,Kannika,20-Sep-98,Total coliforms
+2455,0,Kannika,20-Sep-98,Fecal coliforms
+2456,"16,5",Chai,27-Sep-98,Water temperature
+2457,"7,48",Chai,27-Sep-98,Dissolved oxygen
+2458,"0,19",Chai,27-Sep-98,Ammonium
+2459,"0,05",Chai,27-Sep-98,Nitrites
+2460,"0,71",Chai,27-Sep-98,Nitrates
+2461,"0,07",Chai,27-Sep-98,Orthophosphate-phosphorus
+2462,"0,12",Chai,27-Sep-98,Total phosphorus
+2463,"23,1",Chai,27-Sep-98,Sodium
+2464,"4,5",Chai,27-Sep-98,Potassium
+2465,"48,33",Chai,27-Sep-98,Calcium
+2466,"14,43",Chai,27-Sep-98,Magnesium
+2467,"40,6",Chai,27-Sep-98,Chlorides
+2468,"50,88",Chai,27-Sep-98,Sulphates
+2469,"0,06",Chai,27-Sep-98,Iron
+2470,0,Chai,27-Sep-98,Manganese
+2471,0,Chai,27-Sep-98,Zinc
+2472,0,Chai,27-Sep-98,Copper
+2473,0,Chai,27-Sep-98,Chromium
+2474,0,Chai,27-Sep-98,Lead
+2475,0,Chai,27-Sep-98,Cadmium
+2476,0,Chai,27-Sep-98,Mercury
+2477,0,Chai,27-Sep-98,Nickel
+2478,0,Chai,27-Sep-98,Arsenic
+2479,"3,07",Chai,27-Sep-98,Biochemical Oxygen
+2480,"10,06",Chai,27-Sep-98,Chemical Oxygen Demand (Cr)
+2481,"3,95",Chai,27-Sep-98,Chemical Oxygen Demand (Mn)
+2482,0,Chai,27-Sep-98,AOX
+2483,0,Chai,27-Sep-98,Atrazine
+2484,0,Chai,27-Sep-98,Cesium
+2485,"2,1",Chai,27-Sep-98,Macrozoobenthos
+2486,0,Chai,27-Sep-98,Total coliforms
+2487,0,Chai,27-Sep-98,Fecal coliforms
+2488,17,Chai,27-Sep-98,Water temperature
+2489,"7,14",Chai,27-Sep-98,Dissolved oxygen
+2490,"0,16",Chai,27-Sep-98,Ammonium
+2491,"0,04",Chai,27-Sep-98,Nitrites
+2492,"1,76",Chai,27-Sep-98,Nitrates
+2493,"0,07",Chai,27-Sep-98,Orthophosphate-phosphorus
+2494,"0,12",Chai,27-Sep-98,Total phosphorus
+2495,25,Chai,27-Sep-98,Sodium
+2496,"4,2",Chai,27-Sep-98,Potassium
+2497,"42,56",Chai,27-Sep-98,Calcium
+2498,"17,87",Chai,27-Sep-98,Magnesium
+2499,"36,9",Chai,27-Sep-98,Chlorides
+2500,"58,08",Chai,27-Sep-98,Sulphates
+2501,"0,03",Chai,27-Sep-98,Iron
+2502,0,Chai,27-Sep-98,Manganese
+2503,0,Chai,27-Sep-98,Zinc
+2504,0,Chai,27-Sep-98,Copper
+2505,0,Chai,27-Sep-98,Chromium
+2506,0,Chai,27-Sep-98,Lead
+2507,0,Chai,27-Sep-98,Cadmium
+2508,0,Chai,27-Sep-98,Mercury
+2509,0,Chai,27-Sep-98,Nickel
+2510,0,Chai,27-Sep-98,Arsenic
+2511,"3,2",Chai,27-Sep-98,Biochemical Oxygen
+2512,"9,97",Chai,27-Sep-98,Chemical Oxygen Demand (Cr)
+2513,"3,4",Chai,27-Sep-98,Chemical Oxygen Demand (Mn)
+2514,0,Chai,27-Sep-98,AOX
+2515,0,Chai,27-Sep-98,Atrazine
+2516,0,Chai,27-Sep-98,Cesium
+2517,"2,2",Chai,27-Sep-98,Macrozoobenthos
+2518,0,Chai,27-Sep-98,Total coliforms
+2519,0,Chai,27-Sep-98,Fecal coliforms
+2520,17,Chai,27-Sep-98,Water temperature
+2521,"7,34",Chai,27-Sep-98,Dissolved oxygen
+2522,"0,19",Chai,27-Sep-98,Ammonium
+2523,"0,05",Chai,27-Sep-98,Nitrites
+2524,"1,83",Chai,27-Sep-98,Nitrates
+2525,"0,07",Chai,27-Sep-98,Orthophosphate-phosphorus
+2526,"0,12",Chai,27-Sep-98,Total phosphorus
+2527,"23,7",Chai,27-Sep-98,Sodium
+2528,"3,9",Chai,27-Sep-98,Potassium
+2529,"48,12",Chai,27-Sep-98,Calcium
+2530,"17,02",Chai,27-Sep-98,Magnesium
+2531,"36,9",Chai,27-Sep-98,Chlorides
+2532,"64,36",Chai,27-Sep-98,Sulphates
+2533,"0,06",Chai,27-Sep-98,Iron
+2534,0,Chai,27-Sep-98,Manganese
+2535,0,Chai,27-Sep-98,Zinc
+2536,0,Chai,27-Sep-98,Copper
+2537,0,Chai,27-Sep-98,Chromium
+2538,0,Chai,27-Sep-98,Lead
+2539,0,Chai,27-Sep-98,Cadmium
+2540,0,Chai,27-Sep-98,Mercury
+2541,0,Chai,27-Sep-98,Nickel
+2542,0,Chai,27-Sep-98,Arsenic
+2543,"3,4",Chai,27-Sep-98,Biochemical Oxygen
+2544,"9,72",Chai,27-Sep-98,Chemical Oxygen Demand (Cr)
+2545,"3,75",Chai,27-Sep-98,Chemical Oxygen Demand (Mn)
+2546,0,Chai,27-Sep-98,AOX
+2547,0,Chai,27-Sep-98,Atrazine
+2548,0,Chai,27-Sep-98,Cesium
+2549,"2,08",Chai,27-Sep-98,Macrozoobenthos
+2550,0,Chai,27-Sep-98,Total coliforms
+2551,0,Chai,27-Sep-98,Fecal coliforms
+2552,15,Kohsoom,1-Oct-98,Water temperature
+2553,"8,7",Kohsoom,1-Oct-98,Dissolved oxygen
+2554,"0,54",Kohsoom,1-Oct-98,Ammonium
+2555,"0,03",Kohsoom,1-Oct-98,Nitrites
+2556,"2,86",Kohsoom,1-Oct-98,Nitrates
+2557,"0,1",Kohsoom,1-Oct-98,Orthophosphate-phosphorus
+2558,"0,18",Kohsoom,1-Oct-98,Total phosphorus
+2559,"14,8",Kohsoom,1-Oct-98,Sodium
+2560,"6,8",Kohsoom,1-Oct-98,Potassium
+2561,"68,6",Kohsoom,1-Oct-98,Calcium
+2562,"14,8",Kohsoom,1-Oct-98,Magnesium
+2563,57,Kohsoom,1-Oct-98,Chlorides
+2564,"68,4",Kohsoom,1-Oct-98,Sulphates
+2565,"0,35",Kohsoom,1-Oct-98,Iron
+2566,0,Kohsoom,1-Oct-98,Manganese
+2567,0,Kohsoom,1-Oct-98,Zinc
+2568,0,Kohsoom,1-Oct-98,Copper
+2569,0,Kohsoom,1-Oct-98,Chromium
+2570,0,Kohsoom,1-Oct-98,Lead
+2571,0,Kohsoom,1-Oct-98,Cadmium
+2572,0,Kohsoom,1-Oct-98,Mercury
+2573,0,Kohsoom,1-Oct-98,Nickel
+2574,0,Kohsoom,1-Oct-98,Arsenic
+2575,"5,1",Kohsoom,1-Oct-98,Biochemical Oxygen
+2576,"14,6",Kohsoom,1-Oct-98,Chemical Oxygen Demand (Cr)
+2577,"8,2",Kohsoom,1-Oct-98,Chemical Oxygen Demand (Mn)
+2578,0,Kohsoom,1-Oct-98,AOX
+2579,0,Kohsoom,1-Oct-98,Atrazine
+2580,0,Kohsoom,1-Oct-98,Cesium
+2581,0,Kohsoom,1-Oct-98,Macrozoobenthos
+2582,0,Kohsoom,1-Oct-98,Total coliforms
+2583,0,Kohsoom,1-Oct-98,Fecal coliforms
+2584,14,Boonsri,3-Oct-98,Water temperature
+2585,"9,1",Boonsri,3-Oct-98,Dissolved oxygen
+2586,"0,2",Boonsri,3-Oct-98,Ammonium
+2587,"0,05",Boonsri,3-Oct-98,Nitrites
+2588,"0,9",Boonsri,3-Oct-98,Nitrates
+2589,"0,02",Boonsri,3-Oct-98,Orthophosphate-phosphorus
+2590,"0,04",Boonsri,3-Oct-98,Total phosphorus
+2591,"10,2",Boonsri,3-Oct-98,Sodium
+2592,"2,8",Boonsri,3-Oct-98,Potassium
+2593,48,Boonsri,3-Oct-98,Calcium
+2594,"14,4",Boonsri,3-Oct-98,Magnesium
+2595,"21,3",Boonsri,3-Oct-98,Chlorides
+2596,"29,4",Boonsri,3-Oct-98,Sulphates
+2597,"0,47",Boonsri,3-Oct-98,Iron
+2598,"0,002",Boonsri,3-Oct-98,Manganese
+2599,2,Boonsri,3-Oct-98,Zinc
+2600,9,Boonsri,3-Oct-98,Copper
+2601,21,Boonsri,3-Oct-98,Chromium
+2602,5,Boonsri,3-Oct-98,Lead
+2603,"0,86",Boonsri,3-Oct-98,Cadmium
+2604,0,Boonsri,3-Oct-98,Mercury
+2605,3,Boonsri,3-Oct-98,Nickel
+2606,0,Boonsri,3-Oct-98,Arsenic
+2607,"2,3",Boonsri,3-Oct-98,Biochemical Oxygen
+2608,0,Boonsri,3-Oct-98,Chemical Oxygen Demand (Cr)
+2609,"3,2",Boonsri,3-Oct-98,Chemical Oxygen Demand (Mn)
+2610,0,Boonsri,3-Oct-98,AOX
+2611,0,Boonsri,3-Oct-98,Atrazine
+2612,0,Boonsri,3-Oct-98,Cesium
+2613,"2,04",Boonsri,3-Oct-98,Macrozoobenthos
+2614,0,Boonsri,3-Oct-98,Total coliforms
+2615,0,Boonsri,3-Oct-98,Fecal coliforms
+2616,"14,5",Boonsri,3-Oct-98,Water temperature
+2617,"9,8",Boonsri,3-Oct-98,Dissolved oxygen
+2618,"0,16",Boonsri,3-Oct-98,Ammonium
+2619,"0,06",Boonsri,3-Oct-98,Nitrites
+2620,"0,9",Boonsri,3-Oct-98,Nitrates
+2621,"0,02",Boonsri,3-Oct-98,Orthophosphate-phosphorus
+2622,"0,04",Boonsri,3-Oct-98,Total phosphorus
+2623,"10,2",Boonsri,3-Oct-98,Sodium
+2624,"2,8",Boonsri,3-Oct-98,Potassium
+2625,49,Boonsri,3-Oct-98,Calcium
+2626,"14,4",Boonsri,3-Oct-98,Magnesium
+2627,21,Boonsri,3-Oct-98,Chlorides
+2628,31,Boonsri,3-Oct-98,Sulphates
+2629,"0,25",Boonsri,3-Oct-98,Iron
+2630,"0,006",Boonsri,3-Oct-98,Manganese
+2631,6,Boonsri,3-Oct-98,Zinc
+2632,10,Boonsri,3-Oct-98,Copper
+2633,19,Boonsri,3-Oct-98,Chromium
+2634,12,Boonsri,3-Oct-98,Lead
+2635,"0,53",Boonsri,3-Oct-98,Cadmium
+2636,0,Boonsri,3-Oct-98,Mercury
+2637,3,Boonsri,3-Oct-98,Nickel
+2638,0,Boonsri,3-Oct-98,Arsenic
+2639,"2,4",Boonsri,3-Oct-98,Biochemical Oxygen
+2640,0,Boonsri,3-Oct-98,Chemical Oxygen Demand (Cr)
+2641,"3,1",Boonsri,3-Oct-98,Chemical Oxygen Demand (Mn)
+2642,0,Boonsri,3-Oct-98,AOX
+2643,0,Boonsri,3-Oct-98,Atrazine
+2644,1,Boonsri,3-Oct-98,Cesium
+2645,"2,15",Boonsri,3-Oct-98,Macrozoobenthos
+2646,0,Boonsri,3-Oct-98,Total coliforms
+2647,0,Boonsri,3-Oct-98,Fecal coliforms
+2648,14,Kannika,23-Oct-98,Water temperature
+2649,"8,6",Kannika,23-Oct-98,Dissolved oxygen
+2650,"0,31",Kannika,23-Oct-98,Ammonium
+2651,"0,03",Kannika,23-Oct-98,Nitrites
+2652,"1,81",Kannika,23-Oct-98,Nitrates
+2653,"0,09",Kannika,23-Oct-98,Orthophosphate-phosphorus
+2654,"0,12",Kannika,23-Oct-98,Total phosphorus
+2655,"16,5",Kannika,23-Oct-98,Sodium
+2656,"4,1",Kannika,23-Oct-98,Potassium
+2657,58,Kannika,23-Oct-98,Calcium
+2658,"15,6",Kannika,23-Oct-98,Magnesium
+2659,"26,2",Kannika,23-Oct-98,Chlorides
+2660,"34,3",Kannika,23-Oct-98,Sulphates
+2661,"0,25",Kannika,23-Oct-98,Iron
+2662,"0,08",Kannika,23-Oct-98,Manganese
+2663,50,Kannika,23-Oct-98,Zinc
+2664,26,Kannika,23-Oct-98,Copper
+2665,9,Kannika,23-Oct-98,Chromium
+2666,83,Kannika,23-Oct-98,Lead
+2667,"0,27",Kannika,23-Oct-98,Cadmium
+2668,0,Kannika,23-Oct-98,Mercury
+2669,0,Kannika,23-Oct-98,Nickel
+2670,0,Kannika,23-Oct-98,Arsenic
+2671,"2,9",Kannika,23-Oct-98,Biochemical Oxygen
+2672,"14,1",Kannika,23-Oct-98,Chemical Oxygen Demand (Cr)
+2673,"4,1",Kannika,23-Oct-98,Chemical Oxygen Demand (Mn)
+2674,0,Kannika,23-Oct-98,AOX
+2675,0,Kannika,23-Oct-98,Atrazine
+2676,0,Kannika,23-Oct-98,Cesium
+2677,"2,12",Kannika,23-Oct-98,Macrozoobenthos
+2678,"0,09",Kannika,23-Oct-98,Total coliforms
+2679,"0,007",Kannika,23-Oct-98,Fecal coliforms
+2680,14,Kannika,23-Oct-98,Water temperature
+2681,9,Kannika,23-Oct-98,Dissolved oxygen
+2682,"0,29",Kannika,23-Oct-98,Ammonium
+2683,"0,04",Kannika,23-Oct-98,Nitrites
+2684,"1,7",Kannika,23-Oct-98,Nitrates
+2685,"0,08",Kannika,23-Oct-98,Orthophosphate-phosphorus
+2686,"0,11",Kannika,23-Oct-98,Total phosphorus
+2687,17,Kannika,23-Oct-98,Sodium
+2688,"4,3",Kannika,23-Oct-98,Potassium
+2689,58,Kannika,23-Oct-98,Calcium
+2690,"15,6",Kannika,23-Oct-98,Magnesium
+2691,"25,5",Kannika,23-Oct-98,Chlorides
+2692,34,Kannika,23-Oct-98,Sulphates
+2693,"0,42",Kannika,23-Oct-98,Iron
+2694,0,Kannika,23-Oct-98,Manganese
+2695,70,Kannika,23-Oct-98,Zinc
+2696,23,Kannika,23-Oct-98,Copper
+2697,10,Kannika,23-Oct-98,Chromium
+2698,33,Kannika,23-Oct-98,Lead
+2699,"0,79",Kannika,23-Oct-98,Cadmium
+2700,0,Kannika,23-Oct-98,Mercury
+2701,0,Kannika,23-Oct-98,Nickel
+2702,0,Kannika,23-Oct-98,Arsenic
+2703,3,Kannika,23-Oct-98,Biochemical Oxygen
+2704,"14,6",Kannika,23-Oct-98,Chemical Oxygen Demand (Cr)
+2705,"4,3",Kannika,23-Oct-98,Chemical Oxygen Demand (Mn)
+2706,0,Kannika,23-Oct-98,AOX
+2707,0,Kannika,23-Oct-98,Atrazine
+2708,0,Kannika,23-Oct-98,Cesium
+2709,2,Kannika,23-Oct-98,Macrozoobenthos
+2710,"0,35",Kannika,23-Oct-98,Total coliforms
+2711,"0,01",Kannika,23-Oct-98,Fecal coliforms
+2712,14,Kannika,23-Oct-98,Water temperature
+2713,"8,7",Kannika,23-Oct-98,Dissolved oxygen
+2714,"0,29",Kannika,23-Oct-98,Ammonium
+2715,"0,04",Kannika,23-Oct-98,Nitrites
+2716,"1,65",Kannika,23-Oct-98,Nitrates
+2717,"0,09",Kannika,23-Oct-98,Orthophosphate-phosphorus
+2718,"0,12",Kannika,23-Oct-98,Total phosphorus
+2719,"16,8",Kannika,23-Oct-98,Sodium
+2720,"4,1",Kannika,23-Oct-98,Potassium
+2721,58,Kannika,23-Oct-98,Calcium
+2722,"16,2",Kannika,23-Oct-98,Magnesium
+2723,"25,5",Kannika,23-Oct-98,Chlorides
+2724,33,Kannika,23-Oct-98,Sulphates
+2725,"0,22",Kannika,23-Oct-98,Iron
+2726,"0,13",Kannika,23-Oct-98,Manganese
+2727,70,Kannika,23-Oct-98,Zinc
+2728,23,Kannika,23-Oct-98,Copper
+2729,12,Kannika,23-Oct-98,Chromium
+2730,30,Kannika,23-Oct-98,Lead
+2731,"0,66",Kannika,23-Oct-98,Cadmium
+2732,0,Kannika,23-Oct-98,Mercury
+2733,0,Kannika,23-Oct-98,Nickel
+2734,0,Kannika,23-Oct-98,Arsenic
+2735,"2,8",Kannika,23-Oct-98,Biochemical Oxygen
+2736,"14,3",Kannika,23-Oct-98,Chemical Oxygen Demand (Cr)
+2737,"4,7",Kannika,23-Oct-98,Chemical Oxygen Demand (Mn)
+2738,0,Kannika,23-Oct-98,AOX
+2739,0,Kannika,23-Oct-98,Atrazine
+2740,0,Kannika,23-Oct-98,Cesium
+2741,"1,96",Kannika,23-Oct-98,Macrozoobenthos
+2742,"0,03",Kannika,23-Oct-98,Total coliforms
+2743,"0,03",Kannika,23-Oct-98,Fecal coliforms
+2744,13,Sakda,24-Oct-98,Water temperature
+2745,"8,6",Sakda,24-Oct-98,Dissolved oxygen
+2746,"0,31",Sakda,24-Oct-98,Ammonium
+2747,"0,05",Sakda,24-Oct-98,Nitrites
+2748,"1,48",Sakda,24-Oct-98,Nitrates
+2749,"0,09",Sakda,24-Oct-98,Orthophosphate-phosphorus
+2750,"0,1",Sakda,24-Oct-98,Total phosphorus
+2751,"17,2",Sakda,24-Oct-98,Sodium
+2752,"4,3",Sakda,24-Oct-98,Potassium
+2753,62,Sakda,24-Oct-98,Calcium
+2754,"12,6",Sakda,24-Oct-98,Magnesium
+2755,"29,1",Sakda,24-Oct-98,Chlorides
+2756,"33,5",Sakda,24-Oct-98,Sulphates
+2757,0,Sakda,24-Oct-98,Iron
+2758,"0,1",Sakda,24-Oct-98,Manganese
+2759,6,Sakda,24-Oct-98,Zinc
+2760,31,Sakda,24-Oct-98,Copper
+2761,7,Sakda,24-Oct-98,Chromium
+2762,50,Sakda,24-Oct-98,Lead
+2763,"0,29",Sakda,24-Oct-98,Cadmium
+2764,0,Sakda,24-Oct-98,Mercury
+2765,0,Sakda,24-Oct-98,Nickel
+2766,0,Sakda,24-Oct-98,Arsenic
+2767,3,Sakda,24-Oct-98,Biochemical Oxygen
+2768,3,Sakda,24-Oct-98,Chemical Oxygen Demand (Cr)
+2769,"4,3",Sakda,24-Oct-98,Chemical Oxygen Demand (Mn)
+2770,0,Sakda,24-Oct-98,AOX
+2771,0,Sakda,24-Oct-98,Atrazine
+2772,0,Sakda,24-Oct-98,Cesium
+2773,"2,2",Sakda,24-Oct-98,Macrozoobenthos
+2774,"0,09",Sakda,24-Oct-98,Total coliforms
+2775,"0,01",Sakda,24-Oct-98,Fecal coliforms
+2776,13,Sakda,24-Oct-98,Water temperature
+2777,"8,8",Sakda,24-Oct-98,Dissolved oxygen
+2778,"0,37",Sakda,24-Oct-98,Ammonium
+2779,"0,04",Sakda,24-Oct-98,Nitrites
+2780,"1,59",Sakda,24-Oct-98,Nitrates
+2781,"0,07",Sakda,24-Oct-98,Orthophosphate-phosphorus
+2782,"0,09",Sakda,24-Oct-98,Total phosphorus
+2783,"17,2",Sakda,24-Oct-98,Sodium
+2784,"4,3",Sakda,24-Oct-98,Potassium
+2785,62,Sakda,24-Oct-98,Calcium
+2786,"12,6",Sakda,24-Oct-98,Magnesium
+2787,"28,4",Sakda,24-Oct-98,Chlorides
+2788,33,Sakda,24-Oct-98,Sulphates
+2789,0,Sakda,24-Oct-98,Iron
+2790,"0,08",Sakda,24-Oct-98,Manganese
+2791,50,Sakda,24-Oct-98,Zinc
+2792,29,Sakda,24-Oct-98,Copper
+2793,7,Sakda,24-Oct-98,Chromium
+2794,52,Sakda,24-Oct-98,Lead
+2795,"0,18",Sakda,24-Oct-98,Cadmium
+2796,0,Sakda,24-Oct-98,Mercury
+2797,0,Sakda,24-Oct-98,Nickel
+2798,0,Sakda,24-Oct-98,Arsenic
+2799,"3,2",Sakda,24-Oct-98,Biochemical Oxygen
+2800,13,Sakda,24-Oct-98,Chemical Oxygen Demand (Cr)
+2801,"4,3",Sakda,24-Oct-98,Chemical Oxygen Demand (Mn)
+2802,0,Sakda,24-Oct-98,AOX
+2803,0,Sakda,24-Oct-98,Atrazine
+2804,0,Sakda,24-Oct-98,Cesium
+2805,"2,15",Sakda,24-Oct-98,Macrozoobenthos
+2806,"0,04",Sakda,24-Oct-98,Total coliforms
+2807,"0,0014",Sakda,24-Oct-98,Fecal coliforms
+2808,13,Sakda,24-Oct-98,Water temperature
+2809,"8,6",Sakda,24-Oct-98,Dissolved oxygen
+2810,"0,35",Sakda,24-Oct-98,Ammonium
+2811,"0,04",Sakda,24-Oct-98,Nitrites
+2812,"1,63",Sakda,24-Oct-98,Nitrates
+2813,"0,08",Sakda,24-Oct-98,Orthophosphate-phosphorus
+2814,"0,11",Sakda,24-Oct-98,Total phosphorus
+2815,17,Sakda,24-Oct-98,Sodium
+2816,"4,3",Sakda,24-Oct-98,Potassium
+2817,62,Sakda,24-Oct-98,Calcium
+2818,"13,2",Sakda,24-Oct-98,Magnesium
+2819,"29,1",Sakda,24-Oct-98,Chlorides
+2820,"32,3",Sakda,24-Oct-98,Sulphates
+2821,0,Sakda,24-Oct-98,Iron
+2822,"0,06",Sakda,24-Oct-98,Manganese
+2823,47,Sakda,24-Oct-98,Zinc
+2824,23,Sakda,24-Oct-98,Copper
+2825,5,Sakda,24-Oct-98,Chromium
+2826,45,Sakda,24-Oct-98,Lead
+2827,"0,16",Sakda,24-Oct-98,Cadmium
+2828,0,Sakda,24-Oct-98,Mercury
+2829,0,Sakda,24-Oct-98,Nickel
+2830,0,Sakda,24-Oct-98,Arsenic
+2831,"3,1",Sakda,24-Oct-98,Biochemical Oxygen
+2832,0,Sakda,24-Oct-98,Chemical Oxygen Demand (Cr)
+2833,"4,2",Sakda,24-Oct-98,Chemical Oxygen Demand (Mn)
+2834,0,Sakda,24-Oct-98,AOX
+2835,0,Sakda,24-Oct-98,Atrazine
+2836,0,Sakda,24-Oct-98,Cesium
+2837,"2,19",Sakda,24-Oct-98,Macrozoobenthos
+2838,"1,6",Sakda,24-Oct-98,Total coliforms
+2839,"0,04",Sakda,24-Oct-98,Fecal coliforms
+2840,9,Busarakhan,29-Oct-98,Water temperature
+2841,"9,5",Busarakhan,29-Oct-98,Dissolved oxygen
+2842,"0,49",Busarakhan,29-Oct-98,Ammonium
+2843,"0,03",Busarakhan,29-Oct-98,Nitrites
+2844,"2,02",Busarakhan,29-Oct-98,Nitrates
+2845,"0,1",Busarakhan,29-Oct-98,Orthophosphate-phosphorus
+2846,"0,13",Busarakhan,29-Oct-98,Total phosphorus
+2847,22,Busarakhan,29-Oct-98,Sodium
+2848,"4,5",Busarakhan,29-Oct-98,Potassium
+2849,65,Busarakhan,29-Oct-98,Calcium
+2850,"21,6",Busarakhan,29-Oct-98,Magnesium
+2851,"69,5",Busarakhan,29-Oct-98,Chlorides
+2852,"137,2",Busarakhan,29-Oct-98,Sulphates
+2853,0,Busarakhan,29-Oct-98,Iron
+2854,"0,09",Busarakhan,29-Oct-98,Manganese
+2855,33,Busarakhan,29-Oct-98,Zinc
+2856,19,Busarakhan,29-Oct-98,Copper
+2857,9,Busarakhan,29-Oct-98,Chromium
+2858,48,Busarakhan,29-Oct-98,Lead
+2859,"0,32",Busarakhan,29-Oct-98,Cadmium
+2860,0,Busarakhan,29-Oct-98,Mercury
+2861,0,Busarakhan,29-Oct-98,Nickel
+2862,0,Busarakhan,29-Oct-98,Arsenic
+2863,"3,8",Busarakhan,29-Oct-98,Biochemical Oxygen
+2864,0,Busarakhan,29-Oct-98,Chemical Oxygen Demand (Cr)
+2865,"5,3",Busarakhan,29-Oct-98,Chemical Oxygen Demand (Mn)
+2866,0,Busarakhan,29-Oct-98,AOX
+2867,0,Busarakhan,29-Oct-98,Atrazine
+2868,0,Busarakhan,29-Oct-98,Cesium
+2869,2,Busarakhan,29-Oct-98,Macrozoobenthos
+2870,"0,05",Busarakhan,29-Oct-98,Total coliforms
+2871,"0,01",Busarakhan,29-Oct-98,Fecal coliforms
+2872,"13,2",Chai,30-Oct-98,Water temperature
+2873,"8,4",Chai,30-Oct-98,Dissolved oxygen
+2874,"0,37",Chai,30-Oct-98,Ammonium
+2875,"0,04",Chai,30-Oct-98,Nitrites
+2876,"1,78",Chai,30-Oct-98,Nitrates
+2877,"0,08",Chai,30-Oct-98,Orthophosphate-phosphorus
+2878,"0,13",Chai,30-Oct-98,Total phosphorus
+2879,"14,5",Chai,30-Oct-98,Sodium
+2880,"3,5",Chai,30-Oct-98,Potassium
+2881,58,Chai,30-Oct-98,Calcium
+2882,"15,6",Chai,30-Oct-98,Magnesium
+2883,"25,5",Chai,30-Oct-98,Chlorides
+2884,"38,5",Chai,30-Oct-98,Sulphates
+2885,0,Chai,30-Oct-98,Iron
+2886,"0,07",Chai,30-Oct-98,Manganese
+2887,89,Chai,30-Oct-98,Zinc
+2888,32,Chai,30-Oct-98,Copper
+2889,1,Chai,30-Oct-98,Chromium
+2890,42,Chai,30-Oct-98,Lead
+2891,"0,33",Chai,30-Oct-98,Cadmium
+2892,0,Chai,30-Oct-98,Mercury
+2893,0,Chai,30-Oct-98,Nickel
+2894,0,Chai,30-Oct-98,Arsenic
+2895,3,Chai,30-Oct-98,Biochemical Oxygen
+2896,"13,2",Chai,30-Oct-98,Chemical Oxygen Demand (Cr)
+2897,"4,2",Chai,30-Oct-98,Chemical Oxygen Demand (Mn)
+2898,0,Chai,30-Oct-98,AOX
+2899,0,Chai,30-Oct-98,Atrazine
+2900,0,Chai,30-Oct-98,Cesium
+2901,2,Chai,30-Oct-98,Macrozoobenthos
+2902,"0,05",Chai,30-Oct-98,Total coliforms
+2903,"0,004",Chai,30-Oct-98,Fecal coliforms
+2904,"13,2",Chai,30-Oct-98,Water temperature
+2905,"8,6",Chai,30-Oct-98,Dissolved oxygen
+2906,"0,39",Chai,30-Oct-98,Ammonium
+2907,"0,03",Chai,30-Oct-98,Nitrites
+2908,"1,52",Chai,30-Oct-98,Nitrates
+2909,"0,08",Chai,30-Oct-98,Orthophosphate-phosphorus
+2910,"0,15",Chai,30-Oct-98,Total phosphorus
+2911,"14,5",Chai,30-Oct-98,Sodium
+2912,"3,5",Chai,30-Oct-98,Potassium
+2913,58,Chai,30-Oct-98,Calcium
+2914,"15,6",Chai,30-Oct-98,Magnesium
+2915,"25,5",Chai,30-Oct-98,Chlorides
+2916,31,Chai,30-Oct-98,Sulphates
+2917,0,Chai,30-Oct-98,Iron
+2918,"0,1",Chai,30-Oct-98,Manganese
+2919,65,Chai,30-Oct-98,Zinc
+2920,35,Chai,30-Oct-98,Copper
+2921,8,Chai,30-Oct-98,Chromium
+2922,62,Chai,30-Oct-98,Lead
+2923,"0,17",Chai,30-Oct-98,Cadmium
+2924,0,Chai,30-Oct-98,Mercury
+2925,0,Chai,30-Oct-98,Nickel
+2926,0,Chai,30-Oct-98,Arsenic
+2927,"3,2",Chai,30-Oct-98,Biochemical Oxygen
+2928,"12,1",Chai,30-Oct-98,Chemical Oxygen Demand (Cr)
+2929,"4,2",Chai,30-Oct-98,Chemical Oxygen Demand (Mn)
+2930,0,Chai,30-Oct-98,AOX
+2931,0,Chai,30-Oct-98,Atrazine
+2932,0,Chai,30-Oct-98,Cesium
+2933,"2,2",Chai,30-Oct-98,Macrozoobenthos
+2934,"0,35",Chai,30-Oct-98,Total coliforms
+2935,"0,0046",Chai,30-Oct-98,Fecal coliforms
+2936,"13,2",Chai,30-Oct-98,Water temperature
+2937,"8,5",Chai,30-Oct-98,Dissolved oxygen
+2938,"0,39",Chai,30-Oct-98,Ammonium
+2939,"0,04",Chai,30-Oct-98,Nitrites
+2940,"1,65",Chai,30-Oct-98,Nitrates
+2941,"0,08",Chai,30-Oct-98,Orthophosphate-phosphorus
+2942,"0,13",Chai,30-Oct-98,Total phosphorus
+2943,"14,5",Chai,30-Oct-98,Sodium
+2944,"3,5",Chai,30-Oct-98,Potassium
+2945,59,Chai,30-Oct-98,Calcium
+2946,"15,6",Chai,30-Oct-98,Magnesium
+2947,"26,2",Chai,30-Oct-98,Chlorides
+2948,33,Chai,30-Oct-98,Sulphates
+2949,0,Chai,30-Oct-98,Iron
+2950,"0,08",Chai,30-Oct-98,Manganese
+2951,104,Chai,30-Oct-98,Zinc
+2952,33,Chai,30-Oct-98,Copper
+2953,8,Chai,30-Oct-98,Chromium
+2954,53,Chai,30-Oct-98,Lead
+2955,"0,59",Chai,30-Oct-98,Cadmium
+2956,0,Chai,30-Oct-98,Mercury
+2957,0,Chai,30-Oct-98,Nickel
+2958,0,Chai,30-Oct-98,Arsenic
+2959,"3,1",Chai,30-Oct-98,Biochemical Oxygen
+2960,"11,5",Chai,30-Oct-98,Chemical Oxygen Demand (Cr)
+2961,"4,2",Chai,30-Oct-98,Chemical Oxygen Demand (Mn)
+2962,0,Chai,30-Oct-98,AOX
+2963,0,Chai,30-Oct-98,Atrazine
+2964,0,Chai,30-Oct-98,Cesium
+2965,"1,93",Chai,30-Oct-98,Macrozoobenthos
+2966,"0,35",Chai,30-Oct-98,Total coliforms
+2967,"0,0032",Chai,30-Oct-98,Fecal coliforms
+2968,"8,8",Somchair,30-Oct-98,Water temperature
+2969,"8,9",Somchair,30-Oct-98,Dissolved oxygen
+2970,"0,35",Somchair,30-Oct-98,Ammonium
+2971,"0,05",Somchair,30-Oct-98,Nitrites
+2972,"1,9",Somchair,30-Oct-98,Nitrates
+2973,"0,19",Somchair,30-Oct-98,Orthophosphate-phosphorus
+2974,"0,27",Somchair,30-Oct-98,Total phosphorus
+2975,52,Somchair,30-Oct-98,Sodium
+2976,"5,4",Somchair,30-Oct-98,Potassium
+2977,65,Somchair,30-Oct-98,Calcium
+2978,"19,8",Somchair,30-Oct-98,Magnesium
+2979,54,Somchair,30-Oct-98,Chlorides
+2980,54,Somchair,30-Oct-98,Sulphates
+2981,0,Somchair,30-Oct-98,Iron
+2982,"0,37",Somchair,30-Oct-98,Manganese
+2983,88,Somchair,30-Oct-98,Zinc
+2984,34,Somchair,30-Oct-98,Copper
+2985,11,Somchair,30-Oct-98,Chromium
+2986,48,Somchair,30-Oct-98,Lead
+2987,"0,99",Somchair,30-Oct-98,Cadmium
+2988,0,Somchair,30-Oct-98,Mercury
+2989,0,Somchair,30-Oct-98,Nickel
+2990,0,Somchair,30-Oct-98,Arsenic
+2991,"4,5",Somchair,30-Oct-98,Biochemical Oxygen
+2992,0,Somchair,30-Oct-98,Chemical Oxygen Demand (Cr)
+2993,5,Somchair,30-Oct-98,Chemical Oxygen Demand (Mn)
+2994,0,Somchair,30-Oct-98,AOX
+2995,0,Somchair,30-Oct-98,Atrazine
+2996,0,Somchair,30-Oct-98,Cesium
+2997,"1,83",Somchair,30-Oct-98,Macrozoobenthos
+2998,"0,35",Somchair,30-Oct-98,Total coliforms
+2999,"0,05",Somchair,30-Oct-98,Fecal coliforms
+3000,12,Boonsri,7-Nov-98,Water temperature
+3001,"9,3",Boonsri,7-Nov-98,Dissolved oxygen
+3002,"0,07",Boonsri,7-Nov-98,Ammonium
+3003,"0,02",Boonsri,7-Nov-98,Nitrites
+3004,"1,4",Boonsri,7-Nov-98,Nitrates
+3005,"0,07",Boonsri,7-Nov-98,Orthophosphate-phosphorus
+3006,"0,08",Boonsri,7-Nov-98,Total phosphorus
+3007,"11,3",Boonsri,7-Nov-98,Sodium
+3008,"2,9",Boonsri,7-Nov-98,Potassium
+3009,52,Boonsri,7-Nov-98,Calcium
+3010,"9,7",Boonsri,7-Nov-98,Magnesium
+3011,"18,2",Boonsri,7-Nov-98,Chlorides
+3012,"19,5",Boonsri,7-Nov-98,Sulphates
+3013,"0,42",Boonsri,7-Nov-98,Iron
+3014,"0,008",Boonsri,7-Nov-98,Manganese
+3015,22,Boonsri,7-Nov-98,Zinc
+3016,9,Boonsri,7-Nov-98,Copper
+3017,0,Boonsri,7-Nov-98,Chromium
+3018,0,Boonsri,7-Nov-98,Lead
+3019,0,Boonsri,7-Nov-98,Cadmium
+3020,0,Boonsri,7-Nov-98,Mercury
+3021,6,Boonsri,7-Nov-98,Nickel
+3022,0,Boonsri,7-Nov-98,Arsenic
+3023,"1,8",Boonsri,7-Nov-98,Biochemical Oxygen
+3024,0,Boonsri,7-Nov-98,Chemical Oxygen Demand (Cr)
+3025,"3,5",Boonsri,7-Nov-98,Chemical Oxygen Demand (Mn)
+3026,0,Boonsri,7-Nov-98,AOX
+3027,0,Boonsri,7-Nov-98,Atrazine
+3028,0,Boonsri,7-Nov-98,Cesium
+3029,0,Boonsri,7-Nov-98,Macrozoobenthos
+3030,"0,15",Boonsri,7-Nov-98,Total coliforms
+3031,0,Boonsri,7-Nov-98,Fecal coliforms
+3032,10,Boonsri,7-Nov-98,Water temperature
+3033,9,Boonsri,7-Nov-98,Dissolved oxygen
+3034,"0,06",Boonsri,7-Nov-98,Ammonium
+3035,"0,01",Boonsri,7-Nov-98,Nitrites
+3036,"1,58",Boonsri,7-Nov-98,Nitrates
+3037,"0,07",Boonsri,7-Nov-98,Orthophosphate-phosphorus
+3038,"0,08",Boonsri,7-Nov-98,Total phosphorus
+3039,"11,3",Boonsri,7-Nov-98,Sodium
+3040,"2,9",Boonsri,7-Nov-98,Potassium
+3041,48,Boonsri,7-Nov-98,Calcium
+3042,"12,1",Boonsri,7-Nov-98,Magnesium
+3043,"18,5",Boonsri,7-Nov-98,Chlorides
+3044,10,Boonsri,7-Nov-98,Sulphates
+3045,"0,38",Boonsri,7-Nov-98,Iron
+3046,"0,01",Boonsri,7-Nov-98,Manganese
+3047,16,Boonsri,7-Nov-98,Zinc
+3048,14,Boonsri,7-Nov-98,Copper
+3049,0,Boonsri,7-Nov-98,Chromium
+3050,0,Boonsri,7-Nov-98,Lead
+3051,0,Boonsri,7-Nov-98,Cadmium
+3052,0,Boonsri,7-Nov-98,Mercury
+3053,5,Boonsri,7-Nov-98,Nickel
+3054,0,Boonsri,7-Nov-98,Arsenic
+3055,"1,7",Boonsri,7-Nov-98,Biochemical Oxygen
+3056,0,Boonsri,7-Nov-98,Chemical Oxygen Demand (Cr)
+3057,"3,2",Boonsri,7-Nov-98,Chemical Oxygen Demand (Mn)
+3058,0,Boonsri,7-Nov-98,AOX
+3059,0,Boonsri,7-Nov-98,Atrazine
+3060,0,Boonsri,7-Nov-98,Cesium
+3061,0,Boonsri,7-Nov-98,Macrozoobenthos
+3062,"0,09",Boonsri,7-Nov-98,Total coliforms
+3063,0,Boonsri,7-Nov-98,Fecal coliforms
+3064,"5,8",Kohsoom,14-Nov-98,Water temperature
+3065,"9,8",Kohsoom,14-Nov-98,Dissolved oxygen
+3066,"0,6",Kohsoom,14-Nov-98,Ammonium
+3067,"0,02",Kohsoom,14-Nov-98,Nitrites
+3068,"2,46",Kohsoom,14-Nov-98,Nitrates
+3069,"0,12",Kohsoom,14-Nov-98,Orthophosphate-phosphorus
+3070,"0,26",Kohsoom,14-Nov-98,Total phosphorus
+3071,43,Kohsoom,14-Nov-98,Sodium
+3072,"7,3",Kohsoom,14-Nov-98,Potassium
+3073,78,Kohsoom,14-Nov-98,Calcium
+3074,"15,2",Kohsoom,14-Nov-98,Magnesium
+3075,68,Kohsoom,14-Nov-98,Chlorides
+3076,76,Kohsoom,14-Nov-98,Sulphates
+3077,"0,42",Kohsoom,14-Nov-98,Iron
+3078,"0,3",Kohsoom,14-Nov-98,Manganese
+3079,312,Kohsoom,14-Nov-98,Zinc
+3080,29,Kohsoom,14-Nov-98,Copper
+3081,27,Kohsoom,14-Nov-98,Chromium
+3082,92,Kohsoom,14-Nov-98,Lead
+3083,"2,5",Kohsoom,14-Nov-98,Cadmium
+3084,0,Kohsoom,14-Nov-98,Mercury
+3085,0,Kohsoom,14-Nov-98,Nickel
+3086,0,Kohsoom,14-Nov-98,Arsenic
+3087,"4,8",Kohsoom,14-Nov-98,Biochemical Oxygen
+3088,"14,8",Kohsoom,14-Nov-98,Chemical Oxygen Demand (Cr)
+3089,"8,6",Kohsoom,14-Nov-98,Chemical Oxygen Demand (Mn)
+3090,0,Kohsoom,14-Nov-98,AOX
+3091,0,Kohsoom,14-Nov-98,Atrazine
+3092,0,Kohsoom,14-Nov-98,Cesium
+3093,"2,5",Kohsoom,14-Nov-98,Macrozoobenthos
+3094,0,Kohsoom,14-Nov-98,Total coliforms
+3095,0,Kohsoom,14-Nov-98,Fecal coliforms
+3096,"3,6",Kannika,20-Nov-98,Water temperature
+3097,"10,3",Kannika,20-Nov-98,Dissolved oxygen
+3098,"0,18",Kannika,20-Nov-98,Ammonium
+3099,"0,03",Kannika,20-Nov-98,Nitrites
+3100,"1,66",Kannika,20-Nov-98,Nitrates
+3101,"0,04",Kannika,20-Nov-98,Orthophosphate-phosphorus
+3102,"0,09",Kannika,20-Nov-98,Total phosphorus
+3103,"15,4",Kannika,20-Nov-98,Sodium
+3104,"2,8",Kannika,20-Nov-98,Potassium
+3105,"54,5",Kannika,20-Nov-98,Calcium
+3106,"16,05",Kannika,20-Nov-98,Magnesium
+3107,"26,59",Kannika,20-Nov-98,Chlorides
+3108,"44,55",Kannika,20-Nov-98,Sulphates
+3109,0,Kannika,20-Nov-98,Iron
+3110,"0,08",Kannika,20-Nov-98,Manganese
+3111,30,Kannika,20-Nov-98,Zinc
+3112,20,Kannika,20-Nov-98,Copper
+3113,20,Kannika,20-Nov-98,Chromium
+3114,40,Kannika,20-Nov-98,Lead
+3115,1,Kannika,20-Nov-98,Cadmium
+3116,0,Kannika,20-Nov-98,Mercury
+3117,0,Kannika,20-Nov-98,Nickel
+3118,0,Kannika,20-Nov-98,Arsenic
+3119,"1,9",Kannika,20-Nov-98,Biochemical Oxygen
+3120,15,Kannika,20-Nov-98,Chemical Oxygen Demand (Cr)
+3121,"4,4",Kannika,20-Nov-98,Chemical Oxygen Demand (Mn)
+3122,0,Kannika,20-Nov-98,AOX
+3123,0,Kannika,20-Nov-98,Atrazine
+3124,0,Kannika,20-Nov-98,Cesium
+3125,0,Kannika,20-Nov-98,Macrozoobenthos
+3126,0,Kannika,20-Nov-98,Total coliforms
+3127,0,Kannika,20-Nov-98,Fecal coliforms
+3128,14,Kannika,20-Nov-98,Water temperature
+3129,9,Kannika,20-Nov-98,Dissolved oxygen
+3130,"0,27",Kannika,20-Nov-98,Ammonium
+3131,"0,03",Kannika,20-Nov-98,Nitrites
+3132,"1,68",Kannika,20-Nov-98,Nitrates
+3133,"0,05",Kannika,20-Nov-98,Orthophosphate-phosphorus
+3134,"0,1",Kannika,20-Nov-98,Total phosphorus
+3135,17,Kannika,20-Nov-98,Sodium
+3136,"2,8",Kannika,20-Nov-98,Potassium
+3137,58,Kannika,20-Nov-98,Calcium
+3138,"15,6",Kannika,20-Nov-98,Magnesium
+3139,"25,5",Kannika,20-Nov-98,Chlorides
+3140,34,Kannika,20-Nov-98,Sulphates
+3141,"0,42",Kannika,20-Nov-98,Iron
+3142,"0,06",Kannika,20-Nov-98,Manganese
+3143,20,Kannika,20-Nov-98,Zinc
+3144,20,Kannika,20-Nov-98,Copper
+3145,10,Kannika,20-Nov-98,Chromium
+3146,30,Kannika,20-Nov-98,Lead
+3147,"0,79",Kannika,20-Nov-98,Cadmium
+3148,0,Kannika,20-Nov-98,Mercury
+3149,0,Kannika,20-Nov-98,Nickel
+3150,0,Kannika,20-Nov-98,Arsenic
+3151,3,Kannika,20-Nov-98,Biochemical Oxygen
+3152,"14,4",Kannika,20-Nov-98,Chemical Oxygen Demand (Cr)
+3153,"4,3",Kannika,20-Nov-98,Chemical Oxygen Demand (Mn)
+3154,0,Kannika,20-Nov-98,AOX
+3155,0,Kannika,20-Nov-98,Atrazine
+3156,0,Kannika,20-Nov-98,Cesium
+3157,"2,1",Kannika,20-Nov-98,Macrozoobenthos
+3158,0,Kannika,20-Nov-98,Total coliforms
+3159,0,Kannika,20-Nov-98,Fecal coliforms
+3160,14,Kannika,20-Nov-98,Water temperature
+3161,9,Kannika,20-Nov-98,Dissolved oxygen
+3162,"0,25",Kannika,20-Nov-98,Ammonium
+3163,"0,03",Kannika,20-Nov-98,Nitrites
+3164,"1,65",Kannika,20-Nov-98,Nitrates
+3165,"0,05",Kannika,20-Nov-98,Orthophosphate-phosphorus
+3166,"0,1",Kannika,20-Nov-98,Total phosphorus
+3167,"16,8",Kannika,20-Nov-98,Sodium
+3168,"4,1",Kannika,20-Nov-98,Potassium
+3169,58,Kannika,20-Nov-98,Calcium
+3170,16,Kannika,20-Nov-98,Magnesium
+3171,"25,5",Kannika,20-Nov-98,Chlorides
+3172,33,Kannika,20-Nov-98,Sulphates
+3173,"0,22",Kannika,20-Nov-98,Iron
+3174,"0,13",Kannika,20-Nov-98,Manganese
+3175,100,Kannika,20-Nov-98,Zinc
+3176,20,Kannika,20-Nov-98,Copper
+3177,10,Kannika,20-Nov-98,Chromium
+3178,30,Kannika,20-Nov-98,Lead
+3179,"0,66",Kannika,20-Nov-98,Cadmium
+3180,0,Kannika,20-Nov-98,Mercury
+3181,0,Kannika,20-Nov-98,Nickel
+3182,0,Kannika,20-Nov-98,Arsenic
+3183,"2,8",Kannika,20-Nov-98,Biochemical Oxygen
+3184,"14,9",Kannika,20-Nov-98,Chemical Oxygen Demand (Cr)
+3185,"4,4",Kannika,20-Nov-98,Chemical Oxygen Demand (Mn)
+3186,0,Kannika,20-Nov-98,AOX
+3187,0,Kannika,20-Nov-98,Atrazine
+3188,0,Kannika,20-Nov-98,Cesium
+3189,0,Kannika,20-Nov-98,Macrozoobenthos
+3190,0,Kannika,20-Nov-98,Total coliforms
+3191,0,Kannika,20-Nov-98,Fecal coliforms
+3192,14,Sakda,20-Nov-98,Water temperature
+3193,"8,46",Sakda,20-Nov-98,Dissolved oxygen
+3194,"0,11",Sakda,20-Nov-98,Ammonium
+3195,"0,03",Sakda,20-Nov-98,Nitrites
+3196,"1,65",Sakda,20-Nov-98,Nitrates
+3197,"0,08",Sakda,20-Nov-98,Orthophosphate-phosphorus
+3198,"0,1",Sakda,20-Nov-98,Total phosphorus
+3199,"14,64",Sakda,20-Nov-98,Sodium
+3200,"3,1",Sakda,20-Nov-98,Potassium
+3201,"54,51",Sakda,20-Nov-98,Calcium
+3202,"14,1",Sakda,20-Nov-98,Magnesium
+3203,"24,1",Sakda,20-Nov-98,Chlorides
+3204,"32,97",Sakda,20-Nov-98,Sulphates
+3205,0,Sakda,20-Nov-98,Iron
+3206,"0,02",Sakda,20-Nov-98,Manganese
+3207,25,Sakda,20-Nov-98,Zinc
+3208,23,Sakda,20-Nov-98,Copper
+3209,10,Sakda,20-Nov-98,Chromium
+3210,17,Sakda,20-Nov-98,Lead
+3211,"0,06",Sakda,20-Nov-98,Cadmium
+3212,0,Sakda,20-Nov-98,Mercury
+3213,0,Sakda,20-Nov-98,Nickel
+3214,0,Sakda,20-Nov-98,Arsenic
+3215,"2,33",Sakda,20-Nov-98,Biochemical Oxygen
+3216,"2,3",Sakda,20-Nov-98,Chemical Oxygen Demand (Cr)
+3217,"5,75",Sakda,20-Nov-98,Chemical Oxygen Demand (Mn)
+3218,0,Sakda,20-Nov-98,AOX
+3219,0,Sakda,20-Nov-98,Atrazine
+3220,0,Sakda,20-Nov-98,Cesium
+3221,0,Sakda,20-Nov-98,Macrozoobenthos
+3222,0,Sakda,20-Nov-98,Total coliforms
+3223,0,Sakda,20-Nov-98,Fecal coliforms
+3224,14,Sakda,20-Nov-98,Water temperature
+3225,"8,13",Sakda,20-Nov-98,Dissolved oxygen
+3226,"0,11",Sakda,20-Nov-98,Ammonium
+3227,"0,03",Sakda,20-Nov-98,Nitrites
+3228,"1,64",Sakda,20-Nov-98,Nitrates
+3229,"0,08",Sakda,20-Nov-98,Orthophosphate-phosphorus
+3230,"0,1",Sakda,20-Nov-98,Total phosphorus
+3231,"15,2",Sakda,20-Nov-98,Sodium
+3232,"2,65",Sakda,20-Nov-98,Potassium
+3233,"54,51",Sakda,20-Nov-98,Calcium
+3234,"14,59",Sakda,20-Nov-98,Magnesium
+3235,"25,26",Sakda,20-Nov-98,Chlorides
+3236,"33,93",Sakda,20-Nov-98,Sulphates
+3237,0,Sakda,20-Nov-98,Iron
+3238,"0,04",Sakda,20-Nov-98,Manganese
+3239,28,Sakda,20-Nov-98,Zinc
+3240,24,Sakda,20-Nov-98,Copper
+3241,"11,9",Sakda,20-Nov-98,Chromium
+3242,15,Sakda,20-Nov-98,Lead
+3243,"0,05",Sakda,20-Nov-98,Cadmium
+3244,0,Sakda,20-Nov-98,Mercury
+3245,0,Sakda,20-Nov-98,Nickel
+3246,0,Sakda,20-Nov-98,Arsenic
+3247,"3,3",Sakda,20-Nov-98,Biochemical Oxygen
+3248,0,Sakda,20-Nov-98,Chemical Oxygen Demand (Cr)
+3249,"5,75",Sakda,20-Nov-98,Chemical Oxygen Demand (Mn)
+3250,0,Sakda,20-Nov-98,AOX
+3251,0,Sakda,20-Nov-98,Atrazine
+3252,0,Sakda,20-Nov-98,Cesium
+3253,"2,1",Sakda,20-Nov-98,Macrozoobenthos
+3254,0,Sakda,20-Nov-98,Total coliforms
+3255,0,Sakda,20-Nov-98,Fecal coliforms
+3256,14,Sakda,20-Nov-98,Water temperature
+3257,"7,93",Sakda,20-Nov-98,Dissolved oxygen
+3258,"0,1",Sakda,20-Nov-98,Ammonium
+3259,"0,03",Sakda,20-Nov-98,Nitrites
+3260,"1,62",Sakda,20-Nov-98,Nitrates
+3261,"0,08",Sakda,20-Nov-98,Orthophosphate-phosphorus
+3262,"0,1",Sakda,20-Nov-98,Total phosphorus
+3263,"15,2",Sakda,20-Nov-98,Sodium
+3264,"2,5",Sakda,20-Nov-98,Potassium
+3265,"55,31",Sakda,20-Nov-98,Calcium
+3266,"13,62",Sakda,20-Nov-98,Magnesium
+3267,"24,81",Sakda,20-Nov-98,Chlorides
+3268,32,Sakda,20-Nov-98,Sulphates
+3269,0,Sakda,20-Nov-98,Iron
+3270,"0,05",Sakda,20-Nov-98,Manganese
+3271,94,Sakda,20-Nov-98,Zinc
+3272,20,Sakda,20-Nov-98,Copper
+3273,16,Sakda,20-Nov-98,Chromium
+3274,14,Sakda,20-Nov-98,Lead
+3275,"0,02",Sakda,20-Nov-98,Cadmium
+3276,0,Sakda,20-Nov-98,Mercury
+3277,0,Sakda,20-Nov-98,Nickel
+3278,0,Sakda,20-Nov-98,Arsenic
+3279,"1,2",Sakda,20-Nov-98,Biochemical Oxygen
+3280,0,Sakda,20-Nov-98,Chemical Oxygen Demand (Cr)
+3281,"5,59",Sakda,20-Nov-98,Chemical Oxygen Demand (Mn)
+3282,0,Sakda,20-Nov-98,AOX
+3283,0,Sakda,20-Nov-98,Atrazine
+3284,0,Sakda,20-Nov-98,Cesium
+3285,0,Sakda,20-Nov-98,Macrozoobenthos
+3286,"0,03",Sakda,20-Nov-98,Total coliforms
+3287,"0,0014",Sakda,20-Nov-98,Fecal coliforms
+3288,"11,1",Chai,26-Nov-98,Water temperature
+3289,"8,87",Chai,26-Nov-98,Dissolved oxygen
+3290,"0,3",Chai,26-Nov-98,Ammonium
+3291,"0,03",Chai,26-Nov-98,Nitrites
+3292,"1,6",Chai,26-Nov-98,Nitrates
+3293,"0,07",Chai,26-Nov-98,Orthophosphate-phosphorus
+3294,"0,12",Chai,26-Nov-98,Total phosphorus
+3295,"19,8",Chai,26-Nov-98,Sodium
+3296,2,Chai,26-Nov-98,Potassium
+3297,"58,36",Chai,26-Nov-98,Calcium
+3298,"18,96",Chai,26-Nov-98,Magnesium
+3299,"35,5",Chai,26-Nov-98,Chlorides
+3300,59,Chai,26-Nov-98,Sulphates
+3301,0,Chai,26-Nov-98,Iron
+3302,"0,04",Chai,26-Nov-98,Manganese
+3303,37,Chai,26-Nov-98,Zinc
+3304,21,Chai,26-Nov-98,Copper
+3305,5,Chai,26-Nov-98,Chromium
+3306,14,Chai,26-Nov-98,Lead
+3307,"0,53",Chai,26-Nov-98,Cadmium
+3308,0,Chai,26-Nov-98,Mercury
+3309,0,Chai,26-Nov-98,Nickel
+3310,0,Chai,26-Nov-98,Arsenic
+3311,"2,04",Chai,26-Nov-98,Biochemical Oxygen
+3312,15,Chai,26-Nov-98,Chemical Oxygen Demand (Cr)
+3313,"6,25",Chai,26-Nov-98,Chemical Oxygen Demand (Mn)
+3314,0,Chai,26-Nov-98,AOX
+3315,0,Chai,26-Nov-98,Atrazine
+3316,0,Chai,26-Nov-98,Cesium
+3317,"2,04",Chai,26-Nov-98,Macrozoobenthos
+3318,"0,16",Chai,26-Nov-98,Total coliforms
+3319,"0,01",Chai,26-Nov-98,Fecal coliforms
+3320,"10,6",Chai,26-Nov-98,Water temperature
+3321,"9,09",Chai,26-Nov-98,Dissolved oxygen
+3322,"0,23",Chai,26-Nov-98,Ammonium
+3323,"0,02",Chai,26-Nov-98,Nitrites
+3324,"1,7",Chai,26-Nov-98,Nitrates
+3325,"0,08",Chai,26-Nov-98,Orthophosphate-phosphorus
+3326,"0,12",Chai,26-Nov-98,Total phosphorus
+3327,"16,9",Chai,26-Nov-98,Sodium
+3328,"1,8",Chai,26-Nov-98,Potassium
+3329,"56,41",Chai,26-Nov-98,Calcium
+3330,"18,96",Chai,26-Nov-98,Magnesium
+3331,"28,4",Chai,26-Nov-98,Chlorides
+3332,57,Chai,26-Nov-98,Sulphates
+3333,0,Chai,26-Nov-98,Iron
+3334,"0,05",Chai,26-Nov-98,Manganese
+3335,47,Chai,26-Nov-98,Zinc
+3336,27,Chai,26-Nov-98,Copper
+3337,5,Chai,26-Nov-98,Chromium
+3338,14,Chai,26-Nov-98,Lead
+3339,"0,42",Chai,26-Nov-98,Cadmium
+3340,0,Chai,26-Nov-98,Mercury
+3341,0,Chai,26-Nov-98,Nickel
+3342,0,Chai,26-Nov-98,Arsenic
+3343,"2,43",Chai,26-Nov-98,Biochemical Oxygen
+3344,18,Chai,26-Nov-98,Chemical Oxygen Demand (Cr)
+3345,"7,24",Chai,26-Nov-98,Chemical Oxygen Demand (Mn)
+3346,0,Chai,26-Nov-98,AOX
+3347,0,Chai,26-Nov-98,Atrazine
+3348,0,Chai,26-Nov-98,Cesium
+3349,2,Chai,26-Nov-98,Macrozoobenthos
+3350,"0,54",Chai,26-Nov-98,Total coliforms
+3351,"0,01",Chai,26-Nov-98,Fecal coliforms
+3352,"10,8",Chai,26-Nov-98,Water temperature
+3353,"10,03",Chai,26-Nov-98,Dissolved oxygen
+3354,"0,2",Chai,26-Nov-98,Ammonium
+3355,"0,02",Chai,26-Nov-98,Nitrites
+3356,"1,6",Chai,26-Nov-98,Nitrates
+3357,"0,08",Chai,26-Nov-98,Orthophosphate-phosphorus
+3358,"0,13",Chai,26-Nov-98,Total phosphorus
+3359,"16,9",Chai,26-Nov-98,Sodium
+3360,"1,8",Chai,26-Nov-98,Potassium
+3361,"58,36",Chai,26-Nov-98,Calcium
+3362,19,Chai,26-Nov-98,Magnesium
+3363,"28,4",Chai,26-Nov-98,Chlorides
+3364,57,Chai,26-Nov-98,Sulphates
+3365,0,Chai,26-Nov-98,Iron
+3366,"0,05",Chai,26-Nov-98,Manganese
+3367,16,Chai,26-Nov-98,Zinc
+3368,66,Chai,26-Nov-98,Copper
+3369,30,Chai,26-Nov-98,Chromium
+3370,15,Chai,26-Nov-98,Lead
+3371,"0,37",Chai,26-Nov-98,Cadmium
+3372,0,Chai,26-Nov-98,Mercury
+3373,0,Chai,26-Nov-98,Nickel
+3374,0,Chai,26-Nov-98,Arsenic
+3375,"2,7",Chai,26-Nov-98,Biochemical Oxygen
+3376,18,Chai,26-Nov-98,Chemical Oxygen Demand (Cr)
+3377,"7,73",Chai,26-Nov-98,Chemical Oxygen Demand (Mn)
+3378,0,Chai,26-Nov-98,AOX
+3379,0,Chai,26-Nov-98,Atrazine
+3380,0,Chai,26-Nov-98,Cesium
+3381,"1,93",Chai,26-Nov-98,Macrozoobenthos
+3382,"0,0045",Chai,26-Nov-98,Total coliforms
+3383,"0,002",Chai,26-Nov-98,Fecal coliforms
+3384,"8,8",Somchair,28-Nov-98,Water temperature
+3385,"9,1",Somchair,28-Nov-98,Dissolved oxygen
+3386,"1,2",Somchair,28-Nov-98,Ammonium
+3387,"0,04",Somchair,28-Nov-98,Nitrites
+3388,"2,4",Somchair,28-Nov-98,Nitrates
+3389,"0,07",Somchair,28-Nov-98,Orthophosphate-phosphorus
+3390,"0,1",Somchair,28-Nov-98,Total phosphorus
+3391,"58,4",Somchair,28-Nov-98,Sodium
+3392,"10,8",Somchair,28-Nov-98,Potassium
+3393,"73,92",Somchair,28-Nov-98,Calcium
+3394,"23,6",Somchair,28-Nov-98,Magnesium
+3395,"85,2",Somchair,28-Nov-98,Chlorides
+3396,125,Somchair,28-Nov-98,Sulphates
+3397,0,Somchair,28-Nov-98,Iron
+3398,"0,32",Somchair,28-Nov-98,Manganese
+3399,29,Somchair,28-Nov-98,Zinc
+3400,33,Somchair,28-Nov-98,Copper
+3401,7,Somchair,28-Nov-98,Chromium
+3402,23,Somchair,28-Nov-98,Lead
+3403,"0,24",Somchair,28-Nov-98,Cadmium
+3404,0,Somchair,28-Nov-98,Mercury
+3405,0,Somchair,28-Nov-98,Nickel
+3406,0,Somchair,28-Nov-98,Arsenic
+3407,"6,5",Somchair,28-Nov-98,Biochemical Oxygen
+3408,62,Somchair,28-Nov-98,Chemical Oxygen Demand (Cr)
+3409,"15,09",Somchair,28-Nov-98,Chemical Oxygen Demand (Mn)
+3410,0,Somchair,28-Nov-98,AOX
+3411,0,Somchair,28-Nov-98,Atrazine
+3412,0,Somchair,28-Nov-98,Cesium
+3413,0,Somchair,28-Nov-98,Macrozoobenthos
+3414,"0,08",Somchair,28-Nov-98,Total coliforms
+3415,"0,06",Somchair,28-Nov-98,Fecal coliforms
+3416,"8,4",Busarakhan,28-Nov-98,Water temperature
+3417,"12,08",Busarakhan,28-Nov-98,Dissolved oxygen
+3418,"0,57",Busarakhan,28-Nov-98,Ammonium
+3419,"0,03",Busarakhan,28-Nov-98,Nitrites
+3420,"1,4",Busarakhan,28-Nov-98,Nitrates
+3421,"0,1",Busarakhan,28-Nov-98,Orthophosphate-phosphorus
+3422,"0,16",Busarakhan,28-Nov-98,Total phosphorus
+3423,"28,6",Busarakhan,28-Nov-98,Sodium
+3424,"2,4",Busarakhan,28-Nov-98,Potassium
+3425,"77,81",Busarakhan,28-Nov-98,Calcium
+3426,"28,21",Busarakhan,28-Nov-98,Magnesium
+3427,"42,6",Busarakhan,28-Nov-98,Chlorides
+3428,120,Busarakhan,28-Nov-98,Sulphates
+3429,0,Busarakhan,28-Nov-98,Iron
+3430,"0,15",Busarakhan,28-Nov-98,Manganese
+3431,43,Busarakhan,28-Nov-98,Zinc
+3432,33,Busarakhan,28-Nov-98,Copper
+3433,5,Busarakhan,28-Nov-98,Chromium
+3434,49,Busarakhan,28-Nov-98,Lead
+3435,"0,32",Busarakhan,28-Nov-98,Cadmium
+3436,0,Busarakhan,28-Nov-98,Mercury
+3437,0,Busarakhan,28-Nov-98,Nickel
+3438,0,Busarakhan,28-Nov-98,Arsenic
+3439,"4,33",Busarakhan,28-Nov-98,Biochemical Oxygen
+3440,23,Busarakhan,28-Nov-98,Chemical Oxygen Demand (Cr)
+3441,"8,95",Busarakhan,28-Nov-98,Chemical Oxygen Demand (Mn)
+3442,0,Busarakhan,28-Nov-98,AOX
+3443,0,Busarakhan,28-Nov-98,Atrazine
+3444,0,Busarakhan,28-Nov-98,Cesium
+3445,"1,8",Busarakhan,28-Nov-98,Macrozoobenthos
+3446,"0,54",Busarakhan,28-Nov-98,Total coliforms
+3447,"0,0072",Busarakhan,28-Nov-98,Fecal coliforms
+3448,6,Boonsri,5-Dec-98,Water temperature
+3449,10,Boonsri,5-Dec-98,Dissolved oxygen
+3450,"0,14",Boonsri,5-Dec-98,Ammonium
+3451,"0,01",Boonsri,5-Dec-98,Nitrites
+3452,"1,9",Boonsri,5-Dec-98,Nitrates
+3453,"0,08",Boonsri,5-Dec-98,Orthophosphate-phosphorus
+3454,"0,11",Boonsri,5-Dec-98,Total phosphorus
+3455,"12,5",Boonsri,5-Dec-98,Sodium
+3456,"2,4",Boonsri,5-Dec-98,Potassium
+3457,56,Boonsri,5-Dec-98,Calcium
+3458,"7,3",Boonsri,5-Dec-98,Magnesium
+3459,"9,2",Boonsri,5-Dec-98,Chlorides
+3460,24,Boonsri,5-Dec-98,Sulphates
+3461,"0,67",Boonsri,5-Dec-98,Iron
+3462,"0,01",Boonsri,5-Dec-98,Manganese
+3463,19,Boonsri,5-Dec-98,Zinc
+3464,4,Boonsri,5-Dec-98,Copper
+3465,9,Boonsri,5-Dec-98,Chromium
+3466,0,Boonsri,5-Dec-98,Lead
+3467,0,Boonsri,5-Dec-98,Cadmium
+3468,0,Boonsri,5-Dec-98,Mercury
+3469,5,Boonsri,5-Dec-98,Nickel
+3470,0,Boonsri,5-Dec-98,Arsenic
+3471,"1,8",Boonsri,5-Dec-98,Biochemical Oxygen
+3472,0,Boonsri,5-Dec-98,Chemical Oxygen Demand (Cr)
+3473,"3,6",Boonsri,5-Dec-98,Chemical Oxygen Demand (Mn)
+3474,0,Boonsri,5-Dec-98,AOX
+3475,0,Boonsri,5-Dec-98,Atrazine
+3476,0,Boonsri,5-Dec-98,Cesium
+3477,0,Boonsri,5-Dec-98,Macrozoobenthos
+3478,"0,08",Boonsri,5-Dec-98,Total coliforms
+3479,0,Boonsri,5-Dec-98,Fecal coliforms
+3480,5,Boonsri,5-Dec-98,Water temperature
+3481,"10,1",Boonsri,5-Dec-98,Dissolved oxygen
+3482,"0,11",Boonsri,5-Dec-98,Ammonium
+3483,"0,01",Boonsri,5-Dec-98,Nitrites
+3484,"1,74",Boonsri,5-Dec-98,Nitrates
+3485,"0,08",Boonsri,5-Dec-98,Orthophosphate-phosphorus
+3486,"0,1",Boonsri,5-Dec-98,Total phosphorus
+3487,"12,1",Boonsri,5-Dec-98,Sodium
+3488,"2,5",Boonsri,5-Dec-98,Potassium
+3489,68,Boonsri,5-Dec-98,Calcium
+3490,"4,8",Boonsri,5-Dec-98,Magnesium
+3491,"9,2",Boonsri,5-Dec-98,Chlorides
+3492,"47,8",Boonsri,5-Dec-98,Sulphates
+3493,"0,65",Boonsri,5-Dec-98,Iron
+3494,"0,006",Boonsri,5-Dec-98,Manganese
+3495,17,Boonsri,5-Dec-98,Zinc
+3496,10,Boonsri,5-Dec-98,Copper
+3497,6,Boonsri,5-Dec-98,Chromium
+3498,0,Boonsri,5-Dec-98,Lead
+3499,0,Boonsri,5-Dec-98,Cadmium
+3500,0,Boonsri,5-Dec-98,Mercury
+3501,7,Boonsri,5-Dec-98,Nickel
+3502,0,Boonsri,5-Dec-98,Arsenic
+3503,"1,9",Boonsri,5-Dec-98,Biochemical Oxygen
+3504,0,Boonsri,5-Dec-98,Chemical Oxygen Demand (Cr)
+3505,"3,8",Boonsri,5-Dec-98,Chemical Oxygen Demand (Mn)
+3506,0,Boonsri,5-Dec-98,AOX
+3507,0,Boonsri,5-Dec-98,Atrazine
+3508,0,Boonsri,5-Dec-98,Cesium
+3509,0,Boonsri,5-Dec-98,Macrozoobenthos
+3510,"0,07",Boonsri,5-Dec-98,Total coliforms
+3511,0,Boonsri,5-Dec-98,Fecal coliforms
+3512,"6,5",Sakda,10-Dec-98,Water temperature
+3513,"8,98",Sakda,10-Dec-98,Dissolved oxygen
+3514,"0,13",Sakda,10-Dec-98,Ammonium
+3515,"0,03",Sakda,10-Dec-98,Nitrites
+3516,"1,46",Sakda,10-Dec-98,Nitrates
+3517,"0,08",Sakda,10-Dec-98,Orthophosphate-phosphorus
+3518,0,Sakda,10-Dec-98,Total phosphorus
+3519,"16,9",Sakda,10-Dec-98,Sodium
+3520,"2,8",Sakda,10-Dec-98,Potassium
+3521,56,Sakda,10-Dec-98,Calcium
+3522,"19,4",Sakda,10-Dec-98,Magnesium
+3523,"28,36",Sakda,10-Dec-98,Chlorides
+3524,"58,79",Sakda,10-Dec-98,Sulphates
+3525,0,Sakda,10-Dec-98,Iron
+3526,"0,06",Sakda,10-Dec-98,Manganese
+3527,79,Sakda,10-Dec-98,Zinc
+3528,21,Sakda,10-Dec-98,Copper
+3529,6,Sakda,10-Dec-98,Chromium
+3530,1,Sakda,10-Dec-98,Lead
+3531,"0,08",Sakda,10-Dec-98,Cadmium
+3532,0,Sakda,10-Dec-98,Mercury
+3533,0,Sakda,10-Dec-98,Nickel
+3534,0,Sakda,10-Dec-98,Arsenic
+3535,"1,48",Sakda,10-Dec-98,Biochemical Oxygen
+3536,"1,5",Sakda,10-Dec-98,Chemical Oxygen Demand (Cr)
+3537,"6,07",Sakda,10-Dec-98,Chemical Oxygen Demand (Mn)
+3538,0,Sakda,10-Dec-98,AOX
+3539,0,Sakda,10-Dec-98,Atrazine
+3540,0,Sakda,10-Dec-98,Cesium
+3541,0,Sakda,10-Dec-98,Macrozoobenthos
+3542,0,Sakda,10-Dec-98,Total coliforms
+3543,0,Sakda,10-Dec-98,Fecal coliforms
+3544,"6,5",Sakda,10-Dec-98,Water temperature
+3545,"8,9",Sakda,10-Dec-98,Dissolved oxygen
+3546,"0,13",Sakda,10-Dec-98,Ammonium
+3547,"0,03",Sakda,10-Dec-98,Nitrites
+3548,"1,44",Sakda,10-Dec-98,Nitrates
+3549,"0,08",Sakda,10-Dec-98,Orthophosphate-phosphorus
+3550,"0,1",Sakda,10-Dec-98,Total phosphorus
+3551,"19,2",Sakda,10-Dec-98,Sodium
+3552,"2,8",Sakda,10-Dec-98,Potassium
+3553,57,Sakda,10-Dec-98,Calcium
+3554,"18,5",Sakda,10-Dec-98,Magnesium
+3555,"29,07",Sakda,10-Dec-98,Chlorides
+3556,"56,87",Sakda,10-Dec-98,Sulphates
+3557,0,Sakda,10-Dec-98,Iron
+3558,"0,05",Sakda,10-Dec-98,Manganese
+3559,23,Sakda,10-Dec-98,Zinc
+3560,23,Sakda,10-Dec-98,Copper
+3561,9,Sakda,10-Dec-98,Chromium
+3562,12,Sakda,10-Dec-98,Lead
+3563,"0,06",Sakda,10-Dec-98,Cadmium
+3564,0,Sakda,10-Dec-98,Mercury
+3565,0,Sakda,10-Dec-98,Nickel
+3566,0,Sakda,10-Dec-98,Arsenic
+3567,"1,4",Sakda,10-Dec-98,Biochemical Oxygen
+3568,0,Sakda,10-Dec-98,Chemical Oxygen Demand (Cr)
+3569,"5,91",Sakda,10-Dec-98,Chemical Oxygen Demand (Mn)
+3570,0,Sakda,10-Dec-98,AOX
+3571,0,Sakda,10-Dec-98,Atrazine
+3572,0,Sakda,10-Dec-98,Cesium
+3573,"2,25",Sakda,10-Dec-98,Macrozoobenthos
+3574,"0,11",Sakda,10-Dec-98,Total coliforms
+3575,"0,007",Sakda,10-Dec-98,Fecal coliforms
+3576,"6,5",Sakda,10-Dec-98,Water temperature
+3577,"8,5",Sakda,10-Dec-98,Dissolved oxygen
+3578,"0,12",Sakda,10-Dec-98,Ammonium
+3579,"0,03",Sakda,10-Dec-98,Nitrites
+3580,"1,48",Sakda,10-Dec-98,Nitrates
+3581,"0,08",Sakda,10-Dec-98,Orthophosphate-phosphorus
+3582,"0,1",Sakda,10-Dec-98,Total phosphorus
+3583,"21,4",Sakda,10-Dec-98,Sodium
+3584,"2,8",Sakda,10-Dec-98,Potassium
+3585,56,Sakda,10-Dec-98,Calcium
+3586,"18,5",Sakda,10-Dec-98,Magnesium
+3587,"29,42",Sakda,10-Dec-98,Chlorides
+3588,"58,36",Sakda,10-Dec-98,Sulphates
+3589,0,Sakda,10-Dec-98,Iron
+3590,"0,07",Sakda,10-Dec-98,Manganese
+3591,33,Sakda,10-Dec-98,Zinc
+3592,28,Sakda,10-Dec-98,Copper
+3593,6,Sakda,10-Dec-98,Chromium
+3594,8,Sakda,10-Dec-98,Lead
+3595,"0,04",Sakda,10-Dec-98,Cadmium
+3596,0,Sakda,10-Dec-98,Mercury
+3597,0,Sakda,10-Dec-98,Nickel
+3598,0,Sakda,10-Dec-98,Arsenic
+3599,"1,4",Sakda,10-Dec-98,Biochemical Oxygen
+3600,14,Sakda,10-Dec-98,Chemical Oxygen Demand (Cr)
+3601,"5,91",Sakda,10-Dec-98,Chemical Oxygen Demand (Mn)
+3602,0,Sakda,10-Dec-98,AOX
+3603,0,Sakda,10-Dec-98,Atrazine
+3604,0,Sakda,10-Dec-98,Cesium
+3605,0,Sakda,10-Dec-98,Macrozoobenthos
+3606,"0,03",Sakda,10-Dec-98,Total coliforms
+3607,"0,0014",Sakda,10-Dec-98,Fecal coliforms
+3608,"4,4",Kohsoom,13-Dec-98,Water temperature
+3609,"8,8",Kohsoom,13-Dec-98,Dissolved oxygen
+3610,"0,34",Kohsoom,13-Dec-98,Ammonium
+3611,"0,05",Kohsoom,13-Dec-98,Nitrites
+3612,"2,66",Kohsoom,13-Dec-98,Nitrates
+3613,"0,15",Kohsoom,13-Dec-98,Orthophosphate-phosphorus
+3614,"0,28",Kohsoom,13-Dec-98,Total phosphorus
+3615,"44,2",Kohsoom,13-Dec-98,Sodium
+3616,"6,4",Kohsoom,13-Dec-98,Potassium
+3617,67,Kohsoom,13-Dec-98,Calcium
+3618,26,Kohsoom,13-Dec-98,Magnesium
+3619,74,Kohsoom,13-Dec-98,Chlorides
+3620,68,Kohsoom,13-Dec-98,Sulphates
+3621,"1,07",Kohsoom,13-Dec-98,Iron
+3622,"0,02",Kohsoom,13-Dec-98,Manganese
+3623,16,Kohsoom,13-Dec-98,Zinc
+3624,35,Kohsoom,13-Dec-98,Copper
+3625,39,Kohsoom,13-Dec-98,Chromium
+3626,40,Kohsoom,13-Dec-98,Lead
+3627,"1,47",Kohsoom,13-Dec-98,Cadmium
+3628,0,Kohsoom,13-Dec-98,Mercury
+3629,0,Kohsoom,13-Dec-98,Nickel
+3630,0,Kohsoom,13-Dec-98,Arsenic
+3631,"4,8",Kohsoom,13-Dec-98,Biochemical Oxygen
+3632,"17,6",Kohsoom,13-Dec-98,Chemical Oxygen Demand (Cr)
+3633,8,Kohsoom,13-Dec-98,Chemical Oxygen Demand (Mn)
+3634,0,Kohsoom,13-Dec-98,AOX
+3635,0,Kohsoom,13-Dec-98,Atrazine
+3636,0,Kohsoom,13-Dec-98,Cesium
+3637,"2,8",Kohsoom,13-Dec-98,Macrozoobenthos
+3638,0,Kohsoom,13-Dec-98,Total coliforms
+3639,0,Kohsoom,13-Dec-98,Fecal coliforms
+3640,"0,11",Kannika,17-Dec-98,Ammonium
+3641,"0,02",Kannika,17-Dec-98,Nitrites
+3642,"1,17",Kannika,17-Dec-98,Nitrates
+3643,"0,04",Kannika,17-Dec-98,Orthophosphate-phosphorus
+3644,"0,08",Kannika,17-Dec-98,Total phosphorus
+3645,"18,4",Kannika,17-Dec-98,Sodium
+3646,"2,6",Kannika,17-Dec-98,Potassium
+3647,56,Kannika,17-Dec-98,Calcium
+3648,19,Kannika,17-Dec-98,Magnesium
+3649,"25,5",Kannika,17-Dec-98,Chlorides
+3650,"53,5",Kannika,17-Dec-98,Sulphates
+3651,0,Kannika,17-Dec-98,Iron
+3652,"0,13",Kannika,17-Dec-98,Manganese
+3653,0,Kannika,17-Dec-98,Zinc
+3654,27,Kannika,17-Dec-98,Copper
+3655,10,Kannika,17-Dec-98,Chromium
+3656,20,Kannika,17-Dec-98,Lead
+3657,"0,12",Kannika,17-Dec-98,Cadmium
+3658,0,Kannika,17-Dec-98,Mercury
+3659,0,Kannika,17-Dec-98,Nickel
+3660,0,Kannika,17-Dec-98,Arsenic
+3661,"1,9",Kannika,17-Dec-98,Biochemical Oxygen
+3662,"4,4",Kannika,17-Dec-98,Chemical Oxygen Demand (Mn)
+3663,0,Kannika,17-Dec-98,AOX
+3664,0,Kannika,17-Dec-98,Atrazine
+3665,0,Kannika,17-Dec-98,Cesium
+3666,"2,25",Kannika,17-Dec-98,Macrozoobenthos
+3667,0,Kannika,17-Dec-98,Total coliforms
+3668,0,Kannika,17-Dec-98,Fecal coliforms
+3669,"3,6",Kannika,17-Dec-98,Water temperature
+3670,"9,9",Kannika,17-Dec-98,Dissolved oxygen
+3671,"0,17",Kannika,17-Dec-98,Ammonium
+3672,"0,02",Kannika,17-Dec-98,Nitrites
+3673,"1,68",Kannika,17-Dec-98,Nitrates
+3674,"0,04",Kannika,17-Dec-98,Orthophosphate-phosphorus
+3675,"0,09",Kannika,17-Dec-98,Total phosphorus
+3676,"14,6",Kannika,17-Dec-98,Sodium
+3677,"2,6",Kannika,17-Dec-98,Potassium
+3678,"56,1",Kannika,17-Dec-98,Calcium
+3679,"15,6",Kannika,17-Dec-98,Magnesium
+3680,"28,4",Kannika,17-Dec-98,Chlorides
+3681,"44,2",Kannika,17-Dec-98,Sulphates
+3682,0,Kannika,17-Dec-98,Iron
+3683,"0,13",Kannika,17-Dec-98,Manganese
+3684,38,Kannika,17-Dec-98,Zinc
+3685,21,Kannika,17-Dec-98,Copper
+3686,10,Kannika,17-Dec-98,Chromium
+3687,10,Kannika,17-Dec-98,Lead
+3688,"0,08",Kannika,17-Dec-98,Cadmium
+3689,0,Kannika,17-Dec-98,Mercury
+3690,0,Kannika,17-Dec-98,Nickel
+3691,0,Kannika,17-Dec-98,Arsenic
+3692,"3,1",Kannika,17-Dec-98,Biochemical Oxygen
+3693,0,Kannika,17-Dec-98,Chemical Oxygen Demand (Cr)
+3694,"3,6",Kannika,17-Dec-98,Chemical Oxygen Demand (Mn)
+3695,0,Kannika,17-Dec-98,AOX
+3696,0,Kannika,17-Dec-98,Atrazine
+3697,0,Kannika,17-Dec-98,Cesium
+3698,0,Kannika,17-Dec-98,Macrozoobenthos
+3699,"0,03",Kannika,17-Dec-98,Total coliforms
+3700,"0,0013",Kannika,17-Dec-98,Fecal coliforms
+3701,"3,6",Kannika,17-Dec-98,Water temperature
+3702,"9,7",Kannika,17-Dec-98,Dissolved oxygen
+3703,"0,18",Kannika,17-Dec-98,Ammonium
+3704,"0,03",Kannika,17-Dec-98,Nitrites
+3705,"1,68",Kannika,17-Dec-98,Nitrates
+3706,"0,04",Kannika,17-Dec-98,Orthophosphate-phosphorus
+3707,"0,09",Kannika,17-Dec-98,Total phosphorus
+3708,"14,6",Kannika,17-Dec-98,Sodium
+3709,"2,8",Kannika,17-Dec-98,Potassium
+3710,"54,5",Kannika,17-Dec-98,Calcium
+3711,"17,5",Kannika,17-Dec-98,Magnesium
+3712,"27,6",Kannika,17-Dec-98,Chlorides
+3713,42,Kannika,17-Dec-98,Sulphates
+3714,0,Kannika,17-Dec-98,Iron
+3715,"0,05",Kannika,17-Dec-98,Manganese
+3716,19,Kannika,17-Dec-98,Zinc
+3717,30,Kannika,17-Dec-98,Copper
+3718,20,Kannika,17-Dec-98,Chromium
+3719,30,Kannika,17-Dec-98,Lead
+3720,"0,31",Kannika,17-Dec-98,Cadmium
+3721,0,Kannika,17-Dec-98,Mercury
+3722,0,Kannika,17-Dec-98,Nickel
+3723,0,Kannika,17-Dec-98,Arsenic
+3724,"2,4",Kannika,17-Dec-98,Biochemical Oxygen
+3725,"14,8",Kannika,17-Dec-98,Chemical Oxygen Demand (Cr)
+3726,"4,1",Kannika,17-Dec-98,Chemical Oxygen Demand (Mn)
+3727,0,Kannika,17-Dec-98,AOX
+3728,0,Kannika,17-Dec-98,Atrazine
+3729,0,Kannika,17-Dec-98,Cesium
+3730,0,Kannika,17-Dec-98,Macrozoobenthos
+3731,"0,01",Kannika,17-Dec-98,Total coliforms
+3732,"0,0006",Kannika,17-Dec-98,Fecal coliforms
+3733,0,Chai,18-Dec-98,Water temperature
+3734,0,Chai,18-Dec-98,Dissolved oxygen
+3735,"0,27",Chai,18-Dec-98,Ammonium
+3736,"0,04",Chai,18-Dec-98,Nitrites
+3737,"1,77",Chai,18-Dec-98,Nitrates
+3738,"0,08",Chai,18-Dec-98,Orthophosphate-phosphorus
+3739,"0,13",Chai,18-Dec-98,Total phosphorus
+3740,16,Chai,18-Dec-98,Sodium
+3741,"4,1",Chai,18-Dec-98,Potassium
+3742,58,Chai,18-Dec-98,Calcium
+3743,"15,6",Chai,18-Dec-98,Magnesium
+3744,"26,2",Chai,18-Dec-98,Chlorides
+3745,"30,4",Chai,18-Dec-98,Sulphates
+3746,0,Chai,18-Dec-98,Iron
+3747,"0,08",Chai,18-Dec-98,Manganese
+3748,23,Chai,18-Dec-98,Zinc
+3749,23,Chai,18-Dec-98,Copper
+3750,13,Chai,18-Dec-98,Chromium
+3751,1,Chai,18-Dec-98,Lead
+3752,"0,97",Chai,18-Dec-98,Cadmium
+3753,0,Chai,18-Dec-98,Mercury
+3754,0,Chai,18-Dec-98,Nickel
+3755,0,Chai,18-Dec-98,Arsenic
+3756,0,Chai,18-Dec-98,Biochemical Oxygen
+3757,0,Chai,18-Dec-98,Chemical Oxygen Demand (Cr)
+3758,3,Chai,18-Dec-98,Chemical Oxygen Demand (Mn)
+3759,0,Chai,18-Dec-98,AOX
+3760,0,Chai,18-Dec-98,Atrazine
+3761,0,Chai,18-Dec-98,Cesium
+3762,0,Chai,18-Dec-98,Macrozoobenthos
+3763,"0,05",Chai,18-Dec-98,Total coliforms
+3764,"0,0011",Chai,18-Dec-98,Fecal coliforms
+3765,0,Chai,18-Dec-98,Water temperature
+3766,0,Chai,18-Dec-98,Dissolved oxygen
+3767,"0,39",Chai,18-Dec-98,Ammonium
+3768,"0,03",Chai,18-Dec-98,Nitrites
+3769,"1,81",Chai,18-Dec-98,Nitrates
+3770,"0,07",Chai,18-Dec-98,Orthophosphate-phosphorus
+3771,"0,12",Chai,18-Dec-98,Total phosphorus
+3772,16,Chai,18-Dec-98,Sodium
+3773,"4,1",Chai,18-Dec-98,Potassium
+3774,58,Chai,18-Dec-98,Calcium
+3775,"15,6",Chai,18-Dec-98,Magnesium
+3776,"26,2",Chai,18-Dec-98,Chlorides
+3777,33,Chai,18-Dec-98,Sulphates
+3778,0,Chai,18-Dec-98,Iron
+3779,"0,09",Chai,18-Dec-98,Manganese
+3780,59,Chai,18-Dec-98,Zinc
+3781,29,Chai,18-Dec-98,Copper
+3782,5,Chai,18-Dec-98,Chromium
+3783,1,Chai,18-Dec-98,Lead
+3784,"0,34",Chai,18-Dec-98,Cadmium
+3785,0,Chai,18-Dec-98,Mercury
+3786,0,Chai,18-Dec-98,Nickel
+3787,0,Chai,18-Dec-98,Arsenic
+3788,"2,7",Chai,18-Dec-98,Biochemical Oxygen
+3789,0,Chai,18-Dec-98,Chemical Oxygen Demand (Cr)
+3790,3,Chai,18-Dec-98,Chemical Oxygen Demand (Mn)
+3791,0,Chai,18-Dec-98,AOX
+3792,0,Chai,18-Dec-98,Atrazine
+3793,0,Chai,18-Dec-98,Cesium
+3794,0,Chai,18-Dec-98,Macrozoobenthos
+3795,"0,003",Chai,18-Dec-98,Total coliforms
+3796,"0,0002",Chai,18-Dec-98,Fecal coliforms
+3797,0,Chai,18-Dec-98,Water temperature
+3798,0,Chai,18-Dec-98,Dissolved oxygen
+3799,"0,27",Chai,18-Dec-98,Ammonium
+3800,"0,04",Chai,18-Dec-98,Nitrites
+3801,"1,59",Chai,18-Dec-98,Nitrates
+3802,"0,07",Chai,18-Dec-98,Orthophosphate-phosphorus
+3803,"0,12",Chai,18-Dec-98,Total phosphorus
+3804,16,Chai,18-Dec-98,Sodium
+3805,4,Chai,18-Dec-98,Potassium
+3806,59,Chai,18-Dec-98,Calcium
+3807,"15,6",Chai,18-Dec-98,Magnesium
+3808,"26,9",Chai,18-Dec-98,Chlorides
+3809,33,Chai,18-Dec-98,Sulphates
+3810,0,Chai,18-Dec-98,Iron
+3811,"0,08",Chai,18-Dec-98,Manganese
+3812,"13,6",Chai,18-Dec-98,Zinc
+3813,38,Chai,18-Dec-98,Copper
+3814,5,Chai,18-Dec-98,Chromium
+3815,2,Chai,18-Dec-98,Lead
+3816,"1,46",Chai,18-Dec-98,Cadmium
+3817,0,Chai,18-Dec-98,Mercury
+3818,0,Chai,18-Dec-98,Nickel
+3819,0,Chai,18-Dec-98,Arsenic
+3820,"3,1",Chai,18-Dec-98,Biochemical Oxygen
+3821,0,Chai,18-Dec-98,Chemical Oxygen Demand (Cr)
+3822,"3,1",Chai,18-Dec-98,Chemical Oxygen Demand (Mn)
+3823,0,Chai,18-Dec-98,AOX
+3824,0,Chai,18-Dec-98,Atrazine
+3825,0,Chai,18-Dec-98,Cesium
+3826,0,Chai,18-Dec-98,Macrozoobenthos
+3827,"0,0014",Chai,18-Dec-98,Total coliforms
+3828,"0,00061",Chai,18-Dec-98,Fecal coliforms
+3829,0,Somchair,19-Dec-98,Water temperature
+3830,0,Somchair,19-Dec-98,Dissolved oxygen
+3831,"1,47",Somchair,19-Dec-98,Ammonium
+3832,"0,03",Somchair,19-Dec-98,Nitrites
+3833,"2,17",Somchair,19-Dec-98,Nitrates
+3834,"0,11",Somchair,19-Dec-98,Orthophosphate-phosphorus
+3835,"0,15",Somchair,19-Dec-98,Total phosphorus
+3836,48,Somchair,19-Dec-98,Sodium
+3837,"5,8",Somchair,19-Dec-98,Potassium
+3838,64,Somchair,19-Dec-98,Calcium
+3839,21,Somchair,19-Dec-98,Magnesium
+3840,"55,3",Somchair,19-Dec-98,Chlorides
+3841,176,Somchair,19-Dec-98,Sulphates
+3842,0,Somchair,19-Dec-98,Iron
+3843,"0,2",Somchair,19-Dec-98,Manganese
+3844,64,Somchair,19-Dec-98,Zinc
+3845,20,Somchair,19-Dec-98,Copper
+3846,37,Somchair,19-Dec-98,Chromium
+3847,1,Somchair,19-Dec-98,Lead
+3848,"0,31",Somchair,19-Dec-98,Cadmium
+3849,0,Somchair,19-Dec-98,Mercury
+3850,0,Somchair,19-Dec-98,Nickel
+3851,0,Somchair,19-Dec-98,Arsenic
+3852,6,Somchair,19-Dec-98,Biochemical Oxygen
+3853,0,Somchair,19-Dec-98,Chemical Oxygen Demand (Cr)
+3854,"4,8",Somchair,19-Dec-98,Chemical Oxygen Demand (Mn)
+3855,0,Somchair,19-Dec-98,AOX
+3856,0,Somchair,19-Dec-98,Atrazine
+3857,0,Somchair,19-Dec-98,Cesium
+3858,0,Somchair,19-Dec-98,Macrozoobenthos
+3859,0,Somchair,19-Dec-98,Total coliforms
+3860,0,Somchair,19-Dec-98,Fecal coliforms
+3861,0,Busarakhan,19-Dec-98,Water temperature
+3862,0,Busarakhan,19-Dec-98,Dissolved oxygen
+3863,"0,47",Busarakhan,19-Dec-98,Ammonium
+3864,"0,04",Busarakhan,19-Dec-98,Nitrites
+3865,"2,16",Busarakhan,19-Dec-98,Nitrates
+3866,"0,08",Busarakhan,19-Dec-98,Orthophosphate-phosphorus
+3867,"0,1",Busarakhan,19-Dec-98,Total phosphorus
+3868,24,Busarakhan,19-Dec-98,Sodium
+3869,"4,7",Busarakhan,19-Dec-98,Potassium
+3870,65,Busarakhan,19-Dec-98,Calcium
+3871,"22,2",Busarakhan,19-Dec-98,Magnesium
+3872,"70,2",Busarakhan,19-Dec-98,Chlorides
+3873,"69,3",Busarakhan,19-Dec-98,Sulphates
+3874,0,Busarakhan,19-Dec-98,Iron
+3875,"0,12",Busarakhan,19-Dec-98,Manganese
+3876,8,Busarakhan,19-Dec-98,Zinc
+3877,21,Busarakhan,19-Dec-98,Copper
+3878,36,Busarakhan,19-Dec-98,Chromium
+3879,1,Busarakhan,19-Dec-98,Lead
+3880,"0,23",Busarakhan,19-Dec-98,Cadmium
+3881,0,Busarakhan,19-Dec-98,Mercury
+3882,0,Busarakhan,19-Dec-98,Nickel
+3883,0,Busarakhan,19-Dec-98,Arsenic
+3884,0,Busarakhan,19-Dec-98,Biochemical Oxygen
+3885,0,Busarakhan,19-Dec-98,Chemical Oxygen Demand (Cr)
+3886,"5,1",Busarakhan,19-Dec-98,Chemical Oxygen Demand (Mn)
+3887,0,Busarakhan,19-Dec-98,AOX
+3888,0,Busarakhan,19-Dec-98,Atrazine
+3889,0,Busarakhan,19-Dec-98,Cesium
+3890,0,Busarakhan,19-Dec-98,Macrozoobenthos
+3891,0,Busarakhan,19-Dec-98,Total coliforms
+3892,0,Busarakhan,19-Dec-98,Fecal coliforms
+3893,1,Boonsri,9-Jan-99,Water temperature
+3894,"10,6",Boonsri,9-Jan-99,Dissolved oxygen
+3895,201,Boonsri,9-Jan-99,Bicarbonates
+3896,"0,43",Boonsri,9-Jan-99,Ammonium
+3897,"0,01",Boonsri,9-Jan-99,Nitrites
+3898,"0,85",Boonsri,9-Jan-99,Nitrates
+3899,"0,09",Boonsri,9-Jan-99,Orthophosphate-phosphorus
+3900,"0,13",Boonsri,9-Jan-99,Total phosphorus
+3901,"14,9",Boonsri,9-Jan-99,Sodium
+3902,"3,2",Boonsri,9-Jan-99,Potassium
+3903,60,Boonsri,9-Jan-99,Calcium
+3904,17,Boonsri,9-Jan-99,Magnesium
+3905,"17,7",Boonsri,9-Jan-99,Chlorides
+3906,"67,5",Boonsri,9-Jan-99,Sulphates
+3907,"2,7",Boonsri,9-Jan-99,Biochemical Oxygen
+3908,"10,8",Boonsri,9-Jan-99,Chemical Oxygen Demand (Cr)
+3909,5,Boonsri,9-Jan-99,Chemical Oxygen Demand (Mn)
+3910,"0,21",Boonsri,9-Jan-99,"p,p-DDT"
+3911,"0,02",Boonsri,9-Jan-99,gamma-Hexachlorocyclohexane
+3912,1,Boonsri,9-Jan-99,Water temperature
+3913,"10,2",Boonsri,9-Jan-99,Dissolved oxygen
+3914,189,Boonsri,9-Jan-99,Bicarbonates
+3915,"0,54",Boonsri,9-Jan-99,Ammonium
+3916,"0,02",Boonsri,9-Jan-99,Nitrites
+3917,"0,87",Boonsri,9-Jan-99,Nitrates
+3918,"0,12",Boonsri,9-Jan-99,Orthophosphate-phosphorus
+3919,"0,17",Boonsri,9-Jan-99,Total phosphorus
+3920,"14,9",Boonsri,9-Jan-99,Sodium
+3921,"3,1",Boonsri,9-Jan-99,Potassium
+3922,56,Boonsri,9-Jan-99,Calcium
+3923,"19,4",Boonsri,9-Jan-99,Magnesium
+3924,"15,6",Boonsri,9-Jan-99,Chlorides
+3925,"69,8",Boonsri,9-Jan-99,Sulphates
+3926,"0,48",Boonsri,9-Jan-99,Iron
+3927,"0,02",Boonsri,9-Jan-99,Manganese
+3928,53,Boonsri,9-Jan-99,Zinc
+3929,23,Boonsri,9-Jan-99,Copper
+3930,22,Boonsri,9-Jan-99,Chromium
+3931,3,Boonsri,9-Jan-99,Lead
+3932,"4,4",Boonsri,9-Jan-99,Cadmium
+3933,"2,2",Boonsri,9-Jan-99,Biochemical Oxygen
+3934,"11,3",Boonsri,9-Jan-99,Chemical Oxygen Demand (Cr)
+3935,"4,1",Boonsri,9-Jan-99,Chemical Oxygen Demand (Mn)
+3936,"0,06",Boonsri,9-Jan-99,"p,p-DDT"
+3937,"0,01",Boonsri,9-Jan-99,gamma-Hexachlorocyclohexane
+3938,1,Boonsri,9-Jan-99,Water temperature
+3939,"10,6",Boonsri,9-Jan-99,Dissolved oxygen
+3940,189,Boonsri,9-Jan-99,Bicarbonates
+3941,"0,38",Boonsri,9-Jan-99,Ammonium
+3942,"0,02",Boonsri,9-Jan-99,Nitrites
+3943,"0,62",Boonsri,9-Jan-99,Nitrates
+3944,"0,09",Boonsri,9-Jan-99,Orthophosphate-phosphorus
+3945,"0,13",Boonsri,9-Jan-99,Total phosphorus
+3946,"14,9",Boonsri,9-Jan-99,Sodium
+3947,"3,1",Boonsri,9-Jan-99,Potassium
+3948,56,Boonsri,9-Jan-99,Calcium
+3949,17,Boonsri,9-Jan-99,Magnesium
+3950,"15,6",Boonsri,9-Jan-99,Chlorides
+3951,"67,5",Boonsri,9-Jan-99,Sulphates
+3952,"2,5",Boonsri,9-Jan-99,Biochemical Oxygen
+3953,"10,4",Boonsri,9-Jan-99,Chemical Oxygen Demand (Cr)
+3954,5,Boonsri,9-Jan-99,Chemical Oxygen Demand (Mn)
+3955,"0,08",Boonsri,9-Jan-99,"p,p-DDT"
+3956,"0,01",Boonsri,9-Jan-99,gamma-Hexachlorocyclohexane
+3957,"3,3",Kohsoom,16-Jan-99,Water temperature
+3958,"6,2",Kohsoom,16-Jan-99,Dissolved oxygen
+3959,225,Kohsoom,16-Jan-99,Bicarbonates
+3960,"0,4",Kohsoom,16-Jan-99,Ammonium
+3961,"0,04",Kohsoom,16-Jan-99,Nitrites
+3962,"2,86",Kohsoom,16-Jan-99,Nitrates
+3963,"0,12",Kohsoom,16-Jan-99,Orthophosphate-phosphorus
+3964,"0,18",Kohsoom,16-Jan-99,Total phosphorus
+3965,"41,5",Kohsoom,16-Jan-99,Sodium
+3966,"7,8",Kohsoom,16-Jan-99,Potassium
+3967,74,Kohsoom,16-Jan-99,Calcium
+3968,"19,2",Kohsoom,16-Jan-99,Magnesium
+3969,71,Kohsoom,16-Jan-99,Chlorides
+3970,75,Kohsoom,16-Jan-99,Sulphates
+3971,"3,44",Kohsoom,16-Jan-99,Iron
+3972,"0,4",Kohsoom,16-Jan-99,Manganese
+3973,413,Kohsoom,16-Jan-99,Zinc
+3974,55,Kohsoom,16-Jan-99,Copper
+3975,46,Kohsoom,16-Jan-99,Chromium
+3976,2,Kohsoom,16-Jan-99,Lead
+3977,"6,68",Kohsoom,16-Jan-99,Cadmium
+3978,"4,6",Kohsoom,16-Jan-99,Biochemical Oxygen
+3979,"14,6",Kohsoom,16-Jan-99,Chemical Oxygen Demand (Cr)
+3980,"7,8",Kohsoom,16-Jan-99,Chemical Oxygen Demand (Mn)
+3981,"0,11",Kohsoom,16-Jan-99,"p,p-DDT"
+3982,"0,03",Kohsoom,16-Jan-99,gamma-Hexachlorocyclohexane
+3983,"2,8",Kohsoom,16-Jan-99,Macrozoobenthos
+3984,"0,5",Sakda,16-Jan-99,Water temperature
+3985,"10,4",Sakda,16-Jan-99,Dissolved oxygen
+3986,"201,3",Sakda,16-Jan-99,Bicarbonates
+3987,"0,49",Sakda,16-Jan-99,Ammonium
+3988,"0,01",Sakda,16-Jan-99,Nitrites
+3989,"1,35",Sakda,16-Jan-99,Nitrates
+3990,"0,06",Sakda,16-Jan-99,Orthophosphate-phosphorus
+3991,"0,07",Sakda,16-Jan-99,Total phosphorus
+3992,"18,03",Sakda,16-Jan-99,Sodium
+3993,"2,7",Sakda,16-Jan-99,Potassium
+3994,"61,72",Sakda,16-Jan-99,Calcium
+3995,"13,62",Sakda,16-Jan-99,Magnesium
+3996,"26,23",Sakda,16-Jan-99,Chlorides
+3997,"78,53",Sakda,16-Jan-99,Sulphates
+3998,"1,04",Sakda,16-Jan-99,Iron
+3999,"0,08",Sakda,16-Jan-99,Manganese
+4000,72,Sakda,16-Jan-99,Zinc
+4001,46,Sakda,16-Jan-99,Copper
+4002,10,Sakda,16-Jan-99,Chromium
+4003,26,Sakda,16-Jan-99,Lead
+4004,"0,62",Sakda,16-Jan-99,Cadmium
+4005,"1,43",Sakda,16-Jan-99,Biochemical Oxygen
+4006,11,Sakda,16-Jan-99,Chemical Oxygen Demand (Cr)
+4007,"8,47",Sakda,16-Jan-99,Chemical Oxygen Demand (Mn)
+4008,"0,15",Sakda,16-Jan-99,Anionic active surfactants
+4009,"0,0098",Sakda,16-Jan-99,"p,p-DDT"
+4010,"0,01",Sakda,16-Jan-99,gamma-Hexachlorocyclohexane
+4011,"0,5",Sakda,16-Jan-99,Water temperature
+4012,"10,4",Sakda,16-Jan-99,Dissolved oxygen
+4013,"204,35",Sakda,16-Jan-99,Bicarbonates
+4014,"0,48",Sakda,16-Jan-99,Ammonium
+4015,"0,01",Sakda,16-Jan-99,Nitrites
+4016,"1,37",Sakda,16-Jan-99,Nitrates
+4017,"0,05",Sakda,16-Jan-99,Orthophosphate-phosphorus
+4018,"0,07",Sakda,16-Jan-99,Total phosphorus
+4019,"16,9",Sakda,16-Jan-99,Sodium
+4020,"2,6",Sakda,16-Jan-99,Potassium
+4021,"60,92",Sakda,16-Jan-99,Calcium
+4022,"14,1",Sakda,16-Jan-99,Magnesium
+4023,"26,59",Sakda,16-Jan-99,Chlorides
+4024,"80,45",Sakda,16-Jan-99,Sulphates
+4025,"0,9",Sakda,16-Jan-99,Iron
+4026,"0,04",Sakda,16-Jan-99,Manganese
+4027,26,Sakda,16-Jan-99,Zinc
+4028,33,Sakda,16-Jan-99,Copper
+4029,14,Sakda,16-Jan-99,Chromium
+4030,10,Sakda,16-Jan-99,Lead
+4031,"0,24",Sakda,16-Jan-99,Cadmium
+4032,"1,34",Sakda,16-Jan-99,Biochemical Oxygen
+4033,10,Sakda,16-Jan-99,Chemical Oxygen Demand (Cr)
+4034,"8,47",Sakda,16-Jan-99,Chemical Oxygen Demand (Mn)
+4035,"0,15",Sakda,16-Jan-99,Anionic active surfactants
+4036,"0,03",Sakda,16-Jan-99,"p,p-DDT"
+4037,"0,02",Sakda,16-Jan-99,gamma-Hexachlorocyclohexane
+4038,"0,5",Sakda,16-Jan-99,Water temperature
+4039,"10,4",Sakda,16-Jan-99,Dissolved oxygen
+4040,"201,3",Sakda,16-Jan-99,Bicarbonates
+4041,"0,49",Sakda,16-Jan-99,Ammonium
+4042,"0,01",Sakda,16-Jan-99,Nitrites
+4043,"1,35",Sakda,16-Jan-99,Nitrates
+4044,"0,05",Sakda,16-Jan-99,Orthophosphate-phosphorus
+4045,"0,05",Sakda,16-Jan-99,Total phosphorus
+4046,"16,9",Sakda,16-Jan-99,Sodium
+4047,"2,75",Sakda,16-Jan-99,Potassium
+4048,"60,92",Sakda,16-Jan-99,Calcium
+4049,"13,62",Sakda,16-Jan-99,Magnesium
+4050,"26,23",Sakda,16-Jan-99,Chlorides
+4051,"78,53",Sakda,16-Jan-99,Sulphates
+4052,"0,79",Sakda,16-Jan-99,Iron
+4053,"0,04",Sakda,16-Jan-99,Manganese
+4054,13,Sakda,16-Jan-99,Zinc
+4055,54,Sakda,16-Jan-99,Copper
+4056,7,Sakda,16-Jan-99,Chromium
+4057,19,Sakda,16-Jan-99,Lead
+4058,"0,38",Sakda,16-Jan-99,Cadmium
+4059,"1,32",Sakda,16-Jan-99,Biochemical Oxygen
+4060,10,Sakda,16-Jan-99,Chemical Oxygen Demand (Cr)
+4061,"7,99",Sakda,16-Jan-99,Chemical Oxygen Demand (Mn)
+4062,"0,15",Sakda,16-Jan-99,Anionic active surfactants
+4063,"0,03",Sakda,16-Jan-99,"p,p-DDT"
+4064,"0,01",Sakda,16-Jan-99,gamma-Hexachlorocyclohexane
+4065,"0,5",Kannika,21-Jan-99,Water temperature
+4066,"10,4",Kannika,21-Jan-99,Dissolved oxygen
+4067,"213,5",Kannika,21-Jan-99,Bicarbonates
+4068,"0,46",Kannika,21-Jan-99,Ammonium
+4069,"0,01",Kannika,21-Jan-99,Nitrites
+4070,"1,39",Kannika,21-Jan-99,Nitrates
+4071,"0,06",Kannika,21-Jan-99,Orthophosphate-phosphorus
+4072,"0,07",Kannika,21-Jan-99,Total phosphorus
+4073,"21,42",Kannika,21-Jan-99,Sodium
+4074,"3,1",Kannika,21-Jan-99,Potassium
+4075,"62,52",Kannika,21-Jan-99,Calcium
+4076,"13,62",Kannika,21-Jan-99,Magnesium
+4077,"26,59",Kannika,21-Jan-99,Chlorides
+4078,"57,67",Kannika,21-Jan-99,Sulphates
+4079,"0,77",Kannika,21-Jan-99,Iron
+4080,"0,06",Kannika,21-Jan-99,Manganese
+4081,24,Kannika,21-Jan-99,Zinc
+4082,27,Kannika,21-Jan-99,Copper
+4083,21,Kannika,21-Jan-99,Chromium
+4084,41,Kannika,21-Jan-99,Lead
+4085,"0,42",Kannika,21-Jan-99,Cadmium
+4086,"2,19",Kannika,21-Jan-99,Biochemical Oxygen
+4087,14,Kannika,21-Jan-99,Chemical Oxygen Demand (Cr)
+4088,"9,27",Kannika,21-Jan-99,Chemical Oxygen Demand (Mn)
+4089,"0,14",Kannika,21-Jan-99,Anionic active surfactants
+4090,"0,07",Kannika,21-Jan-99,"p,p-DDT"
+4091,"0,008",Kannika,21-Jan-99,gamma-Hexachlorocyclohexane
+4092,"0,5",Kannika,21-Jan-99,Water temperature
+4093,"10,4",Kannika,21-Jan-99,Dissolved oxygen
+4094,"207,4",Kannika,21-Jan-99,Bicarbonates
+4095,"0,45",Kannika,21-Jan-99,Ammonium
+4096,"0,01",Kannika,21-Jan-99,Nitrites
+4097,"1,39",Kannika,21-Jan-99,Nitrates
+4098,"0,04",Kannika,21-Jan-99,Orthophosphate-phosphorus
+4099,"0,05",Kannika,21-Jan-99,Total phosphorus
+4100,"23,68",Kannika,21-Jan-99,Sodium
+4101,"3,1",Kannika,21-Jan-99,Potassium
+4102,"62,52",Kannika,21-Jan-99,Calcium
+4103,"13,13",Kannika,21-Jan-99,Magnesium
+4104,"26,94",Kannika,21-Jan-99,Chlorides
+4105,"55,8",Kannika,21-Jan-99,Sulphates
+4106,"0,97",Kannika,21-Jan-99,Iron
+4107,"0,07",Kannika,21-Jan-99,Manganese
+4108,28,Kannika,21-Jan-99,Zinc
+4109,34,Kannika,21-Jan-99,Copper
+4110,34,Kannika,21-Jan-99,Chromium
+4111,13,Kannika,21-Jan-99,Lead
+4112,"0,66",Kannika,21-Jan-99,Cadmium
+4113,"2,08",Kannika,21-Jan-99,Biochemical Oxygen
+4114,14,Kannika,21-Jan-99,Chemical Oxygen Demand (Cr)
+4115,"9,91",Kannika,21-Jan-99,Chemical Oxygen Demand (Mn)
+4116,"0,14",Kannika,21-Jan-99,Anionic active surfactants
+4117,"0,05",Kannika,21-Jan-99,"p,p-DDT"
+4118,"0,01",Kannika,21-Jan-99,gamma-Hexachlorocyclohexane
+4119,"2,27",Kannika,21-Jan-99,Macrozoobenthos
+4120,"0,5",Kannika,21-Jan-99,Water temperature
+4121,"10,4",Kannika,21-Jan-99,Dissolved oxygen
+4122,"213,5",Kannika,21-Jan-99,Bicarbonates
+4123,"0,46",Kannika,21-Jan-99,Ammonium
+4124,"0,01",Kannika,21-Jan-99,Nitrites
+4125,"1,42",Kannika,21-Jan-99,Nitrates
+4126,"0,07",Kannika,21-Jan-99,Orthophosphate-phosphorus
+4127,"0,08",Kannika,21-Jan-99,Total phosphorus
+4128,"23,68",Kannika,21-Jan-99,Sodium
+4129,"3,05",Kannika,21-Jan-99,Potassium
+4130,"62,52",Kannika,21-Jan-99,Calcium
+4131,"13,62",Kannika,21-Jan-99,Magnesium
+4132,"26,94",Kannika,21-Jan-99,Chlorides
+4133,"55,8",Kannika,21-Jan-99,Sulphates
+4134,"1,2",Kannika,21-Jan-99,Iron
+4135,"0,06",Kannika,21-Jan-99,Manganese
+4136,10,Kannika,21-Jan-99,Zinc
+4137,46,Kannika,21-Jan-99,Copper
+4138,14,Kannika,21-Jan-99,Chromium
+4139,43,Kannika,21-Jan-99,Lead
+4140,"0,59",Kannika,21-Jan-99,Cadmium
+4141,"1,99",Kannika,21-Jan-99,Biochemical Oxygen
+4142,14,Kannika,21-Jan-99,Chemical Oxygen Demand (Cr)
+4143,"9,43",Kannika,21-Jan-99,Chemical Oxygen Demand (Mn)
+4144,"0,15",Kannika,21-Jan-99,Anionic active surfactants
+4145,"0,03",Kannika,21-Jan-99,"p,p-DDT"
+4146,"0,01",Kannika,21-Jan-99,gamma-Hexachlorocyclohexane
+4147,2,Somchair,27-Jan-99,Water temperature
+4148,"13,5",Somchair,27-Jan-99,Dissolved oxygen
+4149,"120,82",Somchair,27-Jan-99,Bicarbonates
+4150,"2,62",Somchair,27-Jan-99,Ammonium
+4151,"0,03",Somchair,27-Jan-99,Nitrites
+4152,"1,4",Somchair,27-Jan-99,Nitrates
+4153,"0,1",Somchair,27-Jan-99,Orthophosphate-phosphorus
+4154,"0,15",Somchair,27-Jan-99,Total phosphorus
+4155,27,Somchair,27-Jan-99,Sodium
+4156,4,Somchair,27-Jan-99,Potassium
+4157,"66,14",Somchair,27-Jan-99,Calcium
+4158,"33,07",Somchair,27-Jan-99,Magnesium
+4159,"42,6",Somchair,27-Jan-99,Chlorides
+4160,65,Somchair,27-Jan-99,Sulphates
+4161,"0,49",Somchair,27-Jan-99,Iron
+4162,"0,07",Somchair,27-Jan-99,Manganese
+4163,38,Somchair,27-Jan-99,Zinc
+4164,19,Somchair,27-Jan-99,Copper
+4165,13,Somchair,27-Jan-99,Chromium
+4166,34,Somchair,27-Jan-99,Lead
+4167,"1,57",Somchair,27-Jan-99,Cadmium
+4168,"7,62",Somchair,27-Jan-99,Biochemical Oxygen
+4169,56,Somchair,27-Jan-99,Chemical Oxygen Demand (Cr)
+4170,"14,85",Somchair,27-Jan-99,Chemical Oxygen Demand (Mn)
+4171,6,Somchair,27-Jan-99,Total extractable matter
+4172,0,Somchair,27-Jan-99,Anionic active surfactants
+4173,"0,12",Somchair,27-Jan-99,"p,p-DDT"
+4174,"0,008",Somchair,27-Jan-99,gamma-Hexachlorocyclohexane
+4175,"2,17",Somchair,27-Jan-99,Macrozoobenthos
+4176,"0,22",Somchair,27-Jan-99,Total coliforms
+4177,"0,006",Somchair,27-Jan-99,Fecal coliforms
+4178,"1,8",Busarakhan,27-Jan-99,Water temperature
+4179,11,Busarakhan,27-Jan-99,Dissolved oxygen
+4180,"208,01",Busarakhan,27-Jan-99,Bicarbonates
+4181,"1,76",Busarakhan,27-Jan-99,Ammonium
+4182,"0,03",Busarakhan,27-Jan-99,Nitrites
+4183,"1,4",Busarakhan,27-Jan-99,Nitrates
+4184,"0,1",Busarakhan,27-Jan-99,Orthophosphate-phosphorus
+4185,"0,1",Busarakhan,27-Jan-99,Total phosphorus
+4186,"60,6",Busarakhan,27-Jan-99,Sodium
+4187,"12,8",Busarakhan,27-Jan-99,Potassium
+4188,"70,03",Busarakhan,27-Jan-99,Calcium
+4189,"40,12",Busarakhan,27-Jan-99,Magnesium
+4190,"88,75",Busarakhan,27-Jan-99,Chlorides
+4191,125,Busarakhan,27-Jan-99,Sulphates
+4192,"0,31",Busarakhan,27-Jan-99,Iron
+4193,"0,05",Busarakhan,27-Jan-99,Manganese
+4194,108,Busarakhan,27-Jan-99,Zinc
+4195,23,Busarakhan,27-Jan-99,Copper
+4196,22,Busarakhan,27-Jan-99,Chromium
+4197,14,Busarakhan,27-Jan-99,Lead
+4198,"2,29",Busarakhan,27-Jan-99,Cadmium
+4199,"5,1",Busarakhan,27-Jan-99,Biochemical Oxygen
+4200,44,Busarakhan,27-Jan-99,Chemical Oxygen Demand (Cr)
+4201,"13,75",Busarakhan,27-Jan-99,Chemical Oxygen Demand (Mn)
+4202,"5,8",Busarakhan,27-Jan-99,Total extractable matter
+4203,0,Busarakhan,27-Jan-99,Anionic active surfactants
+4204,"0,26",Busarakhan,27-Jan-99,"p,p-DDT"
+4205,"0,08",Busarakhan,27-Jan-99,gamma-Hexachlorocyclohexane
+4206,"1,98",Busarakhan,27-Jan-99,Macrozoobenthos
+4207,"0,24",Busarakhan,27-Jan-99,Total coliforms
+4208,"0,09",Busarakhan,27-Jan-99,Fecal coliforms
+4209,"4,4",Chai,30-Jan-99,Water temperature
+4210,11,Chai,30-Jan-99,Dissolved oxygen
+4211,"192,76",Chai,30-Jan-99,Bicarbonates
+4212,"0,67",Chai,30-Jan-99,Ammonium
+4213,"0,02",Chai,30-Jan-99,Nitrites
+4214,"1,8",Chai,30-Jan-99,Nitrates
+4215,"0,1",Chai,30-Jan-99,Orthophosphate-phosphorus
+4216,"0,15",Chai,30-Jan-99,Total phosphorus
+4217,"19,8",Chai,30-Jan-99,Sodium
+4218,2,Chai,30-Jan-99,Potassium
+4219,"62,25",Chai,30-Jan-99,Calcium
+4220,"30,64",Chai,30-Jan-99,Magnesium
+4221,"35,5",Chai,30-Jan-99,Chlorides
+4222,60,Chai,30-Jan-99,Sulphates
+4223,"0,36",Chai,30-Jan-99,Iron
+4224,"0,04",Chai,30-Jan-99,Manganese
+4225,37,Chai,30-Jan-99,Zinc
+4226,28,Chai,30-Jan-99,Copper
+4227,12,Chai,30-Jan-99,Chromium
+4228,20,Chai,30-Jan-99,Lead
+4229,"1,36",Chai,30-Jan-99,Cadmium
+4230,"4,16",Chai,30-Jan-99,Biochemical Oxygen
+4231,13,Chai,30-Jan-99,Chemical Oxygen Demand (Cr)
+4232,"6,99",Chai,30-Jan-99,Chemical Oxygen Demand (Mn)
+4233,"2,5",Chai,30-Jan-99,Total extractable matter
+4234,0,Chai,30-Jan-99,Anionic active surfactants
+4235,"0,1",Chai,30-Jan-99,"p,p-DDT"
+4236,"0,01",Chai,30-Jan-99,gamma-Hexachlorocyclohexane
+4237,"2,21",Chai,30-Jan-99,Macrozoobenthos
+4238,"1,1",Chai,30-Jan-99,Total coliforms
+4239,"0,02",Chai,30-Jan-99,Fecal coliforms
+4240,"0,0045",Chai,30-Jan-99,Fecal streptococci 
+4241,"4,5",Chai,30-Jan-99,Water temperature
+4242,11,Chai,30-Jan-99,Dissolved oxygen
+4243,"197,64",Chai,30-Jan-99,Bicarbonates
+4244,"0,74",Chai,30-Jan-99,Ammonium
+4245,"0,03",Chai,30-Jan-99,Nitrites
+4246,"2,2",Chai,30-Jan-99,Nitrates
+4247,"0,04",Chai,30-Jan-99,Orthophosphate-phosphorus
+4248,"0,12",Chai,30-Jan-99,Total phosphorus
+4249,"19,8",Chai,30-Jan-99,Sodium
+4250,2,Chai,30-Jan-99,Potassium
+4251,"66,14",Chai,30-Jan-99,Calcium
+4252,"23,59",Chai,30-Jan-99,Magnesium
+4253,"35,5",Chai,30-Jan-99,Chlorides
+4254,58,Chai,30-Jan-99,Sulphates
+4255,"0,32",Chai,30-Jan-99,Iron
+4256,"0,04",Chai,30-Jan-99,Manganese
+4257,22,Chai,30-Jan-99,Zinc
+4258,36,Chai,30-Jan-99,Copper
+4259,46,Chai,30-Jan-99,Chromium
+4260,38,Chai,30-Jan-99,Lead
+4261,"2,96",Chai,30-Jan-99,Cadmium
+4262,"5,22",Chai,30-Jan-99,Biochemical Oxygen
+4263,15,Chai,30-Jan-99,Chemical Oxygen Demand (Cr)
+4264,"7,3",Chai,30-Jan-99,Chemical Oxygen Demand (Mn)
+4265,5,Chai,30-Jan-99,Total extractable matter
+4266,0,Chai,30-Jan-99,Anionic active surfactants
+4267,"0,04",Chai,30-Jan-99,"p,p-DDT"
+4268,"0,01",Chai,30-Jan-99,gamma-Hexachlorocyclohexane
+4269,"1,87",Chai,30-Jan-99,Macrozoobenthos
+4270,"0,64",Chai,30-Jan-99,Total coliforms
+4271,"0,14",Chai,30-Jan-99,Fecal coliforms
+4272,"0,03",Chai,30-Jan-99,Fecal streptococci 
+4273,"4,3",Chai,30-Jan-99,Water temperature
+4274,11,Chai,30-Jan-99,Dissolved oxygen
+4275,"192,76",Chai,30-Jan-99,Bicarbonates
+4276,"0,56",Chai,30-Jan-99,Ammonium
+4277,"0,03",Chai,30-Jan-99,Nitrites
+4278,"1,5",Chai,30-Jan-99,Nitrates
+4279,"0,11",Chai,30-Jan-99,Orthophosphate-phosphorus
+4280,"0,11",Chai,30-Jan-99,Total phosphorus
+4281,"19,8",Chai,30-Jan-99,Sodium
+4282,2,Chai,30-Jan-99,Potassium
+4283,"66,14",Chai,30-Jan-99,Calcium
+4284,"28,21",Chai,30-Jan-99,Magnesium
+4285,"35,5",Chai,30-Jan-99,Chlorides
+4286,"60,1",Chai,30-Jan-99,Sulphates
+4287,"0,34",Chai,30-Jan-99,Iron
+4288,"0,05",Chai,30-Jan-99,Manganese
+4289,27,Chai,30-Jan-99,Zinc
+4290,38,Chai,30-Jan-99,Copper
+4291,19,Chai,30-Jan-99,Chromium
+4292,38,Chai,30-Jan-99,Lead
+4293,"1,82",Chai,30-Jan-99,Cadmium
+4294,"3,56",Chai,30-Jan-99,Biochemical Oxygen
+4295,18,Chai,30-Jan-99,Chemical Oxygen Demand (Cr)
+4296,"6,99",Chai,30-Jan-99,Chemical Oxygen Demand (Mn)
+4297,5,Chai,30-Jan-99,Total extractable matter
+4298,0,Chai,30-Jan-99,Anionic active surfactants
+4299,"0,04",Chai,30-Jan-99,"p,p-DDT"
+4300,"0,02",Chai,30-Jan-99,gamma-Hexachlorocyclohexane
+4301,"2,06",Chai,30-Jan-99,Macrozoobenthos
+4302,"0,92",Chai,30-Jan-99,Total coliforms
+4303,"0,11",Chai,30-Jan-99,Fecal coliforms
+4304,"1,5",Boonsri,11-Feb-99,Water temperature
+4305,"11,1",Boonsri,11-Feb-99,Dissolved oxygen
+4306,"225,7",Boonsri,11-Feb-99,Bicarbonates
+4307,"0,66",Boonsri,11-Feb-99,Ammonium
+4308,"0,03",Boonsri,11-Feb-99,Nitrites
+4309,"2,16",Boonsri,11-Feb-99,Nitrates
+4310,"0,07",Boonsri,11-Feb-99,Orthophosphate-phosphorus
+4311,"0,11",Boonsri,11-Feb-99,Total phosphorus
+4312,"12,2",Boonsri,11-Feb-99,Sodium
+4313,"2,4",Boonsri,11-Feb-99,Potassium
+4314,"56,7",Boonsri,11-Feb-99,Calcium
+4315,"23,28",Boonsri,11-Feb-99,Magnesium
+4316,"28,75",Boonsri,11-Feb-99,Chlorides
+4317,"52,3",Boonsri,11-Feb-99,Sulphates
+4318,"0,68",Boonsri,11-Feb-99,Iron
+4319,"0,05",Boonsri,11-Feb-99,Manganese
+4320,69,Boonsri,11-Feb-99,Zinc
+4321,21,Boonsri,11-Feb-99,Copper
+4322,19,Boonsri,11-Feb-99,Chromium
+4323,21,Boonsri,11-Feb-99,Lead
+4324,"8,61",Boonsri,11-Feb-99,Cadmium
+4325,"6,28",Boonsri,11-Feb-99,Biochemical Oxygen
+4326,"17,28",Boonsri,11-Feb-99,Chemical Oxygen Demand (Cr)
+4327,"8,47",Boonsri,11-Feb-99,Chemical Oxygen Demand (Mn)
+4328,"0,04",Boonsri,11-Feb-99,"p,p-DDT"
+4329,"0,01",Boonsri,11-Feb-99,gamma-Hexachlorocyclohexane
+4330,"0,03",Boonsri,11-Feb-99,Total coliforms
+4331,"0,01",Boonsri,11-Feb-99,Fecal coliforms
+4332,"0,006",Boonsri,11-Feb-99,Fecal streptococci 
+4333,"2,1",Boonsri,11-Feb-99,Water temperature
+4334,11,Boonsri,11-Feb-99,Dissolved oxygen
+4335,"213,5",Boonsri,11-Feb-99,Bicarbonates
+4336,"0,83",Boonsri,11-Feb-99,Ammonium
+4337,"0,03",Boonsri,11-Feb-99,Nitrites
+4338,"1,91",Boonsri,11-Feb-99,Nitrates
+4339,"0,06",Boonsri,11-Feb-99,Orthophosphate-phosphorus
+4340,"0,1",Boonsri,11-Feb-99,Total phosphorus
+4341,"12,2",Boonsri,11-Feb-99,Sodium
+4342,"2,4",Boonsri,11-Feb-99,Potassium
+4343,"72,7",Boonsri,11-Feb-99,Calcium
+4344,"12,61",Boonsri,11-Feb-99,Magnesium
+4345,"30,17",Boonsri,11-Feb-99,Chlorides
+4346,"47,9",Boonsri,11-Feb-99,Sulphates
+4347,"0,71",Boonsri,11-Feb-99,Iron
+4348,"0,33",Boonsri,11-Feb-99,Manganese
+4349,21,Boonsri,11-Feb-99,Zinc
+4350,14,Boonsri,11-Feb-99,Copper
+4351,12,Boonsri,11-Feb-99,Chromium
+4352,63,Boonsri,11-Feb-99,Lead
+4353,"23,99",Boonsri,11-Feb-99,Cadmium
+4354,"7,31",Boonsri,11-Feb-99,Biochemical Oxygen
+4355,"18,36",Boonsri,11-Feb-99,Chemical Oxygen Demand (Cr)
+4356,"9,52",Boonsri,11-Feb-99,Chemical Oxygen Demand (Mn)
+4357,"0,05",Boonsri,11-Feb-99,"p,p-DDT"
+4358,"0,01",Boonsri,11-Feb-99,gamma-Hexachlorocyclohexane
+4359,"0,0045",Boonsri,11-Feb-99,Total coliforms
+4360,"0,0045",Boonsri,11-Feb-99,Fecal coliforms
+4361,"0,0092",Boonsri,11-Feb-99,Fecal streptococci 
+4362,"1,7",Boonsri,11-Feb-99,Water temperature
+4363,"11,1",Boonsri,11-Feb-99,Dissolved oxygen
+4364,"225,7",Boonsri,11-Feb-99,Bicarbonates
+4365,"0,48",Boonsri,11-Feb-99,Ammonium
+4366,"0,02",Boonsri,11-Feb-99,Nitrites
+4367,"2,25",Boonsri,11-Feb-99,Nitrates
+4368,"0,06",Boonsri,11-Feb-99,Orthophosphate-phosphorus
+4369,"0,1",Boonsri,11-Feb-99,Total phosphorus
+4370,"12,2",Boonsri,11-Feb-99,Sodium
+4371,"2,4",Boonsri,11-Feb-99,Potassium
+4372,"56,7",Boonsri,11-Feb-99,Calcium
+4373,"22,31",Boonsri,11-Feb-99,Magnesium
+4374,"25,91",Boonsri,11-Feb-99,Chlorides
+4375,"53,7",Boonsri,11-Feb-99,Sulphates
+4376,"0,89",Boonsri,11-Feb-99,Iron
+4377,"0,07",Boonsri,11-Feb-99,Manganese
+4378,98,Boonsri,11-Feb-99,Zinc
+4379,32,Boonsri,11-Feb-99,Copper
+4380,14,Boonsri,11-Feb-99,Chromium
+4381,18,Boonsri,11-Feb-99,Lead
+4382,"2,62",Boonsri,11-Feb-99,Cadmium
+4383,"5,86",Boonsri,11-Feb-99,Biochemical Oxygen
+4384,"15,93",Boonsri,11-Feb-99,Chemical Oxygen Demand (Cr)
+4385,"7,41",Boonsri,11-Feb-99,Chemical Oxygen Demand (Mn)
+4386,"0,03",Boonsri,11-Feb-99,"p,p-DDT"
+4387,"0,008",Boonsri,11-Feb-99,gamma-Hexachlorocyclohexane
+4388,"0,0045",Boonsri,11-Feb-99,Total coliforms
+4389,"0,0036",Boonsri,11-Feb-99,Fecal streptococci 
+4390,"5,8",Kohsoom,13-Feb-99,Water temperature
+4391,"5,6",Kohsoom,13-Feb-99,Dissolved oxygen
+4392,268,Kohsoom,13-Feb-99,Bicarbonates
+4393,"1,6",Kohsoom,13-Feb-99,Ammonium
+4394,"0,06",Kohsoom,13-Feb-99,Nitrites
+4395,"2,88",Kohsoom,13-Feb-99,Nitrates
+4396,"0,04",Kohsoom,13-Feb-99,Orthophosphate-phosphorus
+4397,"0,06",Kohsoom,13-Feb-99,Total phosphorus
+4398,46,Kohsoom,13-Feb-99,Sodium
+4399,"7,8",Kohsoom,13-Feb-99,Potassium
+4400,88,Kohsoom,13-Feb-99,Calcium
+4401,17,Kohsoom,13-Feb-99,Magnesium
+4402,78,Kohsoom,13-Feb-99,Chlorides
+4403,66,Kohsoom,13-Feb-99,Sulphates
+4404,"1,37",Kohsoom,13-Feb-99,Iron
+4405,"1,17",Kohsoom,13-Feb-99,Manganese
+4406,124,Kohsoom,13-Feb-99,Zinc
+4407,32,Kohsoom,13-Feb-99,Copper
+4408,37,Kohsoom,13-Feb-99,Chromium
+4409,18,Kohsoom,13-Feb-99,Lead
+4410,"6,68",Kohsoom,13-Feb-99,Cadmium
+4411,"5,1",Kohsoom,13-Feb-99,Biochemical Oxygen
+4412,"9,8",Kohsoom,13-Feb-99,Chemical Oxygen Demand (Mn)
+4413,"0,08",Kohsoom,13-Feb-99,"p,p-DDT"
+4414,"0,02",Kohsoom,13-Feb-99,gamma-Hexachlorocyclohexane
+4415,"2,3",Kohsoom,13-Feb-99,Macrozoobenthos
+4416,"5,8",Chai,18-Feb-99,Water temperature
+4417,"10,9",Chai,18-Feb-99,Dissolved oxygen
+4418,"192,15",Chai,18-Feb-99,Bicarbonates
+4419,"0,76",Chai,18-Feb-99,Ammonium
+4420,"0,01",Chai,18-Feb-99,Nitrites
+4421,"1,7",Chai,18-Feb-99,Nitrates
+4422,"0,07",Chai,18-Feb-99,Orthophosphate-phosphorus
+4423,"0,08",Chai,18-Feb-99,Total phosphorus
+4424,"29,4",Chai,18-Feb-99,Sodium
+4425,"4,3",Chai,18-Feb-99,Potassium
+4426,"61,4",Chai,18-Feb-99,Calcium
+4427,"16,2",Chai,18-Feb-99,Magnesium
+4428,"42,6",Chai,18-Feb-99,Chlorides
+4429,"38,4",Chai,18-Feb-99,Sulphates
+4430,"0,92",Chai,18-Feb-99,Iron
+4431,"0,04",Chai,18-Feb-99,Manganese
+4432,44,Chai,18-Feb-99,Zinc
+4433,19,Chai,18-Feb-99,Copper
+4434,15,Chai,18-Feb-99,Chromium
+4435,13,Chai,18-Feb-99,Lead
+4436,"0,38",Chai,18-Feb-99,Cadmium
+4437,"4,37",Chai,18-Feb-99,Biochemical Oxygen
+4438,29,Chai,18-Feb-99,Chemical Oxygen Demand (Cr)
+4439,"7,48",Chai,18-Feb-99,Chemical Oxygen Demand (Mn)
+4440,"6,8",Chai,18-Feb-99,Total extractable matter
+4441,0,Chai,18-Feb-99,Anionic active surfactants
+4442,"0,06",Chai,18-Feb-99,"p,p-DDT"
+4443,"0,06",Chai,18-Feb-99,gamma-Hexachlorocyclohexane
+4444,"2,27",Chai,18-Feb-99,Macrozoobenthos
+4445,"5,4",Chai,18-Feb-99,Total coliforms
+4446,"0,95",Chai,18-Feb-99,Fecal coliforms
+4447,"0,0036",Chai,18-Feb-99,Fecal streptococci 
+4448,"5,9",Chai,18-Feb-99,Water temperature
+4449,"12,4",Chai,18-Feb-99,Dissolved oxygen
+4450,"186,05",Chai,18-Feb-99,Bicarbonates
+4451,"0,24",Chai,18-Feb-99,Ammonium
+4452,"0,01",Chai,18-Feb-99,Nitrites
+4453,"1,4",Chai,18-Feb-99,Nitrates
+4454,"0,06",Chai,18-Feb-99,Orthophosphate-phosphorus
+4455,"0,09",Chai,18-Feb-99,Total phosphorus
+4456,"19,9",Chai,18-Feb-99,Sodium
+4457,2,Chai,18-Feb-99,Potassium
+4458,"70,03",Chai,18-Feb-99,Calcium
+4459,"15,07",Chai,18-Feb-99,Magnesium
+4460,"35,5",Chai,18-Feb-99,Chlorides
+4461,"38,2",Chai,18-Feb-99,Sulphates
+4462,"0,95",Chai,18-Feb-99,Iron
+4463,"0,02",Chai,18-Feb-99,Manganese
+4464,15,Chai,18-Feb-99,Zinc
+4465,25,Chai,18-Feb-99,Copper
+4466,19,Chai,18-Feb-99,Chromium
+4467,22,Chai,18-Feb-99,Lead
+4468,1,Chai,18-Feb-99,Cadmium
+4469,"2,89",Chai,18-Feb-99,Biochemical Oxygen
+4470,18,Chai,18-Feb-99,Chemical Oxygen Demand (Cr)
+4471,"6,65",Chai,18-Feb-99,Chemical Oxygen Demand (Mn)
+4472,"10,8",Chai,18-Feb-99,Total extractable matter
+4473,0,Chai,18-Feb-99,Anionic active surfactants
+4474,"0,09",Chai,18-Feb-99,"p,p-DDT"
+4475,"0,02",Chai,18-Feb-99,gamma-Hexachlorocyclohexane
+4476,"2,07",Chai,18-Feb-99,Macrozoobenthos
+4477,"0,04",Chai,18-Feb-99,Total coliforms
+4478,"0,01",Chai,18-Feb-99,Fecal coliforms
+4479,"0,07",Chai,18-Feb-99,Fecal streptococci 
+4480,"5,9",Chai,18-Feb-99,Water temperature
+4481,"11,7",Chai,18-Feb-99,Dissolved oxygen
+4482,"192,15",Chai,18-Feb-99,Bicarbonates
+4483,"0,44",Chai,18-Feb-99,Ammonium
+4484,"0,01",Chai,18-Feb-99,Nitrites
+4485,"1,5",Chai,18-Feb-99,Nitrates
+4486,"0,1",Chai,18-Feb-99,Orthophosphate-phosphorus
+4487,"0,11",Chai,18-Feb-99,Total phosphorus
+4488,"19,8",Chai,18-Feb-99,Sodium
+4489,"2,2",Chai,18-Feb-99,Potassium
+4490,"70,03",Chai,18-Feb-99,Calcium
+4491,"15,07",Chai,18-Feb-99,Magnesium
+4492,"35,5",Chai,18-Feb-99,Chlorides
+4493,"38,2",Chai,18-Feb-99,Sulphates
+4494,"0,49",Chai,18-Feb-99,Iron
+4495,"0,02",Chai,18-Feb-99,Manganese
+4496,28,Chai,18-Feb-99,Zinc
+4497,22,Chai,18-Feb-99,Copper
+4498,13,Chai,18-Feb-99,Chromium
+4499,12,Chai,18-Feb-99,Lead
+4500,1,Chai,18-Feb-99,Cadmium
+4501,"2,89",Chai,18-Feb-99,Biochemical Oxygen
+4502,16,Chai,18-Feb-99,Chemical Oxygen Demand (Cr)
+4503,"6,15",Chai,18-Feb-99,Chemical Oxygen Demand (Mn)
+4504,10,Chai,18-Feb-99,Total extractable matter
+4505,0,Chai,18-Feb-99,Anionic active surfactants
+4506,"0,06",Chai,18-Feb-99,"p,p-DDT"
+4507,"0,01",Chai,18-Feb-99,gamma-Hexachlorocyclohexane
+4508,2,Chai,18-Feb-99,Macrozoobenthos
+4509,"0,04",Chai,18-Feb-99,Total coliforms
+4510,"0,0078",Chai,18-Feb-99,Fecal coliforms
+4511,"0,4",Somchair,20-Feb-99,Water temperature
+4512,"13,1",Somchair,20-Feb-99,Dissolved oxygen
+4513,"173,24",Somchair,20-Feb-99,Bicarbonates
+4514,"3,4",Somchair,20-Feb-99,Ammonium
+4515,"0,04",Somchair,20-Feb-99,Nitrites
+4516,"1,3",Somchair,20-Feb-99,Nitrates
+4517,"0,16",Somchair,20-Feb-99,Orthophosphate-phosphorus
+4518,"0,47",Somchair,20-Feb-99,Total phosphorus
+4519,"32,6",Somchair,20-Feb-99,Sodium
+4520,"6,8",Somchair,20-Feb-99,Potassium
+4521,"73,9",Somchair,20-Feb-99,Calcium
+4522,"30,64",Somchair,20-Feb-99,Magnesium
+4523,"56,8",Somchair,20-Feb-99,Chlorides
+4524,"85,59",Somchair,20-Feb-99,Sulphates
+4525,"2,29",Somchair,20-Feb-99,Iron
+4526,"0,21",Somchair,20-Feb-99,Manganese
+4527,16,Somchair,20-Feb-99,Zinc
+4528,57,Somchair,20-Feb-99,Copper
+4529,18,Somchair,20-Feb-99,Chromium
+4530,"1,78",Somchair,20-Feb-99,Cadmium
+4531,"7,07",Somchair,20-Feb-99,Biochemical Oxygen
+4532,65,Somchair,20-Feb-99,Chemical Oxygen Demand (Cr)
+4533,"12,6",Somchair,20-Feb-99,Chemical Oxygen Demand (Mn)
+4534,"0,02",Somchair,20-Feb-99,Anionic active surfactants
+4535,"0,03",Somchair,20-Feb-99,"p,p-DDT"
+4536,"0,04",Somchair,20-Feb-99,gamma-Hexachlorocyclohexane
+4537,"2,45",Somchair,20-Feb-99,Macrozoobenthos
+4538,"0,54",Somchair,20-Feb-99,Total coliforms
+4539,"0,13",Somchair,20-Feb-99,Fecal coliforms
+4540,"0,04",Somchair,20-Feb-99,Fecal streptococci 
+4541,3,Busarakhan,20-Feb-99,Water temperature
+4542,"14,4",Busarakhan,20-Feb-99,Dissolved oxygen
+4543,"222,65",Busarakhan,20-Feb-99,Bicarbonates
+4544,"0,55",Busarakhan,20-Feb-99,Ammonium
+4545,"0,04",Busarakhan,20-Feb-99,Nitrites
+4546,"1,8",Busarakhan,20-Feb-99,Nitrates
+4547,"0,09",Busarakhan,20-Feb-99,Orthophosphate-phosphorus
+4548,"0,15",Busarakhan,20-Feb-99,Total phosphorus
+4549,"54,4",Busarakhan,20-Feb-99,Sodium
+4550,"14,5",Busarakhan,20-Feb-99,Potassium
+4551,"66,14",Busarakhan,20-Feb-99,Calcium
+4552,"42,31",Busarakhan,20-Feb-99,Magnesium
+4553,"78,1",Busarakhan,20-Feb-99,Chlorides
+4554,"104,5",Busarakhan,20-Feb-99,Sulphates
+4555,"0,72",Busarakhan,20-Feb-99,Iron
+4556,"0,08",Busarakhan,20-Feb-99,Manganese
+4557,29,Busarakhan,20-Feb-99,Zinc
+4558,19,Busarakhan,20-Feb-99,Copper
+4559,13,Busarakhan,20-Feb-99,Chromium
+4560,"26,5",Busarakhan,20-Feb-99,Cadmium
+4561,"4,93",Busarakhan,20-Feb-99,Biochemical Oxygen
+4562,31,Busarakhan,20-Feb-99,Chemical Oxygen Demand (Cr)
+4563,"7,64",Busarakhan,20-Feb-99,Chemical Oxygen Demand (Mn)
+4564,0,Busarakhan,20-Feb-99,Anionic active surfactants
+4565,"0,05",Busarakhan,20-Feb-99,"p,p-DDT"
+4566,"0,03",Busarakhan,20-Feb-99,gamma-Hexachlorocyclohexane
+4567,"2,5",Busarakhan,20-Feb-99,Macrozoobenthos
+4568,"0,33",Busarakhan,20-Feb-99,Total coliforms
+4569,"0,02",Busarakhan,20-Feb-99,Fecal coliforms
+4570,"0,0045",Busarakhan,20-Feb-99,Fecal streptococci 
+4571,"5,5",Kannika,26-Feb-99,Water temperature
+4572,"9,1",Kannika,26-Feb-99,Dissolved oxygen
+4573,"237,9",Kannika,26-Feb-99,Bicarbonates
+4574,"0,93",Kannika,26-Feb-99,Ammonium
+4575,"0,05",Kannika,26-Feb-99,Nitrites
+4576,"1,53",Kannika,26-Feb-99,Nitrates
+4577,"0,01",Kannika,26-Feb-99,Orthophosphate-phosphorus
+4578,"0,03",Kannika,26-Feb-99,Total phosphorus
+4579,"24,98",Kannika,26-Feb-99,Sodium
+4580,"3,1",Kannika,26-Feb-99,Potassium
+4581,"66,86",Kannika,26-Feb-99,Calcium
+4582,"15,56",Kannika,26-Feb-99,Magnesium
+4583,"34,74",Kannika,26-Feb-99,Chlorides
+4584,"68,65",Kannika,26-Feb-99,Sulphates
+4585,"0,99",Kannika,26-Feb-99,Iron
+4586,"0,07",Kannika,26-Feb-99,Manganese
+4587,90,Kannika,26-Feb-99,Zinc
+4588,24,Kannika,26-Feb-99,Copper
+4589,14,Kannika,26-Feb-99,Chromium
+4590,6,Kannika,26-Feb-99,Lead
+4591,"8,62",Kannika,26-Feb-99,Cadmium
+4592,"2,89",Kannika,26-Feb-99,Biochemical Oxygen
+4593,10,Kannika,26-Feb-99,Chemical Oxygen Demand (Cr)
+4594,"5,43",Kannika,26-Feb-99,Chemical Oxygen Demand (Mn)
+4595,"0,18",Kannika,26-Feb-99,Anionic active surfactants
+4596,"0,03",Kannika,26-Feb-99,"p,p-DDT"
+4597,"0,04",Kannika,26-Feb-99,gamma-Hexachlorocyclohexane
+4598,"0,01",Kannika,26-Feb-99,Total coliforms
+4599,"0,0045",Kannika,26-Feb-99,Fecal coliforms
+4600,"5,5",Kannika,26-Feb-99,Water temperature
+4601,"8,9",Kannika,26-Feb-99,Dissolved oxygen
+4602,"234,85",Kannika,26-Feb-99,Bicarbonates
+4603,"0,91",Kannika,26-Feb-99,Ammonium
+4604,"0,05",Kannika,26-Feb-99,Nitrites
+4605,"1,53",Kannika,26-Feb-99,Nitrates
+4606,"0,02",Kannika,26-Feb-99,Orthophosphate-phosphorus
+4607,"0,03",Kannika,26-Feb-99,Total phosphorus
+4608,"24,41",Kannika,26-Feb-99,Sodium
+4609,"3,05",Kannika,26-Feb-99,Potassium
+4610,"69,97",Kannika,26-Feb-99,Calcium
+4611,"14,15",Kannika,26-Feb-99,Magnesium
+4612,"34,74",Kannika,26-Feb-99,Chlorides
+4613,"74,69",Kannika,26-Feb-99,Sulphates
+4614,"1,11",Kannika,26-Feb-99,Iron
+4615,"0,09",Kannika,26-Feb-99,Manganese
+4616,69,Kannika,26-Feb-99,Zinc
+4617,29,Kannika,26-Feb-99,Copper
+4618,29,Kannika,26-Feb-99,Chromium
+4619,11,Kannika,26-Feb-99,Lead
+4620,1,Kannika,26-Feb-99,Cadmium
+4621,"2,73",Kannika,26-Feb-99,Biochemical Oxygen
+4622,12,Kannika,26-Feb-99,Chemical Oxygen Demand (Cr)
+4623,"5,27",Kannika,26-Feb-99,Chemical Oxygen Demand (Mn)
+4624,"0,17",Kannika,26-Feb-99,Anionic active surfactants
+4625,"0,03",Kannika,26-Feb-99,"p,p-DDT"
+4626,"0,04",Kannika,26-Feb-99,gamma-Hexachlorocyclohexane
+4627,"0,01",Kannika,26-Feb-99,Total coliforms
+4628,"0,01",Kannika,26-Feb-99,Fecal coliforms
+4629,9,Kannika,26-Feb-99,Water temperature
+4630,"8,9",Kannika,26-Feb-99,Dissolved oxygen
+4631,"237,92",Kannika,26-Feb-99,Bicarbonates
+4632,"0,98",Kannika,26-Feb-99,Ammonium
+4633,"0,05",Kannika,26-Feb-99,Nitrites
+4634,"1,57",Kannika,26-Feb-99,Nitrates
+4635,"0,02",Kannika,26-Feb-99,Orthophosphate-phosphorus
+4636,"0,03",Kannika,26-Feb-99,Total phosphorus
+4637,"24,95",Kannika,26-Feb-99,Sodium
+4638,"3,1",Kannika,26-Feb-99,Potassium
+4639,"68,42",Kannika,26-Feb-99,Calcium
+4640,"16,04",Kannika,26-Feb-99,Magnesium
+4641,"35,45",Kannika,26-Feb-99,Chlorides
+4642,"74,69",Kannika,26-Feb-99,Sulphates
+4643,"0,83",Kannika,26-Feb-99,Iron
+4644,"0,06",Kannika,26-Feb-99,Manganese
+4645,38,Kannika,26-Feb-99,Zinc
+4646,21,Kannika,26-Feb-99,Copper
+4647,11,Kannika,26-Feb-99,Chromium
+4648,"13,27",Kannika,26-Feb-99,Cadmium
+4649,"2,56",Kannika,26-Feb-99,Biochemical Oxygen
+4650,11,Kannika,26-Feb-99,Chemical Oxygen Demand (Cr)
+4651,"5,11",Kannika,26-Feb-99,Chemical Oxygen Demand (Mn)
+4652,"0,18",Kannika,26-Feb-99,Anionic active surfactants
+4653,"0,02",Kannika,26-Feb-99,"p,p-DDT"
+4654,"0,008",Kannika,26-Feb-99,gamma-Hexachlorocyclohexane
+4655,"0,06",Kannika,26-Feb-99,Total coliforms
+4656,8,Sakda,27-Feb-99,Water temperature
+4657,"8,7",Sakda,27-Feb-99,Dissolved oxygen
+4658,"240,95",Sakda,27-Feb-99,Bicarbonates
+4659,"0,66",Sakda,27-Feb-99,Ammonium
+4660,"0,04",Sakda,27-Feb-99,Nitrites
+4661,"1,62",Sakda,27-Feb-99,Nitrates
+4662,"0,01",Sakda,27-Feb-99,Orthophosphate-phosphorus
+4663,"0,01",Sakda,27-Feb-99,Total phosphorus
+4664,"23,85",Sakda,27-Feb-99,Sodium
+4665,"3,35",Sakda,27-Feb-99,Potassium
+4666,"69,2",Sakda,27-Feb-99,Calcium
+4667,"14,62",Sakda,27-Feb-99,Magnesium
+4668,"34,03",Sakda,27-Feb-99,Chlorides
+4669,"72,53",Sakda,27-Feb-99,Sulphates
+4670,"0,82",Sakda,27-Feb-99,Iron
+4671,"0,05",Sakda,27-Feb-99,Manganese
+4672,10,Sakda,27-Feb-99,Zinc
+4673,22,Sakda,27-Feb-99,Copper
+4674,14,Sakda,27-Feb-99,Chromium
+4675,14,Sakda,27-Feb-99,Lead
+4676,1,Sakda,27-Feb-99,Cadmium
+4677,"3,36",Sakda,27-Feb-99,Biochemical Oxygen
+4678,12,Sakda,27-Feb-99,Chemical Oxygen Demand (Cr)
+4679,"4,95",Sakda,27-Feb-99,Chemical Oxygen Demand (Mn)
+4680,"0,18",Sakda,27-Feb-99,Anionic active surfactants
+4681,"0,04",Sakda,27-Feb-99,"p,p-DDT"
+4682,"0,01",Sakda,27-Feb-99,gamma-Hexachlorocyclohexane
+4683,"0,02",Sakda,27-Feb-99,Total coliforms
+4684,"0,01",Sakda,27-Feb-99,Fecal coliforms
+4685,"0,002",Sakda,27-Feb-99,Fecal streptococci 
+4686,8,Sakda,27-Feb-99,Water temperature
+4687,9,Sakda,27-Feb-99,Dissolved oxygen
+4688,"237,9",Sakda,27-Feb-99,Bicarbonates
+4689,"0,65",Sakda,27-Feb-99,Ammonium
+4690,"0,04",Sakda,27-Feb-99,Nitrites
+4691,"1,59",Sakda,27-Feb-99,Nitrates
+4692,"0,009",Sakda,27-Feb-99,Orthophosphate-phosphorus
+4693,"0,01",Sakda,27-Feb-99,Total phosphorus
+4694,"23,85",Sakda,27-Feb-99,Sodium
+4695,"3,3",Sakda,27-Feb-99,Potassium
+4696,"67,64",Sakda,27-Feb-99,Calcium
+4697,"16,04",Sakda,27-Feb-99,Magnesium
+4698,"33,68",Sakda,27-Feb-99,Chlorides
+4699,"71,05",Sakda,27-Feb-99,Sulphates
+4700,"0,56",Sakda,27-Feb-99,Iron
+4701,"0,05",Sakda,27-Feb-99,Manganese
+4702,18,Sakda,27-Feb-99,Zinc
+4703,25,Sakda,27-Feb-99,Copper
+4704,18,Sakda,27-Feb-99,Chromium
+4705,4,Sakda,27-Feb-99,Lead
+4706,1,Sakda,27-Feb-99,Cadmium
+4707,"3,53",Sakda,27-Feb-99,Biochemical Oxygen
+4708,11,Sakda,27-Feb-99,Chemical Oxygen Demand (Cr)
+4709,"5,11",Sakda,27-Feb-99,Chemical Oxygen Demand (Mn)
+4710,"0,18",Sakda,27-Feb-99,Anionic active surfactants
+4711,"0,03",Sakda,27-Feb-99,"p,p-DDT"
+4712,"0,01",Sakda,27-Feb-99,gamma-Hexachlorocyclohexane
+4713,"0,03",Sakda,27-Feb-99,Total coliforms
+4714,"0,01",Sakda,27-Feb-99,Fecal coliforms
+4715,"0,0045",Sakda,27-Feb-99,Fecal streptococci 
+4716,8,Sakda,27-Feb-99,Water temperature
+4717,"8,3",Sakda,27-Feb-99,Dissolved oxygen
+4718,"237,9",Sakda,27-Feb-99,Bicarbonates
+4719,"0,65",Sakda,27-Feb-99,Ammonium
+4720,"0,04",Sakda,27-Feb-99,Nitrites
+4721,"1,66",Sakda,27-Feb-99,Nitrates
+4722,"0,01",Sakda,27-Feb-99,Orthophosphate-phosphorus
+4723,"0,02",Sakda,27-Feb-99,Total phosphorus
+4724,"24,41",Sakda,27-Feb-99,Sodium
+4725,"3,3",Sakda,27-Feb-99,Potassium
+4726,"68,42",Sakda,27-Feb-99,Calcium
+4727,"15,09",Sakda,27-Feb-99,Magnesium
+4728,"34,03",Sakda,27-Feb-99,Chlorides
+4729,"78,05",Sakda,27-Feb-99,Sulphates
+4730,"0,76",Sakda,27-Feb-99,Iron
+4731,"0,05",Sakda,27-Feb-99,Manganese
+4732,61,Sakda,27-Feb-99,Zinc
+4733,37,Sakda,27-Feb-99,Copper
+4734,15,Sakda,27-Feb-99,Chromium
+4735,10,Sakda,27-Feb-99,Lead
+4736,1,Sakda,27-Feb-99,Cadmium
+4737,"2,89",Sakda,27-Feb-99,Biochemical Oxygen
+4738,10,Sakda,27-Feb-99,Chemical Oxygen Demand (Cr)
+4739,"4,79",Sakda,27-Feb-99,Chemical Oxygen Demand (Mn)
+4740,"0,18",Sakda,27-Feb-99,Anionic active surfactants
+4741,"0,04",Sakda,27-Feb-99,"p,p-DDT"
+4742,"0,01",Sakda,27-Feb-99,gamma-Hexachlorocyclohexane
+4743,"0,0045",Sakda,27-Feb-99,Total coliforms
+4744,"5,8",Boonsri,11-Mar-99,Water temperature
+4745,"10,8",Boonsri,11-Mar-99,Dissolved oxygen
+4746,"158,6",Boonsri,11-Mar-99,Bicarbonates
+4747,"0,59",Boonsri,11-Mar-99,Ammonium
+4748,"0,03",Boonsri,11-Mar-99,Nitrites
+4749,"1,82",Boonsri,11-Mar-99,Nitrates
+4750,"0,04",Boonsri,11-Mar-99,Orthophosphate-phosphorus
+4751,"0,07",Boonsri,11-Mar-99,Total phosphorus
+4752,"12,5",Boonsri,11-Mar-99,Sodium
+4753,"2,5",Boonsri,11-Mar-99,Potassium
+4754,"59,63",Boonsri,11-Mar-99,Calcium
+4755,"10,67",Boonsri,11-Mar-99,Magnesium
+4756,"22,36",Boonsri,11-Mar-99,Chlorides
+4757,"41,8",Boonsri,11-Mar-99,Sulphates
+4758,"0,58",Boonsri,11-Mar-99,Iron
+4759,"0,03",Boonsri,11-Mar-99,Manganese
+4760,58,Boonsri,11-Mar-99,Zinc
+4761,19,Boonsri,11-Mar-99,Copper
+4762,8,Boonsri,11-Mar-99,Chromium
+4763,1,Boonsri,11-Mar-99,Lead
+4764,1,Boonsri,11-Mar-99,Cadmium
+4765,"6,81",Boonsri,11-Mar-99,Biochemical Oxygen
+4766,"16,8",Boonsri,11-Mar-99,Chemical Oxygen Demand (Cr)
+4767,"9,12",Boonsri,11-Mar-99,Chemical Oxygen Demand (Mn)
+4768,"0,0022",Boonsri,11-Mar-99,"p,p-DDT"
+4769,"0,01",Boonsri,11-Mar-99,gamma-Hexachlorocyclohexane
+4770,"1,8",Boonsri,11-Mar-99,Macrozoobenthos
+4771,"0,54",Boonsri,11-Mar-99,Total coliforms
+4772,"0,14",Boonsri,11-Mar-99,Fecal coliforms
+4773,"0,0078",Boonsri,11-Mar-99,Fecal streptococci 
+4774,"5,4",Boonsri,11-Mar-99,Water temperature
+4775,"10,6",Boonsri,11-Mar-99,Dissolved oxygen
+4776,"164,7",Boonsri,11-Mar-99,Bicarbonates
+4777,"0,51",Boonsri,11-Mar-99,Ammonium
+4778,"0,03",Boonsri,11-Mar-99,Nitrites
+4779,"0,94",Boonsri,11-Mar-99,Nitrates
+4780,"0,03",Boonsri,11-Mar-99,Orthophosphate-phosphorus
+4781,"0,07",Boonsri,11-Mar-99,Total phosphorus
+4782,"12,8",Boonsri,11-Mar-99,Sodium
+4783,"2,8",Boonsri,11-Mar-99,Potassium
+4784,"57,87",Boonsri,11-Mar-99,Calcium
+4785,"10,67",Boonsri,11-Mar-99,Magnesium
+4786,"21,65",Boonsri,11-Mar-99,Chlorides
+4787,"37,6",Boonsri,11-Mar-99,Sulphates
+4788,"0,83",Boonsri,11-Mar-99,Iron
+4789,"0,07",Boonsri,11-Mar-99,Manganese
+4790,43,Boonsri,11-Mar-99,Zinc
+4791,29,Boonsri,11-Mar-99,Copper
+4792,3,Boonsri,11-Mar-99,Chromium
+4793,11,Boonsri,11-Mar-99,Lead
+4794,"7,6",Boonsri,11-Mar-99,Cadmium
+4795,"7,11",Boonsri,11-Mar-99,Biochemical Oxygen
+4796,"15,1",Boonsri,11-Mar-99,Chemical Oxygen Demand (Cr)
+4797,"8,73",Boonsri,11-Mar-99,Chemical Oxygen Demand (Mn)
+4798,"0,02",Boonsri,11-Mar-99,"p,p-DDT"
+4799,"0,08",Boonsri,11-Mar-99,gamma-Hexachlorocyclohexane
+4800,2,Boonsri,11-Mar-99,Macrozoobenthos
+4801,"5,6",Boonsri,11-Mar-99,Water temperature
+4802,"10,7",Boonsri,11-Mar-99,Dissolved oxygen
+4803,"158,6",Boonsri,11-Mar-99,Bicarbonates
+4804,"0,58",Boonsri,11-Mar-99,Ammonium
+4805,"0,03",Boonsri,11-Mar-99,Nitrites
+4806,"1,39",Boonsri,11-Mar-99,Nitrates
+4807,"0,04",Boonsri,11-Mar-99,Orthophosphate-phosphorus
+4808,"0,07",Boonsri,11-Mar-99,Total phosphorus
+4809,"12,5",Boonsri,11-Mar-99,Sodium
+4810,"2,5",Boonsri,11-Mar-99,Potassium
+4811,"59,63",Boonsri,11-Mar-99,Calcium
+4812,"10,67",Boonsri,11-Mar-99,Magnesium
+4813,"22,01",Boonsri,11-Mar-99,Chlorides
+4814,"42,1",Boonsri,11-Mar-99,Sulphates
+4815,"0,85",Boonsri,11-Mar-99,Iron
+4816,"0,07",Boonsri,11-Mar-99,Manganese
+4817,62,Boonsri,11-Mar-99,Zinc
+4818,60,Boonsri,11-Mar-99,Copper
+4819,4,Boonsri,11-Mar-99,Chromium
+4820,10,Boonsri,11-Mar-99,Lead
+4821,"1,8",Boonsri,11-Mar-99,Cadmium
+4822,"6,58",Boonsri,11-Mar-99,Biochemical Oxygen
+4823,"15,6",Boonsri,11-Mar-99,Chemical Oxygen Demand (Cr)
+4824,"8,73",Boonsri,11-Mar-99,Chemical Oxygen Demand (Mn)
+4825,"0,02",Boonsri,11-Mar-99,"p,p-DDT"
+4826,"0,01",Boonsri,11-Mar-99,gamma-Hexachlorocyclohexane
+4827,"1,7",Boonsri,11-Mar-99,Macrozoobenthos
+4828,"8,2",Kohsoom,13-Mar-99,Water temperature
+4829,"9,7",Kohsoom,13-Mar-99,Dissolved oxygen
+4830,189,Kohsoom,13-Mar-99,Bicarbonates
+4831,"0,24",Kohsoom,13-Mar-99,Ammonium
+4832,"0,06",Kohsoom,13-Mar-99,Nitrites
+4833,"3,6",Kohsoom,13-Mar-99,Nitrates
+4834,"0,1",Kohsoom,13-Mar-99,Orthophosphate-phosphorus
+4835,"0,19",Kohsoom,13-Mar-99,Total phosphorus
+4836,"39,6",Kohsoom,13-Mar-99,Sodium
+4837,"7,2",Kohsoom,13-Mar-99,Potassium
+4838,66,Kohsoom,13-Mar-99,Calcium
+4839,"19,2",Kohsoom,13-Mar-99,Magnesium
+4840,68,Kohsoom,13-Mar-99,Chlorides
+4841,72,Kohsoom,13-Mar-99,Sulphates
+4842,"0,67",Kohsoom,13-Mar-99,Iron
+4843,"0,11",Kohsoom,13-Mar-99,Manganese
+4844,29,Kohsoom,13-Mar-99,Zinc
+4845,18,Kohsoom,13-Mar-99,Copper
+4846,"8,6",Kohsoom,13-Mar-99,Chromium
+4847,7,Kohsoom,13-Mar-99,Lead
+4848,"13,27",Kohsoom,13-Mar-99,Cadmium
+4849,"5,2",Kohsoom,13-Mar-99,Biochemical Oxygen
+4850,"15,4",Kohsoom,13-Mar-99,Chemical Oxygen Demand (Cr)
+4851,"8,6",Kohsoom,13-Mar-99,Chemical Oxygen Demand (Mn)
+4852,"0,1",Kohsoom,13-Mar-99,Total extractable matter
+4853,"0,23",Kohsoom,13-Mar-99,"p,p-DDT"
+4854,"0,01",Kohsoom,13-Mar-99,gamma-Hexachlorocyclohexane
+4855,"2,3",Kohsoom,13-Mar-99,Macrozoobenthos
+4856,35,Kohsoom,13-Mar-99,Total coliforms
+4857,16,Kohsoom,13-Mar-99,Fecal coliforms
+4858,"0,33",Kohsoom,13-Mar-99,Fecal streptococci 
+4859,"7,5",Chai,17-Mar-99,Water temperature
+4860,"9,5",Chai,17-Mar-99,Dissolved oxygen
+4861,"198,86",Chai,17-Mar-99,Bicarbonates
+4862,"0,12",Chai,17-Mar-99,Ammonium
+4863,"0,01",Chai,17-Mar-99,Nitrites
+4864,"1,5",Chai,17-Mar-99,Nitrates
+4865,"0,11",Chai,17-Mar-99,Orthophosphate-phosphorus
+4866,"0,15",Chai,17-Mar-99,Total phosphorus
+4867,"29,8",Chai,17-Mar-99,Sodium
+4868,"5,8",Chai,17-Mar-99,Potassium
+4869,"66,14",Chai,17-Mar-99,Calcium
+4870,"23,59",Chai,17-Mar-99,Magnesium
+4871,"49,7",Chai,17-Mar-99,Chlorides
+4872,"41,97",Chai,17-Mar-99,Sulphates
+4873,"0,52",Chai,17-Mar-99,Iron
+4874,"0,01",Chai,17-Mar-99,Manganese
+4875,36,Chai,17-Mar-99,Zinc
+4876,43,Chai,17-Mar-99,Copper
+4877,3,Chai,17-Mar-99,Chromium
+4878,14,Chai,17-Mar-99,Lead
+4879,"1,46",Chai,17-Mar-99,Cadmium
+4880,3,Chai,17-Mar-99,Biochemical Oxygen
+4881,16,Chai,17-Mar-99,Chemical Oxygen Demand (Cr)
+4882,"6,16",Chai,17-Mar-99,Chemical Oxygen Demand (Mn)
+4883,"0,03",Chai,17-Mar-99,Anionic active surfactants
+4884,"0,55",Chai,17-Mar-99,"p,p-DDT"
+4885,"0,02",Chai,17-Mar-99,gamma-Hexachlorocyclohexane
+4886,"2,03",Chai,17-Mar-99,Macrozoobenthos
